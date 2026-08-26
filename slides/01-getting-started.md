@@ -1979,13 +1979,13 @@ Things social psychology has learned about people and largely agrees on.
 
 <!-- slide -->
 ## Sources and license
-**Anchor reading.** Facts and findings in this document are drawn from Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press — https://doi.org/10.70400/NYKH3013 — published open access under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). Cited as a source of facts and findings; no text or figures adapted. This document is licensed CC BY-SA 4.0.
+**Anchor reading.** 
 
-Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* https://doi.org/10.70400/DCSX1997
-
-Other Sources:
+Miller, D. T., & Laurin, K. (2025). History of social psychology: Four enduring tensions. In Gilbert, Fiske, Finkel, & Mendes (Eds.), *The Handbook of Social Psychology* (6th ed.), Situational Press. https://doi.org/10.70400/DCSX1997
 Finkel, E. J., & Baumeister, R. F. (2019). *Social psychology: Crisis and renaissance.* Oxford University Press.
-Ross, L., Lepper, M., & Ward, A. (2010), *History of social psychology*, Handbook of Social Psychology (5th ed., Vol. 1, pp. 3–50), Wiley <!-- slide -->\n## New slide\n'];
+Ross, L., Lepper, M., & Ward, A. (2010), *History of social psychology*, Handbook of Social Psychology (5th ed., Vol. 1, pp. 3–50), Wiley 
+
+This document is licensed CC BY-SA 4.0.<!-- slide -->\n## New slide\n'];
   }
   function writeDeck() {
     var el = document.getElementById('orz-deck');
