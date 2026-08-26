@@ -1,10 +1,12 @@
 <!-- deck
 title: Intro to Advanced social psychology · Slides
 ratio: 16:9
+
+theme: paper
 -->
 
 <!-- slide template=title -->
-# Intro to Advanced social psychology · Slides
+# Advanced social psychology · Slides
 ## <subtitle>
 **<your name>**
 
