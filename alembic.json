@@ -18,7 +18,8 @@
   "unitTerm": "module",
   "theme": "light-neat-3",
   "themes": {
-    "slides": "paper"
+    "slides": "paper",
+    "practice": "light-neat-3"
   },
   "createdAt": "2026-08-26T18:34:16.982Z"
 }
