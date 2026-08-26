@@ -2,7 +2,7 @@
 
 ::: info
 **Reference:** Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* In *The Handbook of Social Psychology* (6th ed.), Situational Press (CC BY-NC-ND 4.0). https://doi.org/10.70400/DCSX1997
-**How to use this sheet:** these are the pre-seminar discussion questions for Module 1. Work them before class; the model answers show the *shape* of a strong response, not the only acceptable one. Objective tags map to `assessment-support/intro-social-psychology.md`.
+
 **Package license:** CC-BY-SA-4.0
 :::
 
@@ -10,7 +10,7 @@
 **Objective coverage.** Q1–Q2 → Objective 1.1a · Q3–Q5 → Objective 1.2a · Q6–Q8 → Objective 1.3a · Q9–Q11 → Objective 1.4a · Q12–Q13 → Objective 1.5a · Q14–Q15 → Objective 1.6a · Q16–Q17 → Objective 1.7a · Q18–Q19 → Objective 1.8a
 :::
 
-## Section 1.1 — What social psychology studies{{attrs[#blk-8dex2hwk0onv]}}
+## Section 1.1 — What social psychology studies{{attrs[#blk-5om4ks3r2mtf]}}
 
 :::: tabs
 ::: tab Q 1
@@ -82,7 +82,7 @@ that lets both be partly right.
 :::
 ::::
 
-## Section 1.2 — A field defined by its arguments{{attrs[#blk-6mfhupocsdhh]}}
+## Section 1.2 — A field defined by its arguments{{attrs[#blk-1skerehzd1lm]}}
 
 :::: tabs
 ::: tab Q 3
@@ -160,7 +160,7 @@ when it adopted Festinger's.
 :::
 ::::
 
-## Section 1.3 — How the experiment came to dominate{{attrs[#blk-ilsckna58mb7]}}
+## Section 1.3 — How the experiment came to dominate{{attrs[#blk-6eledke9es0r]}}
 
 :::: tabs
 ::: tab Q 6
@@ -246,7 +246,7 @@ a reason to dismiss.
 :::
 ::::
 
-## Section 1.4 — Particularism versus universalism{{attrs[#blk-e5pl2kshqy9c]}}
+## Section 1.4 — Particularism versus universalism{{attrs[#blk-kydyh4hdpkei]}}
 
 :::: tabs
 ::: tab Q 9
@@ -333,7 +333,7 @@ is why cultural psychology could later challenge assumed universality without ab
 :::
 ::::
 
-## Section 1.5 — Social context versus the individual{{attrs[#blk-c22j1fjxvr6l]}}
+## Section 1.5 — Social context versus the individual{{attrs[#blk-a99objgxnt4j]}}
 
 :::: tabs
 ::: tab Q 12
@@ -391,7 +391,7 @@ groups are causal forces from which individuals cannot be cleanly separated.
 :::
 ::::
 
-## Section 1.6 — Rationality versus irrationality{{attrs[#blk-oyz8nb0uvsvc]}}
+## Section 1.6 — Rationality versus irrationality{{attrs[#blk-1127tu8g63xv]}}
 
 :::: tabs
 ::: tab Q 14
@@ -454,7 +454,7 @@ module's third tension recycles a critique from its first is a sign the tension 
 :::
 ::::
 
-## Section 1.7 — The dispassionate scientist versus the value-driven advocate{{attrs[#blk-mon9dw4t50pn]}}
+## Section 1.7 — The dispassionate scientist versus the value-driven advocate{{attrs[#blk-cvdte9kjlm5d]}}
 
 :::: tabs
 ::: tab Q 16
@@ -517,7 +517,7 @@ knowledge untouched is a comfortable illusion rather than an accurate account of
 :::
 ::::
 
-## Section 1.8 — The other lens{{attrs[#blk-93s7rh9l2lx7]}}
+## Section 1.8 — The other lens{{attrs[#blk-akujbxslnmmk]}}
 
 :::: tabs
 ::: tab Q 18
