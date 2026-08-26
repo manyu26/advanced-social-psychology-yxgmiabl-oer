@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "packageId": "pkg-advanced-social-psychology-yxgmiabl",
+  "title": "Advanced social psychology",
+  "description": "",
+  "keywords": [],
+  "discipline": "chemistry",
+  "courseContext": {},
+  "license": "CC-BY-4.0",
+  "unitTerm": "module",
+  "createdAt": "2026-08-26T18:34:16.982Z",
+  "publicRepo": {
+    "owner": "manyu26",
+    "name": "advanced-social-psychology-yxgmiabl-oer"
+  },
+  "privateRepo": {
+    "owner": "manyu26",
+    "name": "advanced-social-psychology-yxgmiabl-private"
+  }
+}
