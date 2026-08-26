@@ -14,7 +14,7 @@
 - Compare the four-tensions lens with Ross, Lepper and Ward's themes-and-pillars lens, and say what each makes visible that the other does not.
 :::
 
-## Module Logic{{attrs[#blk-ys4qrlri5hst]}}
+## Module Logic{{attrs[#blk-frg435tvx87r]}}
 
 This module supplies the frame for everything that follows. It does three things in order: says what social
 psychology studies, sketches how the field arrived at its present shape, and then works through four
@@ -51,7 +51,7 @@ to the present and because the ebb and flow of each is itself informative. Treat
 not a complete inventory of what social psychology has argued about. Section 1.8 gives a rival selection.
 :::
 
-## 1.1 What Social Psychology Studies{{attrs[#blk-pquvdfgqjzj1]}}
+## 1.1 What Social Psychology Studies{{attrs[#blk-wp22heweevr1]}}
 
 ::: success
 **Learning Objectives**
@@ -96,7 +96,7 @@ question; whether they are an information seeker or a foolish mistake maker is a
 - Give an example where *implied* presence changes behavior with no one actually there.
 - Which two of Baumeister's models are hardest to hold at the same time, and why?
 
-## 1.2 A Field Defined by Its Arguments{{attrs[#blk-gqe8upmr9xws]}}
+## 1.2 A Field Defined by Its Arguments{{attrs[#blk-u1b0ewtuxk3i]}}
 
 ::: success
 **Learning Objectives**
@@ -136,7 +136,7 @@ on, and do they know they have taken a side?
 - Why might a history organized around unresolved disagreements be more useful to a new researcher than one organized around discoveries?
 - What would it take for one of these four tensions to genuinely close?
 
-## 1.3 A Short History, and How the Experiment Came to Dominate{{attrs[#blk-dk4uvfx02w8d]}}
+## 1.3 A Short History, and How the Experiment Came to Dominate{{attrs[#blk-slacj1f68x81]}}
 
 ::: success
 **Learning Objectives**
@@ -275,7 +275,7 @@ discovered — which is not an argument that it was the wrong choice.
 - Why does the fifty-year gap between Triplett's experiment and the field's experimental turn matter for the argument?
 - If Lewin rather than Festinger had prevailed, what might a typical study in this field look like today?
 
-## 1.4 Tension 1 — Particularism Versus Universalism{{attrs[#blk-s6qyzanp3q6x]}}
+## 1.4 Tension 1 — Particularism Versus Universalism{{attrs[#blk-aby5np6xwtc1]}}
 
 ::: success
 **Learning Objectives**
@@ -328,7 +328,7 @@ rebuttal that answers one leaves the others standing.
 - Give an example where an experiment has high external validity in the narrow sense but says nothing about human universals.
 - Gergen's critique is fifty years old. What in Module 2's material is its direct descendant?
 
-## 1.5 Tension 2 — Social Context Versus the Individual{{attrs[#blk-8i3o20wz5aad]}}
+## 1.5 Tension 2 — Social Context Versus the Individual{{attrs[#blk-6bfl13f4hbnp]}}
 
 ::: success
 **Learning Objectives**
@@ -378,7 +378,7 @@ the chapter's own framing — that experiments have not become less individualis
 - What is the difference between a theory that mentions groups and a research design that treats the group as the unit of explanation?
 - Cattaneo, Wundt and Ross all offered group-level definitions before 1910. What does it mean that the field went the other way?
 
-## 1.6 Tension 3 — Rationality Versus Irrationality{{attrs[#blk-zntmfa34csh7]}}
+## 1.6 Tension 3 — Rationality Versus Irrationality{{attrs[#blk-hmniyyc6a30h]}}
 
 ::: success
 **Learning Objectives**
@@ -428,7 +428,7 @@ critique made in §1.4, arriving from a different direction.
 - Construct an example of a biased outcome produced by a well-adapted process.
 - Does the mere exposure effect show irrationality of outcome, of process, or neither?
 
-## 1.7 Tension 4 — The Dispassionate Scientist Versus the Value-Driven Advocate{{attrs[#blk-cztjx09do8zh]}}
+## 1.7 Tension 4 — The Dispassionate Scientist Versus the Value-Driven Advocate{{attrs[#blk-fg4zoy132vup]}}
 
 ::: success
 **Learning Objectives**
@@ -488,7 +488,7 @@ we believe values play no part in shaping what scientific knowledge looks like.
 - Which of the three forms of the values debate is at issue when a journalist reports a psychological finding as settled policy guidance?
 - Ethics review shifted the field toward self-report. Name one thing that became harder to study as a result.
 
-## 1.8 The Other Lens: Themes and Pillars{{attrs[#blk-t1a9ynuforgt]}}
+## 1.8 The Other Lens: Themes and Pillars{{attrs[#blk-fnycfiqzbx8l]}}
 
 ::: success
 **Learning Objectives**
@@ -558,7 +558,7 @@ best evidence for Miller and Laurin's claim that a history is made by its lens.
 - Take one of the four pillars and say which tension it sits inside, and on which side.
 - If you were writing the seventh edition's history, what lens would you choose, and what would it cost you?
 
-## Synthesis{{attrs[#blk-qdaur72x0jcz]}}
+## Synthesis{{attrs[#blk-52aqrpw3dlsl]}}
 
 One thread runs through all four tensions: **social psychology's methods and its claims about human nature
 were built together, and neither can be evaluated without the other.** Allport's narrowed definition made the
@@ -582,7 +582,7 @@ design take; is the explanation located in the person because the evidence put i
 did; and what does the author want this finding to change in the world? Module 2 takes the first of these up
 directly.
 
-## Asset and License Record for This Module{{attrs[#blk-0qhmm7kn38bs]}}
+## Asset and License Record for This Module{{attrs[#blk-to6yc44tb4lk]}}
 
 | Asset | Source URL | License | Attribution |
 |---|---|---|---|
