@@ -17,5 +17,11 @@
   },
   "unitTerm": "module",
   "theme": "light-neat-3",
-  "createdAt": "2026-08-26T18:34:16.982Z"
+  "createdAt": "2026-08-26T18:34:16.982Z",
+  "chapters": [
+    {
+      "slug": "01-getting-started",
+      "title": "Intro to Advanced social psychology"
+    }
+  ]
 }
