@@ -5,7 +5,11 @@
   "description": "",
   "keywords": [],
   "discipline": "chemistry",
-  "courseContext": {},
+  "courseContext": {
+    "instructor": "Manyu Li",
+    "courseNumber": "PSYC 538",
+    "department": "Department of Psychology, University of Louisiana at Lafayette"
+  },
   "license": "CC-BY-4.0",
   "publicRepo": {
     "owner": "manyu26",
