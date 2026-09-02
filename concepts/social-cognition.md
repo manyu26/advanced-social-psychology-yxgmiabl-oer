@@ -2,47 +2,23 @@
 
 ## Source and Scope
 
-- **Anchor reading:** Fiske, S. T., & Tamir, D. I. (2025). Knowing the unknowable: How people perceive
-  others' minds. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The Handbook of Social
-  Psychology* (6th ed.). Situational Press. https://doi.org/10.70400/VKIX7367
-- **Also assigned:** Kelley, H. H., & Michela, J. L. (1980). Attribution theory and research. *Annual Review of
-  Psychology*, 31(1), 457–501. *(Cited only; not an open source. The classic attribution-theory treatment is
-  assigned in its own right — this module's material covers what the anchor chapter says about intent
-  inference and correction, not Kelley and Michela's review.)*
+- **Anchor reading:** Fiske, S. T., & Tamir, D. I. (2025). Knowing the unknowable: How people perceive others' minds. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The Handbook of Social Psychology* (6th ed.). Situational Press. https://doi.org/10.70400/VKIX7367
+- **Also assigned:** Kelley, H. H., & Michela, J. L. (1980). Attribution theory and research. *Annual Review of Psychology*, 31(1), 457–501. *(Cited only; not an open source. The classic attribution-theory treatment is assigned in its own right — this module's material covers what the anchor chapter says about intent inference and correction, not Kelley and Michela's review.)*
 - **Recommended (cited only):** Wyer, Hollins, & Pahl (2022); Zhao, Sened, & Tamir (2023).
-- **Scope:** the whole anchor chapter — person perception organized by what perceivers know at each stage of
-  an encounter, from pre-encounter baselines to interdependent interaction.
-- **Indexing note:** this module is `social-cognition-attribution`; Module 3 of Unit 2, and the first
-  substantive topic of the course.
+- **Scope:** the whole anchor chapter — person perception organized by what perceivers know at each stage of an encounter, from pre-encounter baselines to interdependent interaction.
+- **Indexing note:** this module is `social-cognition-attribution`; Module 3 of Unit 2, and the first substantive topic of the course.
 - **Format:** simple Markdown only — no diagrams, images, or plugin syntax.
 - **Package license:** CC-BY-SA-4.0.
 
 ## Module Summary
 
-The chapter's title states its problem. Another person's mind is ultimately unknowable, and yet people manage
-to make sense of each other constantly and well enough to act. The review is therefore about the wide variety
-of what people *think* they can know — and it organizes that by **time**: what a perceiver brings before any
-sensory input, what they extract in the first instant, what they decode moments later, what they infer across
-repeated encounters, and what happens once both parties are doing all of this to each other at once.
+The chapter's title states its problem. Another person's mind is ultimately unknowable, and yet people manage to make sense of each other constantly and well enough to act. The review is therefore about the wide variety of what people *think* they can know — and it organizes that by **time**: what a perceiver brings before any sensory input, what they extract in the first instant, what they decode moments later, what they infer across repeated encounters, and what happens once both parties are doing all of this to each other at once.
 
-The organizing move is deliberately data-driven rather than theory-driven, and it produces an unflattering
-finding the authors state plainly: work on person perception has rarely been about *persons* — whole
-autonomous individuals — or about *perceptions* in any strict sense. Perceivers mostly judge isolated cues;
-the persons perceived get reduced to incomplete, fragmented, static chunks; and what is called perception is
-really cognition and judgment. The continuum from broad to narrow has precedent in the contrast between
-category-based and target-based knowledge, and in the distinction between automatic category-based
-impressions and deliberate individuating ones.
+The organizing move is deliberately data-driven rather than theory-driven, and it produces an unflattering finding the authors state plainly: work on person perception has rarely been about *persons* — whole autonomous individuals — or about *perceptions* in any strict sense. Perceivers mostly judge isolated cues; the persons perceived get reduced to incomplete, fragmented, static chunks; and what is called perception is really cognition and judgment. The continuum from broad to narrow has precedent in the contrast between category-based and target-based knowledge, and in the distinction between automatic category-based impressions and deliberate individuating ones.
 
-The second organizing idea is that **accuracy is the wrong default goal**. Person perception looks more
-driven by pragmatics than by getting the target right. This is not a minor caveat: it reframes the whole
-enterprise. If perceivers are not trying to be accurate, then systematic departures from accuracy are not
-necessarily failures — which connects this module directly to Module 1's rationality tension, and gives
-students an early case where a "bias" may be a well-adapted process.
+The second organizing idea is that **accuracy is the wrong default goal**. Person perception looks more driven by pragmatics than by getting the target right. This is not a minor caveat: it reframes the whole enterprise. If perceivers are not trying to be accurate, then systematic departures from accuracy are not necessarily failures — which connects this module directly to Module 1's rationality tension, and gives students an early case where a "bias" may be a well-adapted process.
 
-The chapter closes on the perceiver's opacity to themselves. People often remember an inference but not the
-data that produced it; they cannot say why they find one face attractive or why they chose one option, and
-they will construct plausible but irrelevant explanations instead. This is where the module's attribution
-content bites, and where the seminar discussion should land.
+The chapter closes on the perceiver's opacity to themselves. People often remember an inference but not the data that produced it; they cannot say why they find one face attractive or why they chose one option, and they will construct plausible but irrelevant explanations instead. This is where the module's attribution content bites, and where the seminar discussion should land.
 
 ## Prerequisites and Later Payoff
 
