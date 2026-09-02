@@ -19,13 +19,6 @@
     "owner": "manyu26",
     "name": "advanced-social-psychology-yxgmiabl-private"
   },
-  "unitTerm": "module",
-  "theme": "light-neat-3",
-  "themes": {
-    "slides": "paper",
-    "practice": "light-neat-3"
-  },
-  "createdAt": "2026-08-26T18:34:16.982Z",
   "chapters": [
     {
       "slug": "01-getting-started",
@@ -34,6 +27,17 @@
     {
       "slug": "research-issues-in-social-psychology",
       "title": "Research Issues in Social Psychology"
+    },
+    {
+      "slug": "social-cognition",
+      "title": "Social Cognition"
     }
-  ]
+  ],
+  "unitTerm": "module",
+  "theme": "light-neat-3",
+  "themes": {
+    "slides": "paper",
+    "practice": "light-neat-3"
+  },
+  "createdAt": "2026-08-26T18:34:16.982Z"
 }
