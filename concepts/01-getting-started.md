@@ -3,40 +3,20 @@
 ## Source and Scope
 
 - **Course:** PSYC 538 — Advanced Social Psychology, master's level, seminar format.
-- **Foundational source:** *The Handbook of Social Psychology*, 6th edition (D. T. Gilbert, S. T. Fiske,
-  E. J. Finkel, & W. B. Mendes, Eds., 2025, Situational Press, https://doi.org/10.70400/NYKH3013),
-  open access under CC BY-NC-ND 4.0. One Handbook chapter anchors each module. The Handbook is used as a
-  **reference** — its facts and findings inform this material; none of its expression is adapted.
-- **Additional readings:** primary empirical and theoretical articles assigned per module. These are
-  **cited**, never reproduced.
+- **Foundational source:** *The Handbook of Social Psychology*, 6th edition (D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes, Eds., 2025, Situational Press, https://doi.org/10.70400/NYKH3013), open access under CC BY-NC-ND 4.0. One Handbook chapter anchors each module. The Handbook is used as a **reference** — its facts and findings inform this material; none of its expression is adapted.
+- **Additional readings:** primary empirical and theoretical articles assigned per module. These are **cited**, never reproduced.
 - **Scope:** twelve modules across three units. Module ordering follows the course schedule.
 - **Format:** simple Markdown only — no diagrams, images, or plugin syntax, so this file renders anywhere.
 - **Package license:** CC-BY-SA-4.0.
 
 ## Course Summary
 
-Social psychology asks how the actual, imagined, or implied presence of other people shapes what a person
-thinks, feels, and does. This course treats that question at the level a researcher works at: not a survey
-of findings, but an examination of the theories that organize them, the methods that produce them, and the
-disputes that are still open. The seminar format is doing real work here — the material is arranged so that
-students arrive having read primary sources and leave having argued about them.
+Social psychology asks how the actual, imagined, or implied presence of other people shapes what a person thinks, feels, and does. This course treats that question at the level a researcher works at: not a survey of findings, but an examination of the theories that organize them, the methods that produce them, and the disputes that are still open. The seminar format is doing real work here — the material is arranged so that students arrive having read primary sources and leave having argued about them.
 
-The course is built on one structural idea: **methodology is not a preliminary, it is a lens that stays on
-for the whole semester.** Unit 1 establishes both the field's enduring tensions — individual versus
-situation, description versus intervention, the laboratory versus the world — and the credibility questions
-raised by replication and measurement work of the last decade. Every later module is then read through that
-lens. When students meet an effect in Module 5 or Module 11, the question "how do we know this, and how
-well?" is already installed.
+The course is built on one structural idea: **methodology is not a preliminary, it is a lens that stays on for the whole semester.** Unit 1 establishes both the field's enduring tensions — individual versus situation, description versus intervention, the laboratory versus the world — and the credibility questions raised by replication and measurement work of the last decade. Every later module is then read through that lens. When students meet an effect in Module 5 or Module 11, the question "how do we know this, and how well?" is already installed.
 
-Units 2 and 3 divide the field along the line the discipline itself uses. **Unit 2 (Attitudes and Social
-Cognition)** works inward: the mental machinery a person brings to social life — how they perceive and
-explain others, construct a self, hold and change attitudes, feel, are shaped by culture, and pursue goals.
-**Unit 3 (Interpersonal Relations and Group Processes)** works outward: what happens between people and
-between groups — influence, attachment and rejection, intergroup hostility, and the conditions under which
-cooperation beats conflict. The two halves are not independent, and the course is sequenced so the
-dependency is visible: intergroup relations in Module 11 is unintelligible without the categorization and
-self-concept work in Modules 3 and 4, and cooperation in Module 12 draws on the goals and motivation
-framework from Module 8.
+Units 2 and 3 divide the field along the line the discipline itself uses. **Unit 2 (Attitudes and Social Cognition)** works inward: the mental machinery a person brings to social life — how they perceive and explain others, construct a self, hold and change attitudes, feel, are shaped by culture, and pursue goals.
+**Unit 3 (Interpersonal Relations and Group Processes)** works outward: what happens between people and between groups — influence, attachment and rejection, intergroup hostility, and the conditions under which cooperation beats conflict. The two halves are not independent, and the course is sequenced so the dependency is visible: intergroup relations in Module 11 is unintelligible without the categorization and self-concept work in Modules 3 and 4, and cooperation in Module 12 draws on the goals and motivation framework from Module 8.
 
 ## Course Learning Objectives
 
@@ -128,18 +108,13 @@ strongest source of exam and discussion questions that span the semester:
 |---|---|
 | Treating the replication crisis as a reason to dismiss the field | Reframe as calibration, not demolition: the same methods that revealed the problem are the ones being used to fix it. Ask which specific claim is weak and why. |
 | Reading primary articles for conclusions only | Require the pre-seminar reflection to state the design and the inference it licenses, not just the finding. |
-| Confusing a theory with an effect | Insist on the distinction in discussion: an effect is an observation, a theory explains a family of them and predicts new ones. |
+| Confusing a theory with an effect | Insist on the distinction in discussion: an effect is an observation; a theory explains a family of them and predicts new ones. |
 | Treating culture as a moderator to mention at the end | Place the generalizability question inside each module rather than only in Module 7. |
 | Importing undergraduate summaries of classic studies | Return to the primary source; several canonical studies are more limited than their textbook retellings suggest. |
 
 ## Keywords and Tags
 
-social psychology · social cognition · attribution · impression formation · self-concept · social identity ·
-attitudes · persuasion · attitude–behavior consistency · emotion · affect and cognition · culture ·
-cross-cultural psychology · goals · self-regulation · motivation · social influence · group processes ·
-conformity · status · close relationships · attraction · rejection · loneliness · intergroup relations ·
-prejudice · stereotyping · discrimination · intergroup contact · cooperation · conflict · prosocial behavior ·
-aggression · research methods · replication · measurement validity · construct validation · graduate seminar
+social psychology · social cognition · attribution · impression formation · self-concept · social identity · attitudes · persuasion · attitude–behavior consistency · emotion · affect and cognition · culture · cross-cultural psychology · goals · self-regulation · motivation · social influence · group processes · conformity · status · close relationships · attraction · rejection · loneliness · intergroup relations · prejudice · stereotyping · discrimination · intergroup contact · cooperation · conflict · prosocial behavior · aggression · research methods · replication · measurement validity · construct validation · graduate seminar
 
 ---
 
