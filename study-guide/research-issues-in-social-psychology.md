@@ -1,12 +1,5 @@
 # Module 2: Research Issues in Social Psychology
 
-::: info
-**Reference:** Giner-Sorolla, R. (2025). *Changing practices and priorities in social psychological research methods and reporting.* In *The Handbook of Social Psychology* (6th ed.), Situational Press (CC BY-NC-ND 4.0). https://doi.org/10.70400/ZUTF8520
-**Audience:** master's-level students in a graduate seminar
-**Package license:** CC-BY-SA-4.0
-**Note:** slug `research-issues`; Module 2 of Unit 1. Facts and findings are drawn from the anchor chapter; all prose here is original. The Open Science Collaboration (2015) and Chester & Lasko (2021) readings are assigned and cited, but are not open sources and are not drawn from.
-:::
-
 ::: success
 **Module Learning Objectives**
 
@@ -22,7 +15,7 @@
 - Distinguish direct, systematic and conceptual replication by what each licenses.
 :::
 
-## Module Logic{{attrs[#blk-7gm5qofd5acf]}}
+## Module Logic{{attrs[#blk-9n4ks7r4jle9]}}
 
 Module 1 left a question open: can social psychology's findings travel beyond the conditions that produced
 them? This module answers with evidence from the past decade, and the answer is mixed enough to require care.
@@ -53,7 +46,7 @@ research as lazy or dishonest, holding instead that most researchers really did 
 Both assumptions shape the whole chapter. A student who reads it as an indictment has misread it.
 :::
 
-## 2.1 The System of Research and Reporting, Circa 2010{{attrs[#blk-uof1gwdirfvv]}}
+## 2.1 The System of Research and Reporting, Circa 2010{{attrs[#blk-jcexppwsrbru]}}
 
 ::: success
 **Learning Objectives**
@@ -103,7 +96,7 @@ a character flaw; it is what working scientists do.
 - Name a current evaluation rule in your area that is easy to apply but a poor proxy for what it stands for.
 - What would change about your reading of this chapter if you assumed pre-2010 researchers were careless?
 
-## 2.2 The 2011 Collision{{attrs[#blk-56ymomesnbvc]}}
+## 2.2 The 2011 Collision{{attrs[#blk-ms9garacldw4]}}
 
 ::: success
 **Learning Objectives**
@@ -136,7 +129,7 @@ field's history — amid the "crisis of 1977," someone wrote an article remindin
 - Why does it matter that the 2011 paper was *structurally ordinary* rather than obviously flawed?
 - What would it take for a field to distinguish a genuine crisis from a recurring rhetorical one?
 
-## 2.3 Eight Proposed Solutions{{attrs[#blk-238c2j8293x1]}}
+## 2.3 Eight Proposed Solutions{{attrs[#blk-02nzuavfk70k]}}
 
 ::: success
 **Learning Objectives**
@@ -212,7 +205,7 @@ problem rather than solve it.
 - For each of the four groupings, name the failure mode it targets in one sentence.
 - Which solution do you think has the worst cost-to-benefit ratio in your own research area, and why?
 
-## 2.4 Manipulation and Measurement{{attrs[#blk-9lbqs15iioft]}}
+## 2.4 Manipulation and Measurement{{attrs[#blk-fxc78x4ld00x]}}
 
 ::: success
 **Learning Objectives**
@@ -253,7 +246,7 @@ manipulation checks are unnecessary because they inform us only about effects at
 - Explain the zoo analogy in your own words, then name a meta-analysis in your area it might apply to.
 - If a replication attempt yields null, what evidence would let you decide between "no effect" and "failed manipulation"?
 
-## 2.5 Challenges to Generalizability{{attrs[#blk-2edjv5wq4jyn]}}
+## 2.5 Challenges to Generalizability{{attrs[#blk-csa4di5mfll1]}}
 
 ::: success
 **Learning Objectives**
@@ -294,7 +287,7 @@ one of the easiest things to spot once named, and one of the hardest to unsee.
 - Take an abstract from a later module's reading list. Does it signal its sample's origin? Would it if the sample were from elsewhere?
 - What would it take for a finding to earn an unqualified claim about "people"?
 
-## 2.6 From Principle to Practice: The Exploratory–Confirmatory Line{{attrs[#blk-wwojepqd7pcb]}}
+## 2.6 From Principle to Practice: The Exploratory–Confirmatory Line{{attrs[#blk-59a0hs4fd9lm]}}
 
 ::: success
 **Learning Objectives**
@@ -353,7 +346,7 @@ this is the *practice*.
 - Place a study you know in one of the four cells. What would it take to move it down and to the right?
 - Why is a deviation from a pre-registered plan not, by itself, a problem?
 
-## 2.7 Power, and What to Do About It{{attrs[#blk-kdo7zlpt5327]}}
+## 2.7 Power, and What to Do About It{{attrs[#blk-nei51o3v3l78]}}
 
 ::: success
 **Learning Objectives**
@@ -419,7 +412,7 @@ data and are distinguished only by the check.
 - Why is a significant result from a 20% powered study problematic in a way a null result from the same study is not?
 - Given a fixed sample you could not control, which form of power reporting is honest?
 
-## 2.8 Programmatic Research: Replication and Cumulative Evidence{{attrs[#blk-4ml00nftzllb]}}
+## 2.8 Programmatic Research: Replication and Cumulative Evidence{{attrs[#blk-v2ceqzg5cw03]}}
 
 ::: success
 **Learning Objectives**
@@ -475,7 +468,7 @@ a substantive question rather than a technicality. Read the exchange rather than
 - Write a one-sentence constraints-on-generality statement for a study in your own area.
 - What is the strongest version of the argument that a failed replication tells us little?
 
-## Synthesis{{attrs[#blk-e6v8nil98xom]}}
+## Synthesis{{attrs[#blk-508zxdtgqbzk]}}
 
 The thread of this module is that **evidential standards, measurement validity, and generalizability are one
 problem, not three.** A statistical reform tells you whether an effect is reliably detected; it says nothing
@@ -503,7 +496,7 @@ exactly why they survive the critique that sank the effect-size threshold in §2
 Module 3 turns to substance for the first time, taking up how people perceive and explain other minds. Bring
 these questions with you; they are what makes a seminar discussion of an empirical paper more than a summary.
 
-## Asset and License Record for This Module{{attrs[#blk-y3inwudaz8x5]}}
+## Asset and License Record for This Module{{attrs[#blk-9sfhnlpfy8rj]}}
 
 | Asset | Source URL | License | Attribution |
 |---|---|---|---|
