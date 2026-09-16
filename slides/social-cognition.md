@@ -1,3 +1,7 @@
+<!-- deck
+theme: paper
+-->
+
 
 <!-- deck
 title: Module 3: Social Cognition, Impression Formation, and Attribution
@@ -119,7 +123,15 @@ Note what is already committed: the target is an autonomous intentional agent wh
 <!-- slide template=section -->
 # 3.3 Freeze-frame — categories, warmth, competence
 
-<!-- slide main-side -->
+<!-- slide -->
+## Macrae, Milne, and Bodenhausen (1994)
+
+- IV/manipulation: Impression formation task + listening to an audio track (high vs. low cognitive load)
+- Semantic category labels vs. control
+- DV: trait recall, performance on secondary audio task
+- Key findings
+	- When participants were given a category label (the stereotype), they performed significantly better on both tasks under high cognitive load.
+	- Categorization acted as an energy-saving device: because the stereotype pre-bundled the traits into a coherent schema, it spared precious mental bandwidth, allowing participants to allocate resources to the secondary audio task.  <!-- slide main-side -->
 ## The first instant
 <!-- @main -->
 Demographic categories **automatically** capture societal identity — gender, race, class — from **superficial cues**.
@@ -470,4 +482,3 @@ This is Module 2's construct-validity problem in a live literature, and why pool
 **This module's chapter.** Fiske, S. T., & Tamir, D. I. (2025). *Knowing the unknowable: How people perceive others' minds.* https://doi.org/10.70400/VKIX7367
 
 **Also assigned (cited only).** Kelley, H. H., & Michela, J. L. (1980). *Attribution theory and research.* Annual Review of Psychology, 31(1), 457–501.
-
