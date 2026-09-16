@@ -12,3 +12,9 @@
 - **4.7a — Motives:** Differentiate self-enhancement, self-verification, and self-improvement using competing predictions.
 - **4.8a — Integration:** Evaluate self-judgment biases and design a test of feedback use that separates feelings from change.
 :::
+
+## 4.1 Representation: Many self-aspects, recognizable patterns{{attrs[#blk-fllktz8kl4b3]}}
+
+::: success
+**Objective 4.1a — Representation:** Explain how self-representation can be context-sensitive and stable.
+:::
