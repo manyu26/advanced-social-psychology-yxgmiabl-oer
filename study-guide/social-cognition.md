@@ -1,5 +1,11 @@
 # Module 3: Social Cognition, Impression Formation, and Attribution
 
+::: info
+**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students.  
+**Reading:** Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. https://doi.org/10.70400/NYKH3013 
+**License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
+:::
+
 ::: success
 **Module Learning Objectives**
 
