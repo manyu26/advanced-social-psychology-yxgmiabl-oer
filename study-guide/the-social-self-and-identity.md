@@ -1,10 +1,8 @@
 # Module 4: The Social Self and Identity
 
 ::: info
-**PSYC 538 · Advanced Social Psychology · Unit 2**  
-**Audience:** master's-level seminar students.  
-**Anchor reading:** Chen, S., & Critcher, C. R. (2025). *Self and identity.* https://doi.org/10.70400/XPVA2367  
-**Author:** Manyu Li, University of Louisiana at Lafayette, with AI-assisted drafting.  
+**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students.  
+**Reading:** Chen, S., & Critcher, C. R. (2025). *Self and identity.* https://doi.org/10.70400/XPVA2367  
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
 
