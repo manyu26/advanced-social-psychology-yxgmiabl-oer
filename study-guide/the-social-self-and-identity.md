@@ -311,6 +311,18 @@ The self can provide continuity while remaining responsive to situations. It can
 
 For seminar, bring one claim from the reading and specify its construct, measure, accuracy criterion where relevant, and strongest alternative explanation. Then identify a result that would make you revise the claim. Module 5 extends evaluation to attitudes; Module 6 examines emotion and cognition; Module 7 develops cultural variation; Module 8 extends possible selves and feedback into goal pursuit. Relationships and collective identities recur later in Modules 10–11.
 
+---
+
+## Asset and License Record for This Module{{attrs[#blk-suuqnosbi2rx]}}
+
+| Asset | Source URL | License | Attribution |
+| --- | --- | --- | --- |
+| Figure 4.1: Self-representation and feedback cycle | [Hosted diagram](https://alembic.orz.how/d/doc-8slthtt423bt) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
+| Figure 4.2: Hypothetical rank-order accuracy and mean bias | [Hosted diagram](https://alembic.orz.how/d/doc-3wrlt5t5qg69) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. Numbers are explicitly hypothetical. |
+| Figure 4.3: Three motives for responding to feedback | [Hosted diagram](https://alembic.orz.how/d/doc-0tevao3ocytq) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
+
+---
+
 ## References and attribution{{attrs[#blk-abdeg3erb20u]}}
 
 Chen, S., & Critcher, C. R. (2025). Self and identity. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/XPVA2367
