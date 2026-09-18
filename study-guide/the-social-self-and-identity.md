@@ -1,7 +1,7 @@
 # Module 4: The Social Self and Identity
 
 ::: info
-**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students.  
+**Study Guide** developed for MS in Psychology students in PSYC 538 Advanced Social Psychology by Manyu Li, University of Louisiana at Lafayette  
 **Reading:** Chen, S., & Critcher, C. R. (2025). *Self and identity.* https://doi.org/10.70400/XPVA2367  
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
@@ -315,8 +315,6 @@ For seminar, bring one claim from the reading and specify its construct, measure
 
 Chen, S., & Critcher, C. R. (2025). Self and identity. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/XPVA2367
 
-The cited original theories and studies were consulted through this review; named secondary citations identify that relationship. The Handbook source is CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/. Used for factual reference; explanations and teaching examples are newly written. No source figures or quoted prose are reproduced. The three diagrams are original instructional graphics, and Figure 4.2 uses explicitly hypothetical numbers. This module's original contributions are licensed CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/.
+The cited original theories and studies were consulted through this review. The Handbook source is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Used for factual reference; explanations and teaching examples are newly written. No source figures or quoted prose are reproduced. The three diagrams are original instructional graphics, and Figure 4.2 uses explicitly hypothetical numbers. This study guide's original contributions are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Collection credit: Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press.
-
-https://doi.org/10.70400/NYKH3013 · Cited as a source of facts and findings; no text or figures adapted.
+Collection credit: Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. https://doi.org/10.70400/NYKH3013 · Cited as a source of facts and findings; no text or figures adapted.
