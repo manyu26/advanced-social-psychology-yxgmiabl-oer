@@ -1,8 +1,10 @@
 # Module 2: Research Issues in Social Psychology
 
 ::: info
-**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students.  
-**Reading:** Giner-Sorolla, R. (2025). *Changing practices and priorities in social psychological research methods and reporting.* In *The Handbook of Social Psychology* (6th ed.), Situational Press. https://doi.org/10.70400/ZUTF8520 
+**Study Guide** developed for MS in Psychology students in PSYC 538 Advanced Social Psychology by Manyu Li, University of Louisiana at Lafayette.
+
+**Reading:** Giner-Sorolla, R. (2025). Changing practices and priorities in social psychological research methods and reporting. In *The Handbook of Social Psychology* (6th ed.), Situational Press. https://doi.org/10.70400/ZUTF8520 
+
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
 
@@ -510,7 +512,7 @@ these questions with you; they are what makes a seminar discussion of an empiric
 
 ---
 
-## References and attribution{{attrs[#blk-lgnhp110pyre]}}
+## References and attribution{{attrs[#blk-1vw4uhwrd97p]}}
 
 Giner-Sorolla, R. (2025). *Changing practices and priorities in social psychological research methods and reporting.* In *The Handbook of Social Psychology* (6th ed.), Situational Press.
 
