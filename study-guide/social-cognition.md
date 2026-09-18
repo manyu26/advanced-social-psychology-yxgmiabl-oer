@@ -580,7 +580,7 @@ target of all this apparatus is oneself.
 
 ---
 
-## References and attribution{{attrs[#blk-vi53m3ispdh5]}}
+## References and attribution{{attrs[#blk-8qac8re2jc8o]}}
 
 Fiske, S. T., & Tamir, D. I. (2025). *Knowing the unknowable: How people perceive others’ minds.* In *The Handbook of Social Psychology* (6th ed.), Situational Press. [https://doi.org/10.70400/VKIX7367](https://doi.org/10.70400/VKIX7367) 
  
