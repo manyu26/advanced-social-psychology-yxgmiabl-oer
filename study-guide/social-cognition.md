@@ -2,7 +2,7 @@
 
 ::: info
 **Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students.  
-**Reading:** Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. https://doi.org/10.70400/NYKH3013 
+**Reading:** Fiske, S. T., & Tamir, D. I. (2025). *Knowing the unknowable: How people perceive others' minds.* In *The Handbook of Social Psychology* (6th ed.), Situational Press (CC BY-NC-ND 4.0). https://doi.org/10.70400/VKIX7367 
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
 
