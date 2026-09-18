@@ -578,9 +578,10 @@ target of all this apparatus is oneself.
 
 ---
 
-## References and attribution{{attrs[#blk-jkuglqxq659i]}}
+## References and attribution{{attrs[#blk-9y3seuhg2cwc]}}
 
 Fiske, S. T., & Tamir, D. I. (2025). *Knowing the unknowable: How people perceive others’ minds.* In *The Handbook of Social Psychology* (6th ed.), Situational Press. [https://doi.org/10.70400/VKIX7367](https://doi.org/10.70400/VKIX7367) 
  
 The cited original theories and studies were consulted through this review. The Handbook source is CC BY-NC-ND 4.0. Used for factual reference; explanations and teaching examples are newly written. No source figures or quoted prose are reproduced. The three diagrams are original instructional graphics, and Figure 4.2 uses explicitly hypothetical numbers. This study guide's original contributions are licensed CC BY-SA 4.0.
+
 Collection credit: Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. https://doi.org/10.70400/NYKH3013 · Cited as a source of facts and findings; no text or figures adapted.
