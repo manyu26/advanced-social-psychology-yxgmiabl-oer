@@ -1,8 +1,10 @@
 # Module 1: Introduction to Social Psychology
 
 ::: info
-**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students by Manyu Li, University of Louisiana at Lafayette.
-**Reading:** Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* In *The Handbook of Social Psychology* (6th ed.), Situational Press (CC BY-NC-ND 4.0). https://doi.org/10.70400/DCSX1997
+**Study Guide** developed for MS in Psychology students in PSYC 538 Advanced Social Psychology by Manyu Li, University of Louisiana at Lafayette.
+
+**Reading:** Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* In *The Handbook of Social Psychology* (6th ed.), Situational Press. https://doi.org/10.70400/DCSX1997
+
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
 
@@ -606,4 +608,10 @@ here, not consulted directly.
 
 ---
 
-**Source attribution.** Facts and findings in this document are drawn from Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press — https://doi.org/10.70400/NYKH3013 — published open access under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). Cited as a source of facts and findings; no text or figures adapted. This document is licensed CC BY-SA 4.0.
+## References and attribution{{attrs[#blk-a2wtlqv0ghll]}}
+
+Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* In *The Handbook of Social Psychology* (6th ed.), Situational Press. https://doi.org/10.70400/DCSX1997
+
+The cited original theories and studies were consulted through this review. The Handbook source is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Used for factual reference; explanations and teaching examples are newly written. No source figures or quoted prose are reproduced. The three diagrams are original instructional graphics, and Figure 4.2 uses explicitly hypothetical numbers. This study guide's original contributions are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Collection credit: Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. [https://doi.org/10.70400/NYKH3013](https://doi.org/10.70400/NYKH3013) · Cited as a source of facts and findings; no text or figures adapted.
