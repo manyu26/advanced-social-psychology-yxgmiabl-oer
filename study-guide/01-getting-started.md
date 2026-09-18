@@ -1,5 +1,11 @@
 # Module 1: Introduction to Social Psychology
 
+::: info
+**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students by Manyu Li, University of Louisiana at Lafayette.
+**Reading:** Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* In *The Handbook of Social Psychology* (6th ed.), Situational Press (CC BY-NC-ND 4.0). https://doi.org/10.70400/DCSX1997
+**License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
+:::
+
 ::: success
 **Module Learning Objectives**
 
