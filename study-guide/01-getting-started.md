@@ -596,21 +596,13 @@ directly.
 |---|---|---|---|
 | *(none — this module embeds no images)* | — | — | The one diagram is an inline `{{mermaid}}` figure generated from this document's own source and carries the package license, CC-BY-SA-4.0. |
 
-**A note on the instructor's prior slides.** This module draws historical facts, periodization, and the choice
-of illustrative studies from Dr. Li's own PSYC 538 lecture deck (`PSYC538_01_Intro.pptx`), recorded in
-`metadata/FOUNDATION.json` as an owned source. That deck's *images* are deliberately not reused: they are
-third-party works credited only to "Unknown Author" under CC BY, BY-SA, BY-NC, BY-ND and BY-NC-ND terms, which
-cannot be attributed as those licenses require and, in the NC and ND cases, cannot be redistributed under
-CC BY-SA at all. The material on the three themes and four pillars derives from that deck's summary of Ross,
-L., Lepper, M., & Ward, A. (2010), *History of social psychology: Insights, challenges, and contributions to
-theory and application*, in the *Handbook of Social Psychology* (5th ed., Vol. 1, pp. 3–50), Wiley — cited
-here, not consulted directly.
-
 ---
 
-## References and attribution{{attrs[#blk-a2wtlqv0ghll]}}
+## References and attribution{{attrs[#blk-s0agajf688jl]}}
 
 Miller, D. T., & Laurin, K. (2025). *History of social psychology: Four enduring tensions.* In *The Handbook of Social Psychology* (6th ed.), Situational Press. https://doi.org/10.70400/DCSX1997
+
+Ross, L., Lepper, M., & Ward, A. (2010), *History of social psychology: Insights, challenges, and contributions to theory and application*, in the *Handbook of Social Psychology* (5th ed., Vol. 1, pp. 3–50), 
 
 The cited original theories and studies were consulted through this review. The Handbook source is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Used for factual reference; explanations and teaching examples are newly written. No source figures or quoted prose are reproduced. The three diagrams are original instructional graphics, and Figure 4.2 uses explicitly hypothetical numbers. This study guide's original contributions are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
