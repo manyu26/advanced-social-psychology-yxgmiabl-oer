@@ -1,7 +1,7 @@
 # Module 3: Social Cognition, Impression Formation, and Attribution
 
 ::: info
-**Study Guide** developed for PSYC 538 · Advanced Social Psychology, master's-level seminar students.  
+**Study Guide** developed for MS in Psychology students in PSYC 538 Advanced Social Psychology by Manyu Li, University of Louisiana at Lafayette  
 **Reading:** Fiske, S. T., & Tamir, D. I. (2025). *Knowing the unknowable: How people perceive others' minds.* In *The Handbook of Social Psychology* (6th ed.), Situational Press (CC BY-NC-ND 4.0). https://doi.org/10.70400/VKIX7367 
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
