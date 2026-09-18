@@ -512,7 +512,7 @@ these questions with you; they are what makes a seminar discussion of an empiric
 
 ---
 
-## References and attribution{{attrs[#blk-1vw4uhwrd97p]}}
+## References and attribution{{attrs[#blk-rls3jud3f98q]}}
 
 Giner-Sorolla, R. (2025). *Changing practices and priorities in social psychological research methods and reporting.* In *The Handbook of Social Psychology* (6th ed.), Situational Press.
 
