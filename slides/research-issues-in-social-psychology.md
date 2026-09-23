@@ -1,3 +1,7 @@
+<!-- deck
+theme: paper
+-->
+
 
 <!-- deck
 title: Module 2: Research Issues in Social Psychology
@@ -9,7 +13,7 @@ footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
 # Module 2: Research Issues in Social Psychology
 ## What the last decade taught the field about its own evidence
 
-<!-- slide -->
+Core reading: Giner-Sorolla, R. (2025). [Changing practices and priorities in social psychological research methods and reporting](https://doi.org/10.70400/ZUTF8520). In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press.<!-- slide -->
 ## Learning objectives
 - Describe the reporting system **circa 2010** and the norms researchers were meeting
 - Explain how one 2011 paper destabilized the **rules of evidence**
@@ -390,4 +394,3 @@ The interval methods were correct · the rival project's results were mischaract
 **This module's chapter.** Giner-Sorolla, R. (2025). *Changing practices and priorities in social psychological research methods and reporting.* https://doi.org/10.70400/ZUTF8520
 
 **Also assigned (cited only).** Open Science Collaboration (2015), *Science*, 349(6251) · Chester & Lasko (2021), *Perspectives on Psychological Science*, 16(2), 377–395.
-
