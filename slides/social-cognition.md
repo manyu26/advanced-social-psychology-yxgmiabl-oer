@@ -9,7 +9,7 @@ footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
 -->
 
 <!-- slide template=title -->
-# Module 3
+# Module 3 Advanced Social Psychology
 ## Social Cognition
 <!-- slide -->
 ## Learning objectives
