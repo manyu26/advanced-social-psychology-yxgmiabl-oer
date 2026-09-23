@@ -217,7 +217,7 @@ i.e., Intimacy is not merely a feeling, but an active cognitive function of reci
 :::
 
 _Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
-## Relational self vs. self selection?
+## Self-expansion and relationship quality
 
 :::info
 Beyond conversation, what happens when couples physically engage in novel, challenging, or high-arousal tasks together? Can behaviorally expanding the self reverse relationship boredom and enhance satisfaction?
@@ -231,6 +231,11 @@ Beyond conversation, what happens when couples physically engage in novel, chall
 - DV: Pre-post relationship quality
 
 _Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273–284._<!-- slide -->
+## Self-expansion vs. self-disclosure vs. novelty?
+
+:::info
+Does Fast Friends work because of self-disclosure (cognitive intimacy), or does the "novelty" of the 36 questions mimic the self-expansion mechanism found in Aron's physical obstacle-course studies? How would you design a 2x2 factorial study to separate disclosure from pure behavioral novelty?
+:::<!-- slide -->
 ## New slide
 
 :::info
