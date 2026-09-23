@@ -1513,6 +1513,7 @@ footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
 # Module 1: Introduction to Advanced Social Psychology
 ## Four enduring tensions, and why the field never settled them
 
+Core reading: Miller, D. T., & Laurin, K. (2025). [History of social psychology: Four enduring tensions](https://doi.org/10.70400/DCSX1997). In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press.
 <!-- slide -->
 ## Learning objectives
 - Define the field's subject matter and place its development across **five periods**
