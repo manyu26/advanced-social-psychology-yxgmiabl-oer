@@ -195,6 +195,10 @@ How do we know close others become part of the self, versus the alternative expl
 	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
     - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI
 
+:::warning
+Implication: Self-concept boundaries are porous and reactive. Intimacy is not merely a byproduct of time spent together; it is an active cognitive function of reciprocal self-disclosure that forces a rapid recalibration of where "Self" ends and "Other" begins.
+:::
+
 _Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
 ## Relational self vs. self selection?
 
