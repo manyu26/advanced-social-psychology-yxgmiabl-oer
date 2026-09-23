@@ -9,9 +9,9 @@ footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
 -->
 
 <!-- slide template=title -->
-# Module 3 Advanced Social Psychology
-## Social Cognition
-<!-- slide -->
+# Module 3: Social Cognition
+
+Core reading: Fiske, S. T., & Tamir, D. I. (2025). Knowing the unknowable: How people perceive others' minds. In *The Handbook of Social Psychology* (6th ed.), Situational Press. <!-- slide -->
 ## Learning objectives
 - Explain what **"knowing the unknowable"** names, and why the review is organized by **time**
 - Articulate the **criterion problem** and the three sources of variance in accuracy
