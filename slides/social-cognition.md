@@ -8,6 +8,9 @@ ratio: 16:9
 footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
 -->
 
+<!-- slide template=title -->
+# Module 3
+## Social Cognition
 <!-- slide -->
 ## Learning objectives
 - Explain what **"knowing the unknowable"** names, and why the review is organized by **time**
@@ -19,9 +22,6 @@ footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
 - Explain why **implicit-measure** results vary across procedures
 - Explain the perceiver's **opacity to their own processing**, and what follows for attribution
 
-<!-- slide template=title -->
-# Module 3
-## Social Cognition
 <!-- slide template=outline -->
 # What we'll cover
 - 3.1 The miracle, and why accuracy is the wrong default
