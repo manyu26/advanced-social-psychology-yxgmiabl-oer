@@ -197,7 +197,7 @@ How do we know close others become part of the self, versus the alternative expl
 	- Further developed two interventions to address these issues. <!-- slide -->
 ## Relational self vs. self selection?
 
-## **Intervention 1** - The "Fast Friends" Procedure
+## **Intervention 1**
 Can we artificially induce structural self-expansion and replicate the psychological closeness of a long-term relationship with a total stranger in less than an hour?
 
 - Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
