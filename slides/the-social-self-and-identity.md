@@ -224,7 +224,11 @@ Beyond conversation, what happens when couples physically engage in novel, chall
 :::
 
 ## Intervention 2
+Beyond conversation, what happens when couples physically engage in novel, challenging, or high-arousal tasks together? Can behaviorally expanding the self reverse relationship boredom and enhance satisfaction?
 
+- Established married couples were recruited and brought into the laboratory.
+- IV: _Arousing condition_: Couples were bound together at the wrists and ankles with velcro straps and foam blocks, and required to crawl across a gym mat while pushing a pillow-like block across the floor using specific, awkward movements within a strict time limit (akin to a bizarre obstacle course). _The Control Condition_: Couples performed a low-arousal, familiar task together (e.g., rolling a ball back and forth across the room or sorting mundane items). (7-minute activity)
+- DV: Pre-post relationship quality
 
 _Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273–284._<!-- slide 2col -->
 ## Culture requires more than a country label
