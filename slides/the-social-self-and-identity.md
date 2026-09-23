@@ -3,6 +3,8 @@ title: Module 4 — The Social Self and Identity
 ratio: 16:9
 author: Manyu Li · PSYC 538
 footer: Chen & Critcher (2025) · PSYC 538 · CC BY-SA 4.0
+
+theme: paper
 -->
 
 <!-- slide template=title -->
@@ -53,7 +55,7 @@ Evaluate self-judgment biases and design a test of feedback use that separates f
 
 <!-- slide -->
 ## A cycle we can test
-![Representation, evidence, evaluation, and action form a recurring cycle.](../assets/module4-self-cycle.svg =720x)
+![Representation, evidence, evaluation, and action form a recurring cycle.](https://alembic.orz.how/d/doc-8slthtt423bt =720x)
 
 **Visual description:** Context activates self-knowledge; selected evidence informs evaluation and action; action changes later contexts.
 
