@@ -183,7 +183,14 @@ This demonstrated a **cognitive confusion effect**: the psychological boundary o
 	- fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
 - Aron’s initial studies were largely correlational/cross-sectional regarding relationship length. How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?  
 - How would these IOS effects manifest differently in individualistic Western cultures versus collectivistic cultures?
-- If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?<!-- slide 2col -->
+- If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?<!-- slide -->
+## Relational self vs. self selection
+
+:::info
+How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?
+:::
+
+- <!-- slide 2col -->
 ## Culture requires more than a country label
 <!-- @left -->
 **A useful starting contrast**
