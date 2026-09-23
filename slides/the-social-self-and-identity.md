@@ -181,7 +181,7 @@ This demonstrated a **cognitive confusion effect**: the psychological boundary o
 :::warning
 If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?
 :::<!-- slide -->
-## Relational Self - alternative explanations?
+## Relational Self - Measurement validity?
 
 :::info
 Does a reaction-time delay truly indicate structural integration of the self, or is it merely semantic priming / associative network overlap? How would modern social neuroscientists test this differently? 
@@ -189,6 +189,23 @@ Does a reaction-time delay truly indicate structural integration of the self, or
 
 - fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
 <!-- slide -->
+## Relational self vs. self selection?
+
+:::info
+How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?
+:::
+
+- Intervention 1: The "Fast Friends" Procedure: Can we artificially induce structural self-expansion and replicate the psychological closeness of a long-term relationship with a total stranger in less than an hour?
+	- Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
+	- IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
+	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
+    - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI (even higher than those reported for close friends/romantic partner)
+
+:::warning
+Implication: Self-concept boundaries are porous and reactive. Intimacy is not merely a byproduct of time spent together; it is an active cognitive function of reciprocal self-disclosure that forces a rapid recalibration of where "Self" ends and "Other" begins.
+:::
+
+_Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
 ## Relational self vs. self selection?
 
 :::info
