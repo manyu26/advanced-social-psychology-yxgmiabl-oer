@@ -169,7 +169,21 @@ A group membership.
 	- Hypothesis: If the self and close other share cognitive space, deciding "Me" when a trait describes only the friend (or vice versa) should incur cognitive interference, leading to longer reaction times, compared to an acquaintance.
 
 
-_Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. Journal of Personality and Social Psychology, 60(2), 241–253._<!-- slide 2col -->
+_Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. Journal of Personality and Social Psychology, 60(2), 241–253._<!-- slide -->
+## Relational Self
+
+:::info
+Participants were significantly slower to reject traits that were true of their close other but not true of themselves, compared to traits true of an acquaintance.
+:::
+
+This demonstrated a **cognitive confusion effect**: the psychological boundary of "Self" expanded to automatically encompass attributes of the close other.<!-- slide -->
+## Relational Self (critique to Aron et al.)
+
+- Does a reaction-time delay truly indicate structural integration of the self, or is it merely semantic priming / associative network overlap? How would modern social neuroscientists test this differently? 
+	- fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
+- Aron’s initial studies were largely correlational/cross-sectional regarding relationship length. How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?  
+- How would these IOS effects manifest differently in individualistic Western cultures versus collectivistic cultures?
+- If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?<!-- slide 2col -->
 ## Culture requires more than a country label
 <!-- @left -->
 **A useful starting contrast**
