@@ -195,17 +195,8 @@ Does a reaction-time delay truly indicate structural integration of the self, or
 How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?
 :::
 
-- Intervention 1: The "Fast Friends" Procedure: Can we artificially induce structural self-expansion and replicate the psychological closeness of a long-term relationship with a total stranger in less than an hour?
-	- Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
-	- IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
-	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
-    - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI (even higher than those reported for close friends/romantic partner)
-
-:::warning
-Implication: Self-concept boundaries are porous and reactive. Intimacy is not merely a byproduct of time spent together; it is an active cognitive function of reciprocal self-disclosure that forces a rapid recalibration of where "Self" ends and "Other" begins.
-:::
-
-_Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
+- As Aron and colleagues continued researching, they realized the IOS model was describing a symptom of a much broader, fundamental human motivation. They zoomed out to build **Self-Expansion Theory**: 
+	- Humans have a primary, foundational motivation to enhance their potential efficacy and expand the self over time. e.g., acquiring new resources, perspectives, identities, and forming relationships, because bringing another person into your life is the most efficient way to rapidly expand your own capabilities and worldviews.<!-- slide -->
 ## Relational self vs. self selection?
 
 :::info
