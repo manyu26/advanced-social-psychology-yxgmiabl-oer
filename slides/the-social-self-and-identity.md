@@ -10,7 +10,6 @@ theme: paper
 title: Module 4 — The Social Self and Identity
 ratio: 16:9
 author: Manyu Li · PSYC 538
-footer: Core reading: Chen & Critcher (2025) · PSYC 538 · CC BY-SA 4.0
 
 theme: paper
 -->
