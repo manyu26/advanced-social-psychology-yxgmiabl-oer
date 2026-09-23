@@ -8,11 +8,7 @@ theme: paper
 
 <!-- slide template=title -->
 # Module 4 — The Social Self and Identity
-## Core reading: Chen
- <!-- slide -->
-## New slide
-
-<!-- slide 2col -->
+## Core reading: Chen & Critcher (2025)<!-- slide 2col -->
 ## Learning objectives: Representations and evidence
 <!-- @left -->
 **4.1a — Representation**
