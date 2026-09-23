@@ -196,7 +196,8 @@ How do we know close others become part of the self, versus the alternative expl
 :::
 
 - As Aron and colleagues continued researching, they realized the IOS model was describing a symptom of a much broader, fundamental human motivation. They zoomed out to build **Self-Expansion Theory**: 
-	- Humans have a primary, foundational motivation to enhance their potential efficacy and expand the self over time. e.g., acquiring new resources, perspectives, identities, and forming relationships, because bringing another person into your life is the most efficient way to rapidly expand your own capabilities and worldviews.<!-- slide -->
+	- Humans have a primary, foundational motivation to enhance their potential efficacy and expand the self over time. e.g., acquiring new resources, perspectives, identities, and forming relationships, because bringing another person into your life is the most efficient way to rapidly expand your own capabilities and worldviews.
+	- Further developed two interventions to address these issues. <!-- slide -->
 ## Relational self vs. self selection?
 
 :::info
