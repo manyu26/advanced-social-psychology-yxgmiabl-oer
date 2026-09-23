@@ -230,7 +230,15 @@ Beyond conversation, what happens when couples physically engage in novel, chall
 - IV: _Arousing condition_: Couples were bound together at the wrists and ankles with velcro straps and foam blocks, and required to crawl across a gym mat while pushing a pillow-like block across the floor using specific, awkward movements within a strict time limit (akin to a bizarre obstacle course). _The Control Condition_: Couples performed a low-arousal, familiar task together (e.g., rolling a ball back and forth across the room or sorting mundane items). (7-minute activity)
 - DV: Pre-post relationship quality
 
-_Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273–284._<!-- slide 2col -->
+_Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273–284._<!-- slide -->
+## New slide
+
+:::info
+Couples assigned to the novel, arousing, challenging task showed significantly greater increases in pre- to post-test measures of relationship quality and excitement compared to the control group.
+:::
+
+- When humans engage in novel, stimulating tasks, the brain experiences neurochemical activation (dopamine/arousal). Because the partner is physically present and embedded in the novel challenge, the individual attributes the expansion and physiological arousal to the partner/relationship.
+- Routine leads to cognitive stagnation (self-contraction), whereas novelty forces the self-concept to incorporate fresh resources, perspectives, and excitement.<!-- slide 2col -->
 ## Culture requires more than a country label
 <!-- @left -->
 **A useful starting contrast**
