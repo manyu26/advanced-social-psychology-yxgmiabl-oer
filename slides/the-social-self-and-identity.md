@@ -211,7 +211,7 @@ Implication:
 - Traditionally: Time spent together $\rightarrow$ trust builds $\rightarrow$ intimacy develops
 - This study: We all have motives to expand self. Fast Friends (vs. small talk) $\rightarrow$ Self-disclosure $\rightarrow$ intimacy develops and IOS
 
-i.e., Intimacy is not merely a byproduct of time spent together; it is an active cognitive function of reciprocal self-disclosure that forces a rapid recalibration of where "Self" ends and "Other" begins.
+i.e., Intimacy is not merely a feeling, but an active cognitive function of reciprocal self-disclosure that forces a rapid recalibration of where "Self" ends and "Other" begins.
 :::
 
 _Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
