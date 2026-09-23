@@ -193,7 +193,7 @@ How do we know close others become part of the self, versus the alternative expl
 	- Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
 	- IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
 	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
-    - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI
+    - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI (even higher than those reported for close friends/romantic partner)
 
 :::warning
 Implication: Self-concept boundaries are porous and reactive. Intimacy is not merely a byproduct of time spent together; it is an active cognitive function of reciprocal self-disclosure that forces a rapid recalibration of where "Self" ends and "Other" begins.
@@ -202,6 +202,9 @@ Implication: Self-concept boundaries are porous and reactive. Intimacy is not me
 _Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
 ## Relational self vs. self selection?
 
+:::info
+Beyond conversation, what happens when couples physically engage in novel, challenging, or high-arousal tasks together? Can behaviorally expanding the self reverse relationship boredom and enhance satisfaction?
+:::
 - Intervention 2
 
 
