@@ -155,7 +155,21 @@ Maya identifies with first-generation graduate students.
 
 A group membership.
 
-<!-- slide 2col -->
+<!-- slide -->
+## Relational Self
+
+
+- Traditional social psychology viewed the self as a bounded, autonomous container. While theories like Symbolic Interactionism (Mead) suggested others influence our self-concept,Aron et al. (1991) pushed this further: **Do we literally process close others as part of ourselves?**
+
+- The **Inclusion of Other in the Self** (IOS) model. The core premise is that as relationships grow close, the psychological boundaries between self and other blur. Resources, perspectives, and characteristics of the other are shared and mapped onto the cognitive structure of the self.
+
+- [Study 1 & 2] Participants were presented with trait adjectives on a computer screen and had to press "Me" or "Not Me" as quickly as possible.
+	- IV: They evaluated traits for themselves, for a close other (e.g., best friend or romantic partner), and for an acquaintance. Critically, researchers manipulated or analyzed cases where the participant’s traits **overlapped** with the close other vs. where they **diverged** (traits true for the self, but not the friend, or vice versa).
+	- DV: Reaction time (latency) in ms. 
+	- Hypothesis: If the self and close other share cognitive space, deciding "Me" when a trait describes only the friend (or vice versa) should incur cognitive interference, leading to longer reaction times, compared to an acquaintance.
+
+
+_Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. Journal of Personality and Social Psychology, 60(2), 241–253._<!-- slide 2col -->
 ## Culture requires more than a country label
 <!-- @left -->
 **A useful starting contrast**
