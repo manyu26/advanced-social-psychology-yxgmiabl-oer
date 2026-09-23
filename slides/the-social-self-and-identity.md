@@ -189,7 +189,7 @@ Does a reaction-time delay truly indicate structural integration of the self, or
 
 - fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
 <!-- slide -->
-## Relational self vs. self selection?
+## Relational self vs. self selection? Alt. explanations?
 
 :::info
 How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?
