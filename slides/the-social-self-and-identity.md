@@ -176,13 +176,16 @@ _Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as i
 Participants were significantly slower to reject traits that were true of their close other but not true of themselves, compared to traits true of an acquaintance.
 :::
 
-This demonstrated a **cognitive confusion effect**: the psychological boundary of "Self" expanded to automatically encompass attributes of the close other.<!-- slide -->
-## Relational Self (critique to Aron et al.)
+This demonstrated a **cognitive confusion effect**: the psychological boundary of "Self" expanded to automatically encompass attributes of the close other.
+
+:::warning
+If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?
+:::<!-- slide -->
+## Relational Self - alternative explanations?
 
 - Does a reaction-time delay truly indicate structural integration of the self, or is it merely semantic priming / associative network overlap? How would modern social neuroscientists test this differently? 
 	- fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
-- How would these IOS effects manifest differently in individualistic Western cultures versus collectivistic cultures?
-- If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?<!-- slide -->
+<!-- slide -->
 ## Relational self vs. self selection?
 
 :::info
