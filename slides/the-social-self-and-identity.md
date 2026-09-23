@@ -183,7 +183,7 @@ This demonstrated a **cognitive confusion effect**: the psychological boundary o
 	- fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
 - How would these IOS effects manifest differently in individualistic Western cultures versus collectivistic cultures?
 - If the self includes the other, what happens structurally to the self-concept during a painful breakup or bereavement?<!-- slide -->
-## Relational self vs. self selection
+## Relational self vs. self selection?
 
 :::info
 How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?
@@ -195,7 +195,13 @@ How do we know close others become part of the self, versus the alternative expl
 	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
     - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI
 
-_Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide 2col -->
+_Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide -->
+## Relational self vs. self selection?
+
+- Intervention 2
+
+
+_Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273–284._<!-- slide 2col -->
 ## Culture requires more than a country label
 <!-- @left -->
 **A useful starting contrast**
