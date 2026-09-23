@@ -203,7 +203,7 @@ Can we artificially induce structural self-expansion and replicate the psycholog
 - Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
 - IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
 - Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
-- Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI (even higher than those reported for close friends/romantic partner)
+- Fast friend condition - Higher subjective closeness inventory (SCI) score and IOS (even higher than those reported for close friends/romantic partner)
 
 :::warning
 Implication: 
