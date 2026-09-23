@@ -200,11 +200,13 @@ How do we know close others become part of the self, versus the alternative expl
 	- Further developed two interventions to address these issues. <!-- slide -->
 ## Relational self vs. self selection?
 
-- Intervention 1: The "Fast Friends" Procedure: Can we artificially induce structural self-expansion and replicate the psychological closeness of a long-term relationship with a total stranger in less than an hour?
-	- Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
-	- IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
-	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
-    - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI (even higher than those reported for close friends/romantic partner)
+## **Intervention 1** - The "Fast Friends" Procedure
+Can we artificially induce structural self-expansion and replicate the psychological closeness of a long-term relationship with a total stranger in less than an hour?
+
+- Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
+- IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
+- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
+- Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI (even higher than those reported for close friends/romantic partner)
 
 :::warning
 Implication: 
@@ -220,7 +222,8 @@ _Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The 
 :::info
 Beyond conversation, what happens when couples physically engage in novel, challenging, or high-arousal tasks together? Can behaviorally expanding the self reverse relationship boredom and enhance satisfaction?
 :::
-- Intervention 2
+
+## Intervention 2
 
 
 _Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273–284._<!-- slide 2col -->
