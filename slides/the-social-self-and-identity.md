@@ -2,15 +2,19 @@
 title: Module 4 — The Social Self and Identity
 ratio: 16:9
 author: Manyu Li · PSYC 538
-footer: Chen & Critcher (2025) · PSYC 538 · CC BY-SA 4.0
+footer: Core reading: Chen & Critcher (2025) · PSYC 538 · CC BY-SA 4.0
 
 theme: paper
 -->
 
-<!-- slide template=title -->
-# The Social Self and Identity
-## Module 4 · Advanced Social Psychology
-Manyu Li · University of Louisiana at Lafayette
+<!-- deck
+title: Module 4 — The Social Self and Identity
+ratio: 16:9
+author: Manyu Li · PSYC 538
+footer: Core reading: Chen & Critcher (2025) · PSYC 538 · CC BY-SA 4.0
+
+theme: paper
+-->
 
 <!-- slide 2col -->
 ## Learning objectives: Representations and evidence
