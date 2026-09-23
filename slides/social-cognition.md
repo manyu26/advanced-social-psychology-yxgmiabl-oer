@@ -6,12 +6,19 @@ theme: paper
 <!-- deck
 title: Module 3: Social Cognition, Impression Formation, and Attribution
 ratio: 16:9
-footer: PSYC 538 · Advanced Social Psychology · CC BY-SA 4.0
+footer: CC BY-SA 4.0
 -->
 
-<!-- slide template=title -->
-# Module 3: Social Cognition, Impression Formation, and Attribution
-## Knowing the unknowable — how people read minds they cannot see
+<!-- deck
+theme: paper
+-->
+
+
+<!-- deck
+title: Module 3: Social Cognition, Impression Formation, and Attribution
+ratio: 16:9
+footer: CC BY-SA 4.0
+-->
 
 <!-- slide -->
 ## Learning objectives
