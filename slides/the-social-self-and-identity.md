@@ -333,11 +333,10 @@ The review describes poorer recall for threatening information about central sel
 
 <!-- slide -->
 ## Ranking and calibration answer different questions
-![Actual scores of 50, 65, and 80 paired with estimates of 60, 75, and 90.](../assets/module4-accuracy.svg =640x)
+![Actual scores of 50, 65, and 80 paired with estimates of 60, 75, and 90.](https://alembic.orz.how/d/doc-3wrlt5t5qg69)
 
 **Data summary:** These hypothetical scores preserve order perfectly; every estimate is 10 points too high.
-
-<!-- slide step -->
+ <!-- slide step -->
 ## Worked example: Both conclusions are true
 **Actual:** 50, 65, 80 · **Estimated:** 60, 75, 90
 - Signed errors: +10, +10, +10
