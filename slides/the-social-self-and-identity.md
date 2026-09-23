@@ -241,7 +241,8 @@ Couples assigned to the novel, arousing, challenging task showed significantly g
 :::info
 Does Fast Friends work because of self-disclosure (cognitive intimacy), or does the "novelty" of the 36 questions mimic the self-expansion mechanism found in Aron's physical obstacle-course studies? How would you design a 2x2 factorial study to separate disclosure from pure behavioral novelty?
 :::<!-- slide 2col -->
-## Culture requires more than a country label
+## Collective Self: Culture 
+
 <!-- @left -->
 **A useful starting contrast**
 - Independence: distinction and autonomy
@@ -253,7 +254,9 @@ Does Fast Friends work because of self-disclosure (cognitive intimacy), or does 
 - How much variation exists within groups?
 - What do institutions and situations make salient?
 
-<!-- slide main-side -->
+:::warning
+Culture requires more than a country label
+:::<!-- slide main-side -->
 ## Authenticity can be studied as an experience
 <!-- @main -->
 - Definitions differ across research traditions.
@@ -265,9 +268,7 @@ Does Fast Friends work because of self-disclosure (cognitive intimacy), or does 
 **Institutional implication**
 
 Ask what a setting supports or constrains, alongside what the student believes.
-:::
-
-<!-- slide step -->
+:::<!-- slide step -->
 ## Example: Why does Maya feel more at ease here?
 **A community research group feels more authentic than a competitive meeting.**
 - Hypothesis 1: a valued collaborative identity is activated.
