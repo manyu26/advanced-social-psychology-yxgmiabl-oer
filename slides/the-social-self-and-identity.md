@@ -6,13 +6,11 @@ author: Manyu Li · PSYC 538
 theme: paper
 -->
 
-<!-- deck
-title: Module 4 — The Social Self and Identity
-ratio: 16:9
-author: Manyu Li · PSYC 538
-
-theme: paper
--->
+<!-- slide template=title -->
+# Module 4 — The Social Self and Identity
+## Core reading: Chen
+ <!-- slide -->
+## New slide
 
 <!-- slide 2col -->
 ## Learning objectives: Representations and evidence
