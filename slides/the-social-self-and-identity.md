@@ -221,7 +221,6 @@ Beyond conversation, what happens when couples physically engage in novel, chall
 :::
 
 ## Intervention 2
-Beyond conversation, what happens when couples physically engage in novel, challenging, or high-arousal tasks together? Can behaviorally expanding the self reverse relationship boredom and enhance satisfaction?
 
 - Established married couples were recruited and brought into the laboratory.
 - IV: _Arousing condition_: Couples were bound together at the wrists and ankles with velcro straps and foam blocks, and required to crawl across a gym mat while pushing a pillow-like block across the floor using specific, awkward movements within a strict time limit (akin to a bizarre obstacle course). _The Control Condition_: Couples performed a low-arousal, familiar task together (e.g., rolling a ball back and forth across the room or sorting mundane items). (7-minute activity)
@@ -235,7 +234,8 @@ Couples assigned to the novel, arousing, challenging task showed significantly g
 :::
 
 - When humans engage in novel, stimulating tasks, the brain experiences neurochemical activation (dopamine/arousal). Because the partner is physically present and embedded in the novel challenge, the individual attributes the expansion and physiological arousal to the partner/relationship.
-- Routine leads to cognitive stagnation (self-contraction), whereas novelty forces the self-concept to incorporate fresh resources, perspectives, and excitement.<!-- slide -->
+- Routine leads to cognitive stagnation (self-contraction), whereas novelty forces the self-concept to incorporate fresh resources, perspectives, and excitement.
+- Also relates to misattribution of arousal...<!-- slide -->
 ## Self-expansion vs. self-disclosure vs. novelty?
 
 :::info
