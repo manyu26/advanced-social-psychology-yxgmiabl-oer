@@ -189,7 +189,13 @@ This demonstrated a **cognitive confusion effect**: the psychological boundary o
 How do we know close others become part of the self, versus the alternative explanation: that we selectively form close relationships with people who are already remarkably similar to us?
 :::
 
-- <!-- slide 2col -->
+- Intervention 1: The "Fast Friends" Procedure: Can we artificially induce structural self-expansion and replicate the psychological closeness of a long-term relationship with a total stranger in less than an hour?
+	- Dyadic Assignment: Unacquainted pairs of undergraduate students were brought into the lab and randomly assigned to one of two conditions:
+	- IV: fast friends condition (36 structured questions broken into 3 progessviely deeper tiers) vs. small-talk condition (superficial, low-disclosure interactions) over 45 minutes
+	- Tier 1 (Surface) > Tier 2 (Vulnerability/values) > Tier 3 (Deep intimacy)
+    - Fast friend condition - Higher subjective closeness inventory (SCI) score and SCI
+
+_Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363–377._<!-- slide 2col -->
 ## Culture requires more than a country label
 <!-- @left -->
 **A useful starting contrast**
