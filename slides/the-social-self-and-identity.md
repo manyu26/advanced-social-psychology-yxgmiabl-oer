@@ -183,8 +183,11 @@ If the self includes the other, what happens structurally to the self-concept du
 :::<!-- slide -->
 ## Relational Self - alternative explanations?
 
-- Does a reaction-time delay truly indicate structural integration of the self, or is it merely semantic priming / associative network overlap? How would modern social neuroscientists test this differently? 
-	- fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
+:::info
+Does a reaction-time delay truly indicate structural integration of the self, or is it merely semantic priming / associative network overlap? How would modern social neuroscientists test this differently? 
+:::
+
+- fMRI studies: the Medial Prefrontal Cortex (tied to self-referential processing) activates similarly when thinking about the self and close others like mothers or romantic partners.
 <!-- slide -->
 ## Relational self vs. self selection?
 
