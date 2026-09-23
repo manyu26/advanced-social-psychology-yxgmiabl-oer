@@ -159,7 +159,7 @@ A group membership.
 ## Relational Self
 
 
-- Traditional social psychology viewed the self as a bounded, autonomous container. While theories like Symbolic Interactionism (Mead) suggested others influence our self-concept,Aron et al. (1991) pushed this further: **Do we literally process close others as part of ourselves?**
+- Traditional social psychology viewed the self as a bounded, autonomous container. While theories like Symbolic Interactionism (Mead) suggested others influence our self-concept, Aron et al. (1991) pushed this further: **Do we literally process close others as part of ourselves?**
 
 - The **Inclusion of Other in the Self** (IOS) model. The core premise is that as relationships grow close, the psychological boundaries between self and other blur. Resources, perspectives, and characteristics of the other are shared and mapped onto the cognitive structure of the self.
 
