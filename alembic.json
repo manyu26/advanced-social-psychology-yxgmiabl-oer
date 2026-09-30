@@ -47,6 +47,10 @@
     {
       "slug": "culture",
       "title": "Culture"
+    },
+    {
+      "slug": "goals-and-motivation",
+      "title": "Goals and Motivation"
     }
   ],
   "unitTerm": "module",
