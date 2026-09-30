@@ -327,7 +327,7 @@ Greater reliance on the negative thoughts can reduce persuasion. The account doe
 
 <!-- slide -->
 ## Persuasion has several endpoints
-![Engagement, thought confidence, and behavioral change must be assessed separately.](../assets/module5-figure3.svg =680x)
+![Engagement, thought confidence, and behavioral change must be assessed separately.](https://alembic.orz.how/d/doc-n7wct18gw2fn)
 
 **Figure 5.3: Persuasion has several endpoints.** Original instructional schematic.
 
