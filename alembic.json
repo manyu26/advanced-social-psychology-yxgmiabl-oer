@@ -61,12 +61,12 @@
       "title": "Close Relationship"
     },
     {
-      "slug": "cooperation-and-conflict",
-      "title": "Cooperation and Conflict"
-    },
-    {
       "slug": "intergroup-relations",
       "title": "Intergroup Relations"
+    },
+    {
+      "slug": "cooperation-and-conflict",
+      "title": "Cooperation and Conflict"
     }
   ],
   "unitTerm": "module",
