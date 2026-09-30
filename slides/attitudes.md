@@ -190,7 +190,7 @@ The endpoint shows extremity; the subsequent change provides evidence about resi
 
 <!-- slide -->
 ## One midpoint, two possibilities
-![The same midpoint can reflect indifference or opposing evaluations; felt conflict needs its own measure.](../assets/module5-figure2.svg =680x)
+![The same midpoint can reflect indifference or opposing evaluations; felt conflict needs its own measure.](https://alembic.orz.how/d/doc-p7keb3o7jtsw)
 
 **Figure 5.2: One midpoint, two possibilities.** Original instructional schematic.
 
