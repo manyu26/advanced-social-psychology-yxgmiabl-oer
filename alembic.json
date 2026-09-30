@@ -55,6 +55,10 @@
     {
       "slug": "social-influence",
       "title": "Social Influence"
+    },
+    {
+      "slug": "close-relationship",
+      "title": "Close Relationship"
     }
   ],
   "unitTerm": "module",
