@@ -47,7 +47,7 @@ Core Reading: Tormala, Z. L., & Rucker, D. D. (2025). Attitudes: Form, function,
 
 <!-- slide -->
 ## From evaluation to action
-![An evaluation influences action through processes that depend on context and opportunity.](../assets/module5-figure1.svg =680x)
+![An evaluation influences action through processes that depend on context and opportunity.](https://alembic.orz.how/d/doc-na0vu034mw6k)
 
 **Figure 5.1: From evaluation to action.** Original instructional schematic.
 
