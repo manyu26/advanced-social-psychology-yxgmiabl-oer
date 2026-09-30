@@ -4,7 +4,7 @@
 Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Tormala & Rucker (2025).
 :::
 
-## Learning objectives{{attrs[#blk-2npdzx2fdz0e]}}
+## Learning objectives{{attrs[#blk-tb78hkyr870d]}}
 
 - **5.1a:** Distinguish attitude valence, evaluative bases, and ambivalence.
 - **5.2a:** Evaluate attitude–behavior correspondence using matched targets and contexts.
@@ -14,7 +14,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **5.6a:** Use elaboration and thought confidence to generate conditional persuasion predictions.
 - **5.7a:** Separate openness, attitude change, and advocacy effectiveness.
 
-## Question 1 · Objective 5.1a{{attrs[#blk-37gly3qdva07]}}
+## Question 1 · Objective 5.1a{{attrs[#blk-9hbyadgsnmxo]}}
 
 :::: tabs
 ::: tab Q 1
@@ -27,7 +27,7 @@ Collect separate positive and negative ratings and a report of felt conflict. Th
 :::
 ::::
 
-## Question 2 · Objective 5.1a{{attrs[#blk-tz6qm815qshi]}}
+## Question 2 · Objective 5.1a{{attrs[#blk-vrj420ctxcay]}}
 
 :::: tabs
 ::: tab Q 2
@@ -40,7 +40,7 @@ B. Opposing evaluations coexist in the measured representation. Whether the pers
 :::
 ::::
 
-## Question 3 · Objective 5.2a{{attrs[#blk-k13wd2sobq9j]}}
+## Question 3 · Objective 5.2a{{attrs[#blk-o61ztqjhho70]}}
 
 :::: tabs
 ::: tab Q 3
@@ -53,7 +53,7 @@ Measure evaluation of that journey and document schedule, access, weather, and c
 :::
 ::::
 
-## Question 4 · Objective 5.2a{{attrs[#blk-e4k1vp7pa99b]}}
+## Question 4 · Objective 5.2a{{attrs[#blk-wawkla78d2fr]}}
 
 :::: tabs
 ::: tab Q 4
@@ -66,7 +66,7 @@ No. The reported intention increased by 20 scale points; attendance did not chan
 :::
 ::::
 
-## Question 5 · Objective 5.3a{{attrs[#blk-2n5w4ctwu04j]}}
+## Question 5 · Objective 5.3a{{attrs[#blk-80ctfclzv7b2]}}
 
 :::: tabs
 ::: tab Q 5
@@ -79,7 +79,7 @@ The endpoint shows extremity; the subsequent change provides evidence about resi
 :::
 ::::
 
-## Question 6 · Objective 5.3a{{attrs[#blk-tyfobwhfryt8]}}
+## Question 6 · Objective 5.3a{{attrs[#blk-2hbxeuj4k7v4]}}
 
 :::: tabs
 ::: tab Q 6
@@ -92,7 +92,7 @@ Measure a proposed predictor, such as baseline certainty, independently of the p
 :::
 ::::
 
-## Question 7 · Objective 5.4a{{attrs[#blk-ondve456f31r]}}
+## Question 7 · Objective 5.4a{{attrs[#blk-ztm3k160txlm]}}
 
 :::: tabs
 ::: tab Q 7
@@ -105,7 +105,7 @@ Compare equally repeated badges paired with neutral versus pleasant scenes, with
 :::
 ::::
 
-## Question 8 · Objective 5.4a{{attrs[#blk-ohqdl9svqql3]}}
+## Question 8 · Objective 5.4a{{attrs[#blk-c8p6ftiy4aej]}}
 
 :::: tabs
 ::: tab Q 8
@@ -118,7 +118,7 @@ Not from that association alone. Initial attitudes may influence both selection 
 :::
 ::::
 
-## Question 9 · Objective 5.5a{{attrs[#blk-348p9xknugv8]}}
+## Question 9 · Objective 5.5a{{attrs[#blk-oaasbmlzg3o1]}}
 
 :::: tabs
 ::: tab Q 9
@@ -131,7 +131,7 @@ The student might infer support from voluntarily writing the essay, learn new ar
 :::
 ::::
 
-## Question 10 · Objective 5.5a{{attrs[#blk-piha5sn28it6]}}
+## Question 10 · Objective 5.5a{{attrs[#blk-x7f7qrf6xyh4]}}
 
 :::: tabs
 ::: tab Q 10
@@ -144,7 +144,7 @@ No. The reviewer may have corrected in the intended direction while overshooting
 :::
 ::::
 
-## Question 11 · Objective 5.6a{{attrs[#blk-tuqkppzjvh06]}}
+## Question 11 · Objective 5.6a{{attrs[#blk-lizk6z7xagc7]}}
 
 :::: tabs
 ::: tab Q 11
@@ -157,7 +157,7 @@ Greater reliance on the negative thoughts can reduce persuasion. The account doe
 :::
 ::::
 
-## Question 12 · Objective 5.6a{{attrs[#blk-29nk61ds09q7]}}
+## Question 12 · Objective 5.6a{{attrs[#blk-dtg8z73k5eev]}}
 
 :::: tabs
 ::: tab Q 12
@@ -170,7 +170,7 @@ Agreement could reflect a shortcut based on credentials, or evaluation of the ex
 :::
 ::::
 
-## Question 13 · Objective 5.7a{{attrs[#blk-dplgvafwxzwg]}}
+## Question 13 · Objective 5.7a{{attrs[#blk-ckkcz5bu1edo]}}
 
 :::: tabs
 ::: tab Q 13
@@ -183,7 +183,7 @@ The answer depends on the preregistered target. It may have improved receptivene
 :::
 ::::
 
-## Question 14 · Objective 5.7a{{attrs[#blk-6mcywpzeaxcj]}}
+## Question 14 · Objective 5.7a{{attrs[#blk-6tgsdj68k9k5]}}
 
 :::: tabs
 ::: tab Q 14
@@ -196,7 +196,7 @@ Randomly assign recipients to messages produced under the advocacy intervention 
 :::
 ::::
 
-## References and attribution{{attrs[#blk-89eejymmxcwf]}}
+## References and attribution{{attrs[#blk-oggntvr05h4t]}}
 
 Tormala, Z. L., & Rucker, D. D. (2025). Attitudes: Form, function, and the factors that shape them. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/EOQW7740
 
