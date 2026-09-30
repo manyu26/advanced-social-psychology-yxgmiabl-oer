@@ -3,13 +3,15 @@ title: Module 5 — Attitudes
 ratio: 16:9
 author: Manyu Li · PSYC 538
 footer: Tormala & Rucker (2025) · PSYC 538 · CC BY-SA 4.0
+
+theme: paper
 -->
 
 <!-- slide template=title -->
 # Attitudes
 ## Module 5 · Advanced Social Psychology
-Manyu Li · University of Louisiana at Lafayette
 
+Core Reading: Tormala, Z. L., & Rucker, D. D. (2025). Attitudes: Form, function, and the factors that shape them. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/EOQW7740](https://doi.org/10.70400/EOQW7740)
 <!-- slide -->
 ## Learning objectives
 - **5.1a:** Distinguish attitude valence, evaluative bases, and ambivalence.
