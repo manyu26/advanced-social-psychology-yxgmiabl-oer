@@ -2,7 +2,9 @@
 
 ::: info
 **Study Guide** developed for MS in Psychology students in PSYC 538 · Advanced Social Psychology by Manyu Li, University of Louisiana at Lafayette
+
 **Reading:** Ellemers, N., & Scheepers, D. (2025). Intergroup relations: The level, content, and dynamics of cooperation and conflict between groups. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/MVRG3326](https://doi.org/10.70400/MVRG3326)
+
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
 
@@ -18,7 +20,7 @@
 - **11.7a:** Evaluate contact using interaction quality, status, and consequences for inequality.
 :::
 
-## Module logic{{attrs[#blk-kumpojbgdce7]}}
+## Module logic{{attrs[#blk-kh6m1eow6ncr]}}
 
 Connect judgments to group identities, unequal positions, and institutional practices. Distinguish attitudes from behavior and evaluate interventions against both contact quality and material consequences.
 
@@ -28,7 +30,7 @@ Connect judgments to group identities, unequal positions, and institutional prac
 
 **Visual description:** Different levels of evidence require different explanatory comparisons.
 
-## 11.1 Stereotypes, prejudice, and discrimination{{attrs[#blk-eyh239tc86s9]}}
+## 11.1 Stereotypes, prejudice, and discrimination{{attrs[#blk-871syfaety8p]}}
 
 ::: success
 **Objective 11.1a:** Distinguish beliefs, evaluations, and treatment while identifying their levels of analysis.
@@ -65,7 +67,7 @@ The trait attribution is a stereotype; its positive tone does not establish equa
 
 **Self-check:** Unequal promotion rates identify one prejudiced decision maker: evaluate this claim.
 
-## 11.2 Categorization and social identity{{attrs[#blk-scdwl7kwjuy4]}}
+## 11.2 Categorization and social identity{{attrs[#blk-2gvj2aeit1t3]}}
 
 ::: success
 **Objective 11.2a:** Distinguish ingroup preference from outgroup hostility in group-based behavior.
@@ -102,7 +104,7 @@ Include a comparable recipient without the relevant group distinction. A neutral
 
 **Self-check:** Would a minimal-group effect establish that history is irrelevant to discrimination?
 
-## 11.3 Content, status, and forms of bias{{attrs[#blk-pdi89u6k45ug]}}
+## 11.3 Content, status, and forms of bias{{attrs[#blk-0mtnqa7xvxrl]}}
 
 ::: success
 **Objective 11.3a:** Analyze how apparently helpful behavior can preserve unequal status.
@@ -145,7 +147,7 @@ The amount of assistance does not reveal whether recipients gain capability or r
 
 **Visual description:** Responses depend on perceived possibilities and constraints and can occur together.
 
-## 11.4 Legitimacy and responses to inequality{{attrs[#blk-0ohw87qfy1fv]}}
+## 11.4 Legitimacy and responses to inequality{{attrs[#blk-20oflx2bwvnu]}}
 
 ::: success
 **Objective 11.4a:** Compare hierarchy maintenance with responses available to lower-status group members.
@@ -182,7 +184,7 @@ No. Compliance can reflect constraints and costs. Measure legitimacy judgments s
 
 **Self-check:** How could individual mobility and collective action coexist?
 
-## 11.5 Threat, history, and collective emotions{{attrs[#blk-0xof118to20j]}}
+## 11.5 Threat, history, and collective emotions{{attrs[#blk-8jtvmaq6j423]}}
 
 ::: success
 **Objective 11.5a:** Explain how interpretations of history and threat can sustain conflict.
@@ -219,7 +221,7 @@ Similar opposition can arise from different concerns. Funding reassurance may no
 
 **Self-check:** Does lower collective guilt always indicate reconciliation?
 
-## 11.6 Measuring bias and testing mechanisms{{attrs[#blk-84f15dibbkzp]}}
+## 11.6 Measuring bias and testing mechanisms{{attrs[#blk-fsjlhhlx26sr]}}
 
 ::: success
 **Objective 11.6a:** Match measures and comparisons to a bounded claim about intergroup behavior.
@@ -262,7 +264,7 @@ The score describes performance under a procedure, with uncertainty and limited 
 
 **Visual description:** Interventions need outcomes appropriate to relationships and inequality.
 
-## 11.7 Contact and intervention design{{attrs[#blk-3mbhxkjp2k7z]}}
+## 11.7 Contact and intervention design{{attrs[#blk-20eofhlmzv1u]}}
 
 ::: success
 **Objective 11.7a:** Evaluate contact using interaction quality, status, and consequences for inequality.
@@ -301,13 +303,13 @@ It may improve the measured evaluation without demonstrating equal participation
 
 **Self-check:** What risk arises when common identity requires ignoring subgroup experiences?
 
-## Synthesis and seminar preparation{{attrs[#blk-1ubx4qkd74mq]}}
+## Synthesis and seminar preparation{{attrs[#blk-gvy6lfpbyglx]}}
 
 Connect judgments to group identities, unequal positions, and institutional practices. Distinguish attitudes from behavior and evaluate interventions against both contact quality and material consequences.
 
 For the final commentary, identify a claim from a chosen article, specify the construct and measure, and develop an alternative that the design cannot yet exclude. Propose one feasible comparison and explain how its possible outcomes would change the interpretation.
 
-## Asset and License Record for This Module{{attrs[#blk-yeuwkw9snqyd]}}
+## Asset and License Record for This Module{{attrs[#blk-65jp8inz54ju]}}
 
 | Asset | Source URL | License | Attribution |
 | --- | --- | --- | --- |
@@ -315,7 +317,7 @@ For the final commentary, identify a claim from a chosen article, specify the co
 | Figure 11.2: Responses to lower group status | ![module11-figure2.svg](https://alembic.orz.how/d/doc-4pmuxl6hufk9) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
 | Figure 11.3: Evaluate more than pleasant contact | ![module11-figure3.svg](https://alembic.orz.how/d/doc-le05hqfuec2l) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
 
-## References and attribution{{attrs[#blk-sf7nht7xlw26]}}
+## References and attribution{{attrs[#blk-cjypy9ja0iam]}}
 
 Ellemers, N., & Scheepers, D. (2025). Intergroup relations: The level, content, and dynamics of cooperation and conflict between groups. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/MVRG3326](https://doi.org/10.70400/MVRG3326)
 
