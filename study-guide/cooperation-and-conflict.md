@@ -3,7 +3,6 @@
 ::: info
 **Study Guide** developed for MS in Psychology students in PSYC 538 · Advanced Social Psychology by Manyu Li, University of Louisiana at Lafayette\
 **Reading:** Van Lange, P. A. M. (2025). Cooperation and conflict. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/DFEX3364](https://doi.org/10.70400/DFEX3364)
-
 **License:** CC BY-SA 4.0. This reading companion uses original explanations and teaching examples; full source details appear below.
 :::
 
@@ -20,7 +19,7 @@
 - **12.8a:** Connect a situation, its interpretation, interaction, and institutions in a testable account.
 :::
 
-## Module logic
+## Module logic{{attrs[#blk-dmhc5sps1s7f]}}
 
 Integrate motives, interdependence, and institutions. Connect the earlier prosocial and aggression lectures to the assigned chapter’s analysis of situations, interaction, networks, and conflict management.
 
@@ -30,7 +29,7 @@ Integrate motives, interdependence, and institutions. Connect the earlier prosoc
 
 **Visual description:** Cooperation depends on actors and the structure of their interdependence.
 
-## 12.1 Map the interdependent situation
+## 12.1 Map the interdependent situation{{attrs[#blk-cj3iec9krfkz]}}
 
 ::: success
 **Objective 12.1a:** Use a payoff structure to distinguish conflicting interests from mutual benefit.
@@ -67,7 +66,7 @@ Defection yields 5 rather than 3 if the partner cooperates, and 1 rather than 0 
 
 **Self-check:** Why check understanding of a payoff table?
 
-## 12.2 Prosocial outcomes and inferred motives
+## 12.2 Prosocial outcomes and inferred motives{{attrs[#blk-iln4euzwlrg5]}}
 
 ::: success
 **Objective 12.2a:** Distinguish helpful behavior from concern, equality, reciprocity, and reputation.
@@ -104,7 +103,7 @@ The act can benefit others while concern, enjoyment, reputation, and reciprocity
 
 **Self-check:** Does an equal split prove indifference to need?
 
-## 12.3 The boundaries of cooperation
+## 12.3 The boundaries of cooperation{{attrs[#blk-51syvnz1bx2g]}}
 
 ::: success
 **Objective 12.3a:** Explain how within-group cooperation can coexist with between-group conflict.
@@ -147,7 +146,7 @@ It cooperates internally but imposes costs across the boundary. Specify the leve
 
 **Visual description:** Different motives can produce the same helpful choice; comparisons must separate predictions.
 
-## 12.4 Communication, trust, and considerate choices
+## 12.4 Communication, trust, and considerate choices{{attrs[#blk-xdrkpaq7mnvz]}}
 
 ::: success
 **Objective 12.4a:** Explain how communication and preserving options can support cooperation.
@@ -186,7 +185,7 @@ Choosing blue leaves both colors available to the next person. Choosing green re
 
 **Self-check:** More discussion produces no improvement. Does this disprove all benefits of communication?
 
-## 12.5 Conflict, aggression, and escalation
+## 12.5 Conflict, aggression, and escalation{{attrs[#blk-1rqbhthon0mx]}}
 
 ::: success
 **Objective 12.5a:** Distinguish incompatible interests from intended harm and analyze escalation.
@@ -223,7 +222,7 @@ Map decisions, expectations, allocation rules, and consequences. Determine wheth
 
 **Self-check:** Is demanding immediate forgiveness a sufficient strategy?
 
-## 12.6 Negotiation and third-party involvement
+## 12.6 Negotiation and third-party involvement{{attrs[#blk-iaku6jy2jo6g]}}
 
 ::: success
 **Objective 12.6a:** Distinguish process control from decision control in conflict resolution.
@@ -266,7 +265,7 @@ The facilitator influences process while parties retain decision control, resemb
 
 **Visual description:** Agreement alone does not establish fairness or durable cooperation.
 
-## 12.7 Reputation, sanctions, and institutions
+## 12.7 Reputation, sanctions, and institutions{{attrs[#blk-ns1qb8zbau7f]}}
 
 ::: success
 **Objective 12.7a:** Evaluate benefits and costs of institutional supports for cooperation.
@@ -303,7 +302,7 @@ Report compliance alongside accuracy, burden distribution, and trust. Investigat
 
 **Self-check:** Does cooperation under monitoring establish changed prosocial motivation?
 
-## 12.8 Integrate a multilevel explanation
+## 12.8 Integrate a multilevel explanation{{attrs[#blk-umdwu530qyz1]}}
 
 ::: success
 **Objective 12.8a:** Connect a situation, its interpretation, interaction, and institutions in a testable account.
@@ -340,13 +339,13 @@ It may preserve incompatible incentives, or users may misunderstand or distrust 
 
 **Self-check:** What distinguishes integration from listing twelve module topics?
 
-## Synthesis and seminar preparation
+## Synthesis and seminar preparation{{attrs[#blk-d1cyq8ciemcz]}}
 
 Integrate motives, interdependence, and institutions. Connect the earlier prosocial and aggression lectures to the assigned chapter’s analysis of situations, interaction, networks, and conflict management.
 
 For the final commentary, identify a claim from a chosen article, specify the construct and measure, and develop an alternative that the design cannot yet exclude. Propose one feasible comparison and explain how its possible outcomes would change the interpretation.
 
-## Asset and License Record for This Module
+## Asset and License Record for This Module{{attrs[#blk-6oke7meqsfak]}}
 
 | Asset | Source URL | License | Attribution |
 | --- | --- | --- | --- |
@@ -354,11 +353,10 @@ For the final commentary, identify a claim from a chosen article, specify the co
 | Figure 12.2: One act, several possible motives | ![module12-figure2.svg](https://alembic.orz.how/d/doc-e8srp528b2i4) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
 | Figure 12.3: Evaluate conflict management | ![module12-figure3.svg](https://alembic.orz.how/d/doc-6l0unm0cr4ow) | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
 
-## References and attribution
+## References and attribution{{attrs[#blk-8pi8xb5g4sxd]}}
 
 Van Lange, P. A. M. (2025). Cooperation and conflict. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/DFEX3364](https://doi.org/10.70400/DFEX3364)
 
 The cited original theories and studies were consulted through this review. The Handbook source is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Used for factual reference; explanations and teaching examples are newly written. No source figures or quoted prose are reproduced. The three diagrams are original instructional graphics. Numerical teaching examples are explicitly hypothetical. This study guide's original contributions are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Collection credit: Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. [https://doi.org/10.70400/NYKH3013](https://doi.org/10.70400/NYKH3013) · Cited as a source of facts and findings; no text or figures adapted.
-
