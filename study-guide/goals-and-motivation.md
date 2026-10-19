@@ -18,7 +18,7 @@
 - **8.7a:** Distinguish social facilitation, reduced effort, and coordinated division of labor.
 :::
 
-## Module logic
+## Module logic{{attrs[#blk-to7becflkd0f]}}
 
 Goals connect desired outcomes with actions. This module follows goal systems from selection through sustained pursuit, then examines conflicts and social coordination. Progress is evaluated against the intended outcome rather than effort alone.
 
@@ -28,7 +28,7 @@ Goals connect desired outcomes with actions. This module follows goal systems fr
 
 **Visual description:** The same activity can serve several ends, and several activities can serve the same end.
 
-## 8.1 Goals and means
+## 8.1 Goals and means{{attrs[#blk-j94dsobj70y3]}}
 
 ::: success
 **Objective 8.1a:** Analyze goal hierarchies, equifinality, and multifinality.
@@ -67,7 +67,7 @@ The group is multifinal because it serves productivity and friendship. The group
 
 **Self-check:** Adding three alternative study strategies reduces use of the original strategy. Does that prove motivation to learn declined?
 
-## 8.2 What makes pursuit worthwhile
+## 8.2 What makes pursuit worthwhile{{attrs[#blk-jkkpp8zbz73x]}}
 
 ::: success
 **Objective 8.2a:** Distinguish intrinsic value, external outcomes, and regulatory orientations.
@@ -104,7 +104,7 @@ No. The activity can carry immediate enjoyment and value as a route to employmen
 
 **Self-check:** A supervisor offers unrestricted choice but no guidance. Why might that fail to support motivation?
 
-## 8.3 Targets and incentives
+## 8.3 Targets and incentives{{attrs[#blk-iypmhetlxb1m]}}
 
 ::: success
 **Objective 8.3a:** Evaluate target setting and incentives against the desired outcome.
@@ -147,7 +147,7 @@ The rewarded action increased; demonstrated understanding did not improve in the
 
 **Visual description:** Interpretation determines whether progress encourages continuation or a shift toward another goal.
 
-## 8.4 Progress and persistence
+## 8.4 Progress and persistence{{attrs[#blk-qe4jmyxrzvuv]}}
 
 ::: success
 **Objective 8.4a:** Explain how progress framing and implementation plans affect continued pursuit.
@@ -184,7 +184,7 @@ Two sections remain, or 20% of the original target. The next section completes h
 
 **Self-check:** A plan says, “I will become a better writer.” Turn it into an implementation plan without replacing the broader goal.
 
-## 8.5 Learning from feedback
+## 8.5 Learning from feedback{{attrs[#blk-fk0aljtrc6rt]}}
 
 ::: success
 **Objective 8.5a:** Distinguish motivational and informational barriers to learning from failure.
@@ -221,7 +221,7 @@ The student may lack information about the correct principle or how to transfer 
 
 **Self-check:** An intervention improves confidence after failure. What evidence would support a learning benefit?
 
-## 8.6 Conflicts and self-control
+## 8.6 Conflicts and self-control{{attrs[#blk-tknf49sr5lp8]}}
 
 ::: success
 **Objective 8.6a:** Analyze competing goals and distinguish strategic self-control from effortful inhibition.
@@ -263,7 +263,7 @@ No. Changing the situation can be an effective self-control strategy. The outcom
 
 **Visual description:** Less individual time can indicate efficient coordination or reduced effort; collective outcomes help distinguish them.
 
-## 8.7 Pursuit with other people
+## 8.7 Pursuit with other people{{attrs[#blk-a5kdeskxg8ft]}}
 
 ::: success
 **Objective 8.7a:** Distinguish social facilitation, reduced effort, and coordinated division of labor.
@@ -302,13 +302,7 @@ Not necessarily. If coverage and quality improve because redundant work declines
 
 **Self-check:** Design a writing-group study that distinguishes social support from simply adding more working time.
 
-## Synthesis and seminar preparation
-
-Goals connect desired outcomes with actions. This module follows goal systems from selection through sustained pursuit, then examines conflicts and social coordination. Progress is evaluated against the intended outcome rather than effort alone.
-
-For the final commentary, identify a claim from a chosen article, specify the construct and measure, and develop an alternative that the design cannot yet exclude. Propose one feasible comparison and explain how its possible outcomes would change the interpretation.
-
-## Asset and License Record for This Module
+## Asset and License Record for This Module{{attrs[#blk-9j7ut4sf2yyv]}}
 
 | Asset | Source URL | License | Attribution |
 | --- | --- | --- | --- |
@@ -316,7 +310,7 @@ For the final commentary, identify a claim from a chosen article, specify the co
 | Figure 8.2: Progress can have different meanings | Local | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
 | Figure 8.3: Effort and output in a group | Local | CC-BY-SA-4.0 | Manyu Li, University of Louisiana at Lafayette. Original instructional graphic; SVG production assisted by Codex. No source artwork reproduced. |
 
-## References and attribution
+## References and attribution{{attrs[#blk-lutuqgddrriy]}}
 
 Fishbach, A. (2025). Goals and motivation. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/YBHK1018](https://doi.org/10.70400/YBHK1018)
 
