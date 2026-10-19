@@ -101,7 +101,7 @@ The group is multifinal because it serves productivity and friendship. The group
 
 <!-- @tr -->
 ## The Timing of Rewards
-- The paradox of delayed gratification: while long-term goals (e.g., health, graduation) require delayed rewards, human cognition heavily discounts the future. Persistence is driven by the presence of immediate rewards bundled with the long-term pursuit.
+- The paradox of delayed gratification: while long-term goals (e.g., health, graduation) require delayed rewards, human cognition heavily discounts the future.  
 
 <!-- @bl -->
 ## Regulatory Orientations
