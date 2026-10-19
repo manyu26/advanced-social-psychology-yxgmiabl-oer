@@ -14,8 +14,8 @@ theme: paper
 <!-- slide -->
 ## Learning objectives
 
-<!-- slide template=outline -->
-# The module sequence and learning objectives
+<!-- slide -->
+## The module sequence and learning objectives
 - 8.1 Goals and means: Analyze goal hierarchies, equifinality, and multifinality.
 - 8.2 What makes pursuit worthwhile: Distinguish intrinsic value, external outcomes, and regulatory orientations.
 - 8.3 Targets and incentives: Evaluate target setting and incentives against the desired outcome.
@@ -23,7 +23,7 @@ theme: paper
 - 8.5 Learning from feedback: Distinguish motivational and informational barriers to learning from failure.
 - 8.6 Conflicts and self-control: Analyze competing goals and distinguish strategic self-control from effortful inhibition.
 - 8.7 Pursuit with other people: Distinguish social facilitation, reduced effort, and coordinated division of labor.
-<!-- slide -->
+ <!-- slide -->
 ## A goal system
 ![The same activity can serve several ends, and several activities can serve the same end.](https://alembic.orz.how/d/doc-7qbnaxbjpeco)
 
