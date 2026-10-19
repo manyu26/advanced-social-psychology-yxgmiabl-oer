@@ -115,8 +115,8 @@ The group is multifinal because it serves productivity and friendship. The group
 ## The timing of rewards (Woolley & Fishbach, 2016)
 
 <!-- @left -->
-**Paradigm A**: 
-- Longitudinal tracking (new year's resolution). Survey participants in early January, asked them to rate resolution on (1) delayed rewards and (2) immediate rewards. Follow up in March on the actual adherence and persistence. 
+**Paradigm A**: Longitudinal tracking 
+-  Survey participants in early January, asked them to rate resolution on (1) delayed rewards and (2) immediate rewards. Follow up in March on the actual adherence and persistence. 
 - Results: delayed rewards (health, career) as the reason they chose their resolution. However, delayed rewards completely failed to predict adherence in March. Only the presence of immediate rewards (enjoyment) statistically predicted who was still persisting months later.
 
 <!-- @right -->
@@ -124,7 +124,7 @@ The group is multifinal because it serves productivity and friendship. The group
 - Immediate reward condition - choose a workout based on what they would enjoy right now
 - Delayed reward condition - choose a workout based on what would be most useful for their long-term health and fitness goals.
 - DV: number of sets and repetitions completed, weight used, time spent.
-- Results: 
+- Results: Participants in the immediate-reward condition completed significantly more sets of their chosen exercise than those in the delayed-reward condition.
 
 <!--
 Previous content — move it into the regions above, then delete this block.
