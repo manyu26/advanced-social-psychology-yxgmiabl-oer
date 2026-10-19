@@ -112,18 +112,20 @@ The group is multifinal because it serves productivity and friendship. The group
 - "do your best" as instruction? 
 - challenging targets work better by providing a clear standard for self-evaluation
 - range goal vs. single-point target<!-- slide 2col -->
-## Slide title
+## Single-point or range goal?
 
 <!-- @left -->
-
-## Range goal 
-
-<!-- @right -->
-## Single-point target
+## Single-point target (e.g., run 5k)
 
 - **Attainability (Self-Efficacy)**: If the target is set too high, early setbacks destroy perceived feasibility, leading to goal abandonment.
 - **Challenge (Effort Mobilization)**: If the target is set too low to ensure success, it fails to mobilize maximum effort and leaves potential performance on the table.
-- **The Binary Trap**: Single-point targets create a strict pass/fail dichotomy. Missing a daily target by a narrow margin often triggers the "what-the-hell effect" (a complete collapse of self-regulation for the remainder of the period).<!-- slide -->
+- **The Binary Trap**: Single-point targets create a strict pass/fail dichotomy. Missing a daily target by a narrow margin often triggers the "what-the-hell effect" (a complete collapse of self-regulation for the remainder of the period).
+
+<!-- @right -->
+## Range goal/Dual reference  (e.g., run 3-5k)
+- **The Attainability Floor (The Lower Bound)**: The lower end acts as a psychological safety net. It is highly attainable, which protects baseline self-efficacy and guarantees an early experience of success. 
+- **The Challenge Ceiling (The Upper Bound)**: Once the lower bound is secured, the upper end of the range takes over. The ceiling remains as an aspirational target. This engages the goal-gradient effect, pulling the individual toward maximum effort.
+<!-- slide -->
 ## New slide
 
 <!-- slide 2col -->
