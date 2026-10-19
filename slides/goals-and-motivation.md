@@ -170,6 +170,13 @@ Key findings:
 - For the behavioral DV, range-goal condition > single-target
 - Attainable and perceived challenge were the mediator
 :::<!-- slide -->
+## Approach and Avoidance Motivation
+- Most fundamental distinctions in motivation science
+- **Approach Goals**: The objective is to reduce the discrepancy between the current state and a desired end-state (e.g., "I want to earn an A"). Progress monitoring is straightforward: the closer you get, the clearer the feedback.
+- **Avoidance Goals**: The objective is to increase or maintain the discrepancy between the current state and an undesired end-state (e.g., "I must not fail this class"). Progress monitoring is ambiguous because the "anti-goal" is never truly defeated until the time period expires.
+- Cognitive load and affective states 
+	- Approach triggers an eagerness system, leading to emotions ranging from cheerfulness (when successful) to dejection/sadness (when failing).
+	- Avoidance triggers a vigilance system, leading to emotions ranging from quiescence/relief (when successful) to anxiety/agitation (when failing). Avoidance goals inherently consume more working memory because they require continuous scanning of the environment for threats.<!-- slide -->
 ## Regulatory Focus Theory (Crowe & Higgins, 1997)
 - Regulatory Focus Theory. Higgins reconceptualized approach/avoidance as Promotion Focus (approaching ideals and gains) versus Prevention Focus (avoiding ought-failures and losses).
 - IV: write about either their hopes and aspirations (Promotion) or their duties and obligations (Prevention)
