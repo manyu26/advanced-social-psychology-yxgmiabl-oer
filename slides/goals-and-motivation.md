@@ -188,6 +188,15 @@ Key findings:
 :::info
 Approach and avoidance are not just motivational fuel; they act as distinct cognitive lenses that fundamentally alter how individuals process information, tolerate risk, and define success.
 :::
+<!-- slide -->
+## 2x2 achievement goal framework (Elliot & McGregor, 2001)
+
+- Integrating regulatory focus with Mastery (self-referential improvement) versus Performance (normative comparison against others) 
+- Longitudinal study of undergrads, tracking students' study strategies, test anxiety, and final exam performance. They measured students' baseline of:
+	- Mastery-Approach (striving to learn)
+	- Mastery-Avoidance (striving not to lose skills/forget)
+	- Performance-Approach (striving to outperform peers), and
+	- Performance-Avoidance (striving not to look dumb compared to peers). 
 <!-- slide 2col -->
 ## Worked example
 <!-- @left -->
