@@ -115,7 +115,27 @@ A student enjoys coding and also wants a research job. Must the coding goal be c
 
 No. The activity can carry immediate enjoyment and value as a route to employment. Measure each source of motivation separately. A change in one does not imply that the other disappeared. The relevant prediction may concern persistence during practice versus commitment to obtaining the credential.
 
-<!-- slide template=section -->
+<!-- slide quad -->
+## Slide title
+
+<!-- @tl -->
+## Intrinsic Value vs. External Outcomes
+
+- Activities pursued as ends in themselves (intrinsic) versus means to an end (extrinsic)
+- Intrinsic motivation is not just a personality trait; it can be engineered by tightly associating the activity with the experience of the reward.
+
+<!-- @tr -->
+## The Timing of Rewards
+- The paradox of delayed gratification: while long-term goals (e.g., health, graduation) require delayed rewards, human cognition heavily discounts the future. Persistence is driven by the presence of immediate rewards bundled with the long-term pursuit.
+
+<!-- @bl -->
+## Regulatory Orientations
+- approach/promotion vs. avoidance/prevention
+
+<!-- @br -->
+## Target Setting Architecture
+- "do your best" as instruction? 
+- challenging targets work better by providing a clear standard for self-evaluation<!-- slide template=section -->
 # 8.3 Targets and incentives
 
 <!-- slide 2col -->
