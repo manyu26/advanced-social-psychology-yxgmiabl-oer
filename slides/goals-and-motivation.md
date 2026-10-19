@@ -197,7 +197,10 @@ Approach and avoidance are not just motivational fuel; they act as distinct cogn
 	- Mastery-Avoidance (striving not to lose skills/forget)
 	- Performance-Approach (striving to outperform peers), and
 	- Performance-Avoidance (striving not to look dumb compared to peers). 
-<!-- slide 2col -->
+- Results
+	- Performance-Avoidance was highly maladaptive. It positively predicted anticipatory test anxiety, surface-level processing (rote memorization), and worse exam performance.
+	- Mastery-Approach positively predicted deep cognitive processing and intrinsic motivation.
+	- Performance-Approach yielded mixed results—it sometimes boosted actual exam grades, but did not foster long-term intrinsic interest.<!-- slide 2col -->
 ## Worked example
 <!-- @left -->
 **Problem**
