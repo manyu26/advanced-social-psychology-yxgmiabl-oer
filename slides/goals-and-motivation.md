@@ -130,13 +130,19 @@ The group is multifinal because it serves productivity and friendship. The group
 Previous content — move it into the regions above, then delete this block.
 - Intention-action gap in reward timing: People set goals based on delayed rewards, but they persist based on immediate rewards. 
 
+-->
+<!-- slide -->
+## The timing of rewards (Woolley & Fishbach, 2016)
+
+- In another study within the paper focusing on healthy eating, instructing participants to focus on the immediate rewards of healthy food (e.g., "focus on the sweet, crunchy taste of the carrot") increased actual consumption of the healthy food far more than instructing them to focus on its long-term health benefits.
+
+:::info
 - Focusing on the immediate reward (how fun the workout was, or the immediate taste/experience of the healthy food) was a significantly stronger predictor of actual persistence.
 - Immediate gratification plus long-term goal creates a "perceptual fusion" between the activity and the goal. 
+:::
 
 
-*Woolley, K., & Fishbach, A. (2016). For the fun of it: Harnessing immediate rewards to increase persistence in long-term goals. Journal of Consumer Research, 42(6), 952-966.*
--->
-<!-- slide 2col -->
+*Woolley, K., & Fishbach, A. (2016). For the fun of it: Harnessing immediate rewards to increase persistence in long-term goals. Journal of Consumer Research, 42(6), 952-966.*<!-- slide 2col -->
 ## Single-point or range goal?
 
 <!-- @left -->
