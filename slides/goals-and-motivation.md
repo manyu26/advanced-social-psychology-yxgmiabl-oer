@@ -159,7 +159,17 @@ Previous content — move it into the regions above, then delete this block.
 <!-- slide -->
 ## Goal specificity (Scott & Nowlis, 2013)
 
-- The researchers compared participants pursuing a single-number goal (e.g., "lose 2 pounds this week") versus a high-low range goal (e.g., "lose 1 to 3 pounds this week"). Both average out to the same objective target. However, the range goal offers the psychological safety of high attainability (losing 1 pound is easy) combined with the motivational pull of high challenge (losing 3 pounds is an accomplishment).<!-- slide -->
+- Single-Target Condition: Participants were given a specific number of words to find (e.g., "Find exactly 4 words").
+- Range-Target Condition: Participants were given a range target with the same objective median (e.g., "Find 2 to 6 words").
+- Control / "Do Your Best" Condition: (Used in variations to show the baseline weakness of non-specific goals).
+- Subjective Mediators: After the round, participants rated how attainable they felt the goal was, and how challenging they felt the goal was.
+- Behavioral DV (Reengagement): Participants were then told the formal experiment was over, but they were given the option to either play another round of the Boggle game for fun or do an alternative, unrelated task. The choice to play again served as the measure of goal reengagement.
+
+:::info
+Key findings:
+- For the behavioral DV, range-goal condition > single-target
+- Attainable and perceived challenge were the mediator
+:::<!-- slide -->
 ## New slide
 
 <!-- slide 2col -->
