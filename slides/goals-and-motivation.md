@@ -27,11 +27,7 @@ theme: paper
 ## A goal system
 ![The same activity can serve several ends, and several activities can serve the same end.](https://alembic.orz.how/d/doc-7qbnaxbjpeco)
 
-**Figure 8.1: A goal system.** Original instructional schematic.
-
-**Visual description:** The same activity can serve several ends, and several activities can serve the same end.
-
-<!-- slide template=section -->
+**Figure 8.1: A goal system.**  <!-- slide template=section -->
 # 8.1 Goals and means
 
 <!-- slide 2col -->
