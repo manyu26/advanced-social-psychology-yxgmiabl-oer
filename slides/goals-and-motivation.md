@@ -170,9 +170,13 @@ Key findings:
 - For the behavioral DV, range-goal condition > single-target
 - Attainable and perceived challenge were the mediator
 :::<!-- slide -->
-## New slide
-
-<!-- slide 2col -->
+## Regulatory Focus Theory (Crowe & Higgins, 1997)
+- Regulatory Focus Theory. Higgins reconceptualized approach/avoidance as Promotion Focus (approaching ideals and gains) versus Prevention Focus (avoiding ought-failures and losses).
+- IV: write about either their hopes and aspirations (Promotion) or their duties and obligations (Prevention)
+- DV: signal-detection task (e.g., identifying target words from a list).
+- Results: 
+	- Promotion-focused individuals wanted to maximize "hits." They generated more alternatives and were willing to guess, making them more creative but prone to false alarms (errors of commission).
+	- Prevention-focused individuals wanted to minimize "false alarms." They were highly vigilant, conservative, and rejected risky alternatives, leading to more misses (errors of omission).<!-- slide 2col -->
 ## Worked example
 <!-- @left -->
 **Problem**
