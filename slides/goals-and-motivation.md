@@ -111,7 +111,19 @@ The group is multifinal because it serves productivity and friendship. The group
 ## Target Setting Architecture
 - "do your best" as instruction? 
 - challenging targets work better by providing a clear standard for self-evaluation
-- range goal vs. single-point target<!-- slide -->
+- range goal vs. single-point target<!-- slide 2col -->
+## Slide title
+
+<!-- @left -->
+
+## Range goal 
+
+<!-- @right -->
+## Single-point target
+
+- **Attainability (Self-Efficacy)**: If the target is set too high, early setbacks destroy perceived feasibility, leading to goal abandonment.
+- **Challenge (Effort Mobilization)**: If the target is set too low to ensure success, it fails to mobilize maximum effort and leaves potential performance on the table.
+- **The Binary Trap**: Single-point targets create a strict pass/fail dichotomy. Missing a daily target by a narrow margin often triggers the "what-the-hell effect" (a complete collapse of self-regulation for the remainder of the period).<!-- slide -->
 ## New slide
 
 <!-- slide 2col -->
