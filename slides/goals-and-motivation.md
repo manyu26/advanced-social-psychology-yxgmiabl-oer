@@ -110,7 +110,11 @@ The group is multifinal because it serves productivity and friendship. The group
 <!-- @br -->
 ## Target Setting Architecture
 - "do your best" as instruction? 
-- challenging targets work better by providing a clear standard for self-evaluation<!-- slide 2col -->
+- challenging targets work better by providing a clear standard for self-evaluation
+- range goal vs. single-point target<!-- slide -->
+## New slide
+
+<!-- slide 2col -->
 ## Worked example
 <!-- @left -->
 **Problem**
