@@ -176,7 +176,12 @@ Key findings:
 - DV: signal-detection task (e.g., identifying target words from a list).
 - Results: 
 	- Promotion-focused individuals wanted to maximize "hits." They generated more alternatives and were willing to guess, making them more creative but prone to false alarms (errors of commission).
-	- Prevention-focused individuals wanted to minimize "false alarms." They were highly vigilant, conservative, and rejected risky alternatives, leading to more misses (errors of omission).<!-- slide 2col -->
+	- Prevention-focused individuals wanted to minimize "false alarms." They were highly vigilant, conservative, and rejected risky alternatives, leading to more misses (errors of omission).
+    
+:::info
+Approach and avoidance are not just motivational fuel; they act as distinct cognitive lenses that fundamentally alter how individuals process information, tolerate risk, and define success.
+:::
+<!-- slide 2col -->
 ## Worked example
 <!-- @left -->
 **Problem**
