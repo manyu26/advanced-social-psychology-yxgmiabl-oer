@@ -111,12 +111,32 @@ The group is multifinal because it serves productivity and friendship. The group
 ## Target Setting Architecture
 - "do your best" as instruction? 
 - challenging targets work better by providing a clear standard for self-evaluation
-- range goal vs. single-point target<!-- slide -->
+- range goal vs. single-point target<!-- slide 2col -->
 ## The timing of rewards (Woolley & Fishbach, 2016)
 
-- What actually keeps people persisting in long-term goals like exercising or healthy eating?
+<!-- @left -->
+**Paradigm A**: 
+- Longitudinal tracking (new year's resolution). Survey participants in early January, asked them to rate resolution on (1) delayed rewards and (2) immediate rewards. Follow up in March on the actual adherence and persistence. 
+- Results: delayed rewards (health, career) as the reason they chose their resolution. However, delayed rewards completely failed to predict adherence in March. Only the presence of immediate rewards (enjoyment) statistically predicted who was still persisting months later.
+
+<!-- @right -->
+**Paradigm B:** Behavioral field experiment.
+- Immediate reward condition - choose a workout based on what they would enjoy right now
+- Delayed reward condition - choose a workout based on what would be most useful for their long-term health and fitness goals.
+- DV: number of sets and repetitions completed, weight used, time spent.
+- Results: 
+
+<!--
+Previous content — move it into the regions above, then delete this block.
+- Intention-action gap in reward timing: People set goals based on delayed rewards, but they persist based on immediate rewards. 
+
 - Focusing on the immediate reward (how fun the workout was, or the immediate taste/experience of the healthy food) was a significantly stronger predictor of actual persistence.
-- Immediate gratification plus long-term goal creates a "perceptual fusion" between the activity and the goal. <!-- slide 2col -->
+- Immediate gratification plus long-term goal creates a "perceptual fusion" between the activity and the goal. 
+
+
+*Woolley, K., & Fishbach, A. (2016). For the fun of it: Harnessing immediate rewards to increase persistence in long-term goals. Journal of Consumer Research, 42(6), 952-966.*
+-->
+<!-- slide 2col -->
 ## Single-point or range goal?
 
 <!-- @left -->
@@ -131,6 +151,9 @@ The group is multifinal because it serves productivity and friendship. The group
 - **The Attainability Floor (The Lower Bound)**: The lower end acts as a psychological safety net. It is highly attainable, which protects baseline self-efficacy and guarantees an early experience of success. 
 - **The Challenge Ceiling (The Upper Bound)**: Once the lower bound is secured, the upper end of the range takes over. The ceiling remains as an aspirational target. This engages the goal-gradient effect, pulling the individual toward maximum effort.
 <!-- slide -->
+## Goal specificity (Scott & Nowlis, 2013)
+
+- The researchers compared participants pursuing a single-number goal (e.g., "lose 2 pounds this week") versus a high-low range goal (e.g., "lose 1 to 3 pounds this week"). Both average out to the same objective target. However, the range goal offers the psychological safety of high attainability (losing 1 pound is easy) combined with the motivational pull of high challenge (losing 3 pounds is an accomplishment).<!-- slide -->
 ## New slide
 
 <!-- slide 2col -->
