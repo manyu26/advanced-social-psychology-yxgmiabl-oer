@@ -23,7 +23,7 @@ theme: paper
 - 8.5 Learning from feedback: Distinguish motivational and informational barriers to learning from failure.
 - 8.6 Conflicts and self-control: Analyze competing goals and distinguish strategic self-control from effortful inhibition.
 - 8.7 Pursuit with other people: Distinguish social facilitation, reduced effort, and coordinated division of labor.
- <!-- slide -->
+<!-- slide -->
 ## A goal system
 ![The same activity can serve several ends, and several activities can serve the same end.](https://alembic.orz.how/d/doc-7qbnaxbjpeco)
 
