@@ -90,33 +90,8 @@ The group is multifinal because it serves productivity and friendship. The group
 - Avoiding undesired states
 - Advancement or responsibility
 
-<!-- slide main-side -->
-## Evidence and interpretation
-<!-- @main -->
-A supervisor offers unrestricted choice but no guidance. Why might that fail to support motivation?
-<!-- @side -->
-::: info
-**Reasoning checkpoint**
-
-Choice alone may leave the task confusing or difficult to carry out.
-:::
-<!-- @notes -->
-Choice alone may leave the task confusing or difficult to carry out. Autonomy support can coexist with clear expectations, useful feedback, and resources that support competence. The study should assess how the recipient experiences the arrangement instead of equating a large menu with effective support.
-Source trace: assigned chapter PDF pages 5, 6, 7, 8, 9.
-
-<!-- slide 2col -->
-## Worked example
-<!-- @left -->
-**Problem**
-
-A student enjoys coding and also wants a research job. Must the coding goal be classified as exclusively intrinsic or extrinsic?
-<!-- @right -->
-**Worked reasoning**
-
-No. The activity can carry immediate enjoyment and value as a route to employment. Measure each source of motivation separately. A change in one does not imply that the other disappeared. The relevant prediction may concern persistence during practice versus commitment to obtaining the credential.
-
 <!-- slide quad -->
-## Slide title
+## Valuation, Orientation, and Target Design
 
 <!-- @tl -->
 ## Intrinsic Value vs. External Outcomes
@@ -135,7 +110,32 @@ No. The activity can carry immediate enjoyment and value as a route to employmen
 <!-- @br -->
 ## Target Setting Architecture
 - "do your best" as instruction? 
-- challenging targets work better by providing a clear standard for self-evaluation<!-- slide template=section -->
+- challenging targets work better by providing a clear standard for self-evaluation<!-- slide 2col -->
+## Worked example
+<!-- @left -->
+**Problem**
+
+A student enjoys coding and also wants a research job. Must the coding goal be classified as exclusively intrinsic or extrinsic?
+<!-- @right -->
+**Worked reasoning**
+
+No. The activity can carry immediate enjoyment and value as a route to employment. Measure each source of motivation separately. A change in one does not imply that the other disappeared. The relevant prediction may concern persistence during practice versus commitment to obtaining the credential.
+
+<!-- slide main-side -->
+## Evidence and interpretation
+<!-- @main -->
+A supervisor offers unrestricted choice but no guidance. Why might that fail to support motivation?
+<!-- @side -->
+::: info
+**Reasoning checkpoint**
+
+Choice alone may leave the task confusing or difficult to carry out.
+:::
+<!-- @notes -->
+Choice alone may leave the task confusing or difficult to carry out. Autonomy support can coexist with clear expectations, useful feedback, and resources that support competence. The study should assess how the recipient experiences the arrangement instead of equating a large menu with effective support.
+Source trace: assigned chapter PDF pages 5, 6, 7, 8, 9.
+
+<!-- slide template=section -->
 # 8.3 Targets and incentives
 
 <!-- slide 2col -->
