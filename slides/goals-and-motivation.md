@@ -111,7 +111,12 @@ The group is multifinal because it serves productivity and friendship. The group
 ## Target Setting Architecture
 - "do your best" as instruction? 
 - challenging targets work better by providing a clear standard for self-evaluation
-- range goal vs. single-point target<!-- slide 2col -->
+- range goal vs. single-point target<!-- slide -->
+## The timing of rewards (Woolley & Fishbach, 2016)
+
+- What actually keeps people persisting in long-term goals like exercising or healthy eating?
+- Focusing on the immediate reward (how fun the workout was, or the immediate taste/experience of the healthy food) was a significantly stronger predictor of actual persistence.
+- Immediate gratification plus long-term goal creates a "perceptual fusion" between the activity and the goal. <!-- slide 2col -->
 ## Single-point or range goal?
 
 <!-- @left -->
