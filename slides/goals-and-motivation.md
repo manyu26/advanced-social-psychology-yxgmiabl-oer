@@ -105,7 +105,7 @@ The group is multifinal because it serves productivity and friendship. The group
 
 <!-- @bl -->
 ## Regulatory Orientations
-- approach/promotion vs. avoidance/prevention
+- Approach/promotion vs. avoidance/prevention
 
 <!-- @br -->
 ## Target Setting Architecture
