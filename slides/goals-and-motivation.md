@@ -2,6 +2,8 @@
 title: Module 8 — Goals and Motivation
 ratio: 16:9
 author: Manyu Li · PSYC 538
+
+theme: paper
 -->
 
 <!-- slide template=title -->
@@ -11,31 +13,17 @@ author: Manyu Li · PSYC 538
 
 <!-- slide -->
 ## Learning objectives
-- **8.1a:** Analyze goal hierarchies, equifinality, and multifinality.
-- **8.2a:** Distinguish intrinsic value, external outcomes, and regulatory orientations.
-- **8.3a:** Evaluate target setting and incentives against the desired outcome.
-
-<!-- slide -->
-## Learning objectives
-- **8.4a:** Explain how progress framing and implementation plans affect continued pursuit.
-- **8.5a:** Distinguish motivational and informational barriers to learning from failure.
-- **8.6a:** Analyze competing goals and distinguish strategic self-control from effortful inhibition.
-
-<!-- slide -->
-## Learning objectives
-- **8.7a:** Distinguish social facilitation, reduced effort, and coordinated division of labor.
 
 <!-- slide template=outline -->
-# The module sequence
-- 8.1 Goals and means
-- 8.2 What makes pursuit worthwhile
-- 8.3 Targets and incentives
-- 8.4 Progress and persistence
-- 8.5 Learning from feedback
-- 8.6 Conflicts and self-control
-- 8.7 Pursuit with other people
-
-<!-- slide -->
+# The module sequence and learning objectives
+- 8.1 Goals and means: Analyze goal hierarchies, equifinality, and multifinality.
+- 8.2 What makes pursuit worthwhile: Distinguish intrinsic value, external outcomes, and regulatory orientations.
+- 8.3 Targets and incentives: Evaluate target setting and incentives against the desired outcome.
+- 8.4 Progress and persistence: Explain how progress framing and implementation plans affect continued pursuit.
+- 8.5 Learning from feedback: Distinguish motivational and informational barriers to learning from failure.
+- 8.6 Conflicts and self-control: Analyze competing goals and distinguish strategic self-control from effortful inhibition.
+- 8.7 Pursuit with other people: Distinguish social facilitation, reduced effort, and coordinated division of labor.
+ <!-- slide -->
 ## A goal system
 ![The same activity can serve several ends, and several activities can serve the same end.](https://alembic.orz.how/d/doc-7qbnaxbjpeco)
 
