@@ -198,7 +198,7 @@ Approach and avoidance are not just motivational fuel; they act as distinct cogn
 	- Performance-Approach (striving to outperform peers), and
 	- Performance-Avoidance (striving not to look dumb compared to peers). 
 <!-- slide -->
-## New slide
+## 2x2 achievement goal framework (Elliot & McGregor, 2001)
 
 - Results
 	- Performance-Avoidance was highly maladaptive. It positively predicted anticipatory test anxiety, surface-level processing (rote memorization), and worse exam performance.
