@@ -32,11 +32,7 @@ Core Reading: Tormala, Z. L., & Rucker, D. D. (2025). Attitudes: Form, function,
 ## From evaluation to action
 ![An evaluation influences action through processes that depend on context and opportunity.](https://alembic.orz.how/d/doc-na0vu034mw6k)
 
-**Figure 5.1: From evaluation to action.** Original instructional schematic.
-
-**Visual description:** An evaluation influences action through processes that depend on context and opportunity.
-
-<!-- slide template=section -->
+**Figure 5.1: From evaluation to action.** <!-- slide template=section -->
 # 5.1 Representing an evaluation
 
 <!-- slide 2col -->
@@ -175,11 +171,7 @@ The endpoint shows extremity; the subsequent change provides evidence about resi
 ## One midpoint, two possibilities
 ![The same midpoint can reflect indifference or opposing evaluations; felt conflict needs its own measure.](https://alembic.orz.how/d/doc-p7keb3o7jtsw)
 
-**Figure 5.2: One midpoint, two possibilities.** Original instructional schematic.
-
-**Visual description:** The same midpoint can reflect indifference or opposing evaluations; felt conflict needs its own measure.
-
-<!-- slide template=section -->
+**Figure 5.2: One midpoint, two possibilities.** <!-- slide template=section -->
 # 5.4 Learning evaluations
 
 <!-- slide 2col -->
@@ -312,11 +304,7 @@ Greater reliance on the negative thoughts can reduce persuasion. The account doe
 ## Persuasion has several endpoints
 ![Engagement, thought confidence, and behavioral change must be assessed separately.](https://alembic.orz.how/d/doc-n7wct18gw2fn)
 
-**Figure 5.3: Persuasion has several endpoints.** Original instructional schematic.
-
-**Visual description:** Engagement, thought confidence, and behavioral change must be assessed separately.
-
-<!-- slide template=section -->
+**Figure 5.3: Persuasion has several endpoints.** <!-- slide template=section -->
 # 5.7 Receptiveness and advocacy
 
 <!-- slide 2col -->
