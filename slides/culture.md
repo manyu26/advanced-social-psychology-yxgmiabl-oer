@@ -12,15 +12,7 @@ theme: paper
 **Core Reading:** Kashima, Y., & Gelfand, M. J. (2025). Culture. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/VMTM7805](https://doi.org/10.70400/VMTM7805)
 
 <!-- slide -->
-## Learning objectives
-
-<!-- slide -->
-## Learning objectives
-<!-- slide -->
-## Learning objectives
-
-<!-- slide template=outline -->
-# The module sequence and learning objectives
+## The module sequence and learning objectives
 - 7.1 Culture as meaning and practice: Explain culture without equating it with nationality or personal preference.
 - 7.2 Comparing populations: Evaluate sampling, measurement, and levels of analysis in cultural comparisons.
 - 7.3 Forms of social organization: Distinguish kin, network, and category-based collectivism and their consequences.
@@ -31,11 +23,7 @@ theme: paper
 <!-- slide -->
 ## Culture operates across levels
 ![Meanings circulate across people and settings; a population average does not determine an individual.](https://alembic.orz.how/d/doc-zd571976cdmy)
-**Figure 7.1: Culture operates across levels.** Original instructional schematic.
-
-**Visual description:** Meanings circulate across people and settings; a population average does not determine an individual.
-
-<!-- slide template=section -->
+**Figure 7.1: Culture operates across levels.**<!-- slide template=section -->
 # 7.1 Culture as meaning and practice
 
 <!-- slide 2col -->
