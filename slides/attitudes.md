@@ -353,17 +353,14 @@ The answer depends on the preregistered target. It may have improved receptivene
 - Connect the conclusion to your research commentary.
 
 <!-- slide -->
+
+<!-- slide -->
 ## Reference
 Tormala, Z. L., & Rucker, D. D. (2025). Attitudes: Form, function, and the factors that shape them. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/EOQW7740
 
-Original studies are discussed through this review.
-
-<!-- slide -->
 ## Source use and original contributions
 The source chapter is CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). Used for factual reference; explanations and teaching examples are newly written. Original teaching contributions and original diagrams are CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Original theories and studies are discussed through the assigned chapter; the reference list identifies the review actually consulted.
 
-<!-- slide -->
 ## Collection credit
 Gilbert, Fiske, Finkel, & Mendes (Eds.), The Handbook of Social Psychology (6th ed.), Situational Press. https://doi.org/10.70400/NYKH3013
-
-Cited as a source of facts and findings; no text or figures adapted.
+Cited as a source of facts and findings; no text or figures adapted.<!-- slide -->
