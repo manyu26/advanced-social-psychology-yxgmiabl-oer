@@ -12,9 +12,6 @@ theme: paper
 **Core Reading:** Fishbach, A. (2025). Goals and motivation. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/YBHK1018](https://doi.org/10.70400/YBHK1018)
 
 <!-- slide -->
-## Learning objectives
-
-<!-- slide -->
 ## The module sequence and learning objectives
 - 8.1 Goals and means: Analyze goal hierarchies, equifinality, and multifinality.
 - 8.2 What makes pursuit worthwhile: Distinguish intrinsic value, external outcomes, and regulatory orientations.
@@ -272,10 +269,7 @@ The rewarded action increased; demonstrated understanding did not improve in the
 <!-- slide -->
 ## Progress can have different meanings
 ![Interpretation determines whether progress encourages continuation or a shift toward another goal.](https://alembic.orz.how/d/doc-mn58uxolegk9)
-**Figure 8.2: Progress can have different meanings.** Original instructional schematic.
-
-**Visual description:** Interpretation determines whether progress encourages continuation or a shift toward another goal.
-
+**Figure 8.2: Progress can have different meanings.** 
 <!-- slide template=section -->
 # 8.4 Progress and persistence
 
