@@ -20,31 +20,14 @@ theme: paper
 
 Core Reading: Tormala, Z. L., & Rucker, D. D. (2025). Attitudes: Form, function, and the factors that shape them. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/EOQW7740](https://doi.org/10.70400/EOQW7740)
 <!-- slide -->
-## Learning objectives
-- **5.1a:** Distinguish attitude valence, evaluative bases, and ambivalence.
-- **5.2a:** Evaluate attitude–behavior correspondence using matched targets and contexts.
-- **5.3a:** Separate defining consequences of attitude strength from its predictors.
-
-<!-- slide -->
-## Learning objectives
-- **5.4a:** Compare exposure, evaluative pairing, and inference-based learning.
-- **5.5a:** Distinguish dissonance, self-perception, and correction accounts.
-- **5.6a:** Use elaboration and thought confidence to generate conditional persuasion predictions.
-
-<!-- slide -->
-## Learning objectives
-- **5.7a:** Separate openness, attitude change, and advocacy effectiveness.
-
-<!-- slide template=outline -->
-# The module sequence
-- 5.1 Representing an evaluation
-- 5.2 Functions and behavior
-- 5.3 Strength beyond extremity
-- 5.4 Learning evaluations
-- 5.5 Reflective change
-- 5.6 Persuasion as a process
-- 5.7 Receptiveness and advocacy
-
+## The module sequence
+- 5.1 Representing an evaluation: Distinguish attitude valence, evaluative bases, and ambivalence.
+- 5.2 Functions and behavior: Evaluate attitude–behavior correspondence using matched targets and contexts.
+- 5.3 Strength beyond extremity: Separate defining consequences of attitude strength from its predictors.
+- 5.4 Learning evaluations: Compare exposure, evaluative pairing, and inference-based learning.
+- 5.5 Reflective change: Distinguish dissonance, self-perception, and correction accounts.
+- 5.6 Persuasion as a process: Use elaboration and thought confidence to generate conditional persuasion predictions.
+- 5.7 Receptiveness and advocacy: Separate openness, attitude change, and advocacy effectiveness.
 <!-- slide -->
 ## From evaluation to action
 ![An evaluation influences action through processes that depend on context and opportunity.](https://alembic.orz.how/d/doc-na0vu034mw6k)
