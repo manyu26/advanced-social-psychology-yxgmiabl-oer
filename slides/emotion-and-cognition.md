@@ -24,11 +24,7 @@ theme: paper
 ## Four questions about emotion
 ![Evidence addressing one explanatory question does not automatically resolve the others.](https://alembic.orz.how/d/doc-fgiupmkcmaj2)
 
-**Figure 6.1: Four questions about emotion.** Original instructional schematic.
-
-**Visual description:** Evidence addressing one explanatory question does not automatically resolve the others.
-
-<!-- slide template=section -->
+**Figure 6.1: Four questions about emotion.**<!-- slide template=section -->
 # 6.1 Questions before theories
 
 <!-- slide 2col -->
@@ -161,11 +157,7 @@ No. The outcomes concern different information. A selective-attention or binding
 ## Several windows on an episode
 ![These measures concern different components and need not agree perfectly.](https://alembic.orz.how/d/doc-fma7g572y1mr)
 
-**Figure 6.2: Several windows on an episode.** Original instructional schematic.
-
-**Visual description:** These measures concern different components and need not agree perfectly.
-
-<!-- slide template=section -->
+**Figure 6.2: Several windows on an episode.** <!-- slide template=section -->
 # 6.4 Experiencing and naming emotion
 
 <!-- slide 2col -->
@@ -297,11 +289,7 @@ Compare changes with an appropriate non-roommate group and document shared expos
 <!-- slide -->
 ## Why two people become synchronized
 ![Observed synchrony alone cannot distinguish common exposure, selection, and influence.](https://alembic.orz.how/d/doc-balcc9isximc)
-**Figure 6.3: Why two people become synchronized.** Original instructional schematic.
-
-**Visual description:** Observed synchrony alone cannot distinguish common exposure, selection, and influence.
-
-<!-- slide template=section -->
+**Figure 6.3: Why two people become synchronized.** <!-- slide template=section -->
 # 6.7 Inference in applied affective science
 
 <!-- slide 2col -->
