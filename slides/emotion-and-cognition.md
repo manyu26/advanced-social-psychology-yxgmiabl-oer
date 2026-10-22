@@ -2,6 +2,8 @@
 title: Module 6 — Emotion and Cognition
 ratio: 16:9
 author: Manyu Li · PSYC 538
+
+theme: paper
 -->
 
 <!-- slide template=title -->
@@ -10,31 +12,14 @@ author: Manyu Li · PSYC 538
 **Core Reading:** Niedenthal, P. M., Neta, M., & Wood, A. (2025). Emotion. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/DPPB6535](https://doi.org/10.70400/DPPB6535)
 
 <!-- slide -->
-## Learning objectives
-- **6.1a:** Compare explanatory questions and major families of emotion theory.
-- **6.2a:** Evaluate what neural, physiological, expressive, and subjective measures can establish.
-- **6.3a:** Explain conditional and bidirectional links between emotion, attention, and memory.
-
-<!-- slide -->
-## Learning objectives
-- **6.4a:** Distinguish interoception, appraisal, and labeling in subjective experience.
-- **6.5a:** Assess how expression, context, culture, and language contribute to emotion perception.
-- **6.6a:** Distinguish synchrony, shared causes, and interpersonal influence.
-
-<!-- slide -->
-## Learning objectives
-- **6.7a:** Design a valid evaluation of emotion inference in a new setting.
-
-<!-- slide template=outline -->
-# The module sequence
-- 6.1 Questions before theories
-- 6.2 Components and measurement
-- 6.3 Emotion in cognition
-- 6.4 Experiencing and naming emotion
-- 6.5 Reading emotion in others
-- 6.6 Emotion between people
-- 6.7 Inference in applied affective science
-
+## The module sequence
+- 6.1 Questions before theories: Compare explanatory questions and major families of emotion theory.
+- 6.2 Components and measurement: Evaluate what neural, physiological, expressive, and subjective measures can establish.
+- 6.3 Emotion in cognition: Explain conditional and bidirectional links between emotion, attention, and memory.
+- 6.4 Experiencing and naming emotion: Distinguish interoception, appraisal, and labeling in subjective experience.
+- 6.5 Reading emotion in others: Assess how expression, context, culture, and language contribute to emotion perception.
+- 6.6 Emotion between people: Distinguish synchrony, shared causes, and interpersonal influence.
+- 6.7 Inference in applied affective science: Design a valid evaluation of emotion inference in a new setting.
 <!-- slide -->
 ## Four questions about emotion
 ![Evidence addressing one explanatory question does not automatically resolve the others.](https://alembic.orz.how/d/doc-fgiupmkcmaj2)
