@@ -2,6 +2,8 @@
 title: Module 7 — Cultural and Cross-Cultural Psychology
 ratio: 16:9
 author: Manyu Li · PSYC 538
+
+theme: paper
 -->
 
 <!-- slide template=title -->
@@ -11,30 +13,21 @@ author: Manyu Li · PSYC 538
 
 <!-- slide -->
 ## Learning objectives
-- **7.1a:** Explain culture without equating it with nationality or personal preference.
-- **7.2a:** Evaluate sampling, measurement, and levels of analysis in cultural comparisons.
-- **7.3a:** Distinguish kin, network, and category-based collectivism and their consequences.
 
 <!-- slide -->
 ## Learning objectives
-- **7.4a:** Interpret cultural variation in self-representation and cognition without binary stereotypes.
-- **7.5a:** Distinguish analytic–holistic orientations and tightness–looseness.
-- **7.6a:** Explain how communication can maintain and transform cultural information.
-
 <!-- slide -->
 ## Learning objectives
-- **7.7a:** Design a study of cultural change that separates practices, meanings, and causes.
 
 <!-- slide template=outline -->
-# The module sequence
-- 7.1 Culture as meaning and practice
-- 7.2 Comparing populations
-- 7.3 Forms of social organization
-- 7.4 Self and cognition in context
-- 7.5 Metacultural orientations
-- 7.6 Transmission and cultural dynamics
-- 7.7 Change and generalization
-
+# The module sequence and learning objectives
+- 7.1 Culture as meaning and practice: Explain culture without equating it with nationality or personal preference.
+- 7.2 Comparing populations: Evaluate sampling, measurement, and levels of analysis in cultural comparisons.
+- 7.3 Forms of social organization: Distinguish kin, network, and category-based collectivism and their consequences.
+- 7.4 Self and cognition in context: Interpret cultural variation in self-representation and cognition without binary stereotypes.
+- 7.5 Metacultural orientations: Distinguish analytic–holistic orientations and tightness–looseness.
+- 7.6 Transmission and cultural dynamics: Explain how communication can maintain and transform cultural information.
+- 7.7 Change and generalization: Design a study of cultural change that separates practices, meanings, and causes.
 <!-- slide -->
 ## Culture operates across levels
 ![Meanings circulate across people and settings; a population average does not determine an individual.](https://alembic.orz.how/d/doc-zd571976cdmy)
@@ -374,4 +367,3 @@ No. Naming is one indicator of practice and may have several explanations. Measu
 Kashima, Y., & Gelfand, M. J. (2025). Culture. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/VMTM7805
 
 The source chapter is CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). Used for factual reference; explanations and teaching examples are newly written. Original teaching contributions and original diagrams are CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Original theories and studies are discussed through the assigned chapter; the reference list identifies the review actually consulted.
-
