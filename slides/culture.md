@@ -162,11 +162,7 @@ Not necessarily. Kin-based obligations and generalized trust concern different b
 ## Two separate cultural questions
 ![Self-orientation and norm strength should be measured separately within specified domains.](https://alembic.orz.how/d/doc-07iqwdiif28h)
 
-**Figure 7.2: Two separate cultural questions.** Original instructional schematic.
-
-**Visual description:** Self-orientation and norm strength should be measured separately within specified domains.
-
-<!-- slide template=section -->
+**Figure 7.2: Two separate cultural questions.** <!-- slide template=section -->
 # 7.4 Self and cognition in context
 
 <!-- slide 2col -->
@@ -298,11 +294,7 @@ Vary information about the audience’s beliefs while keeping the original story
 <!-- slide -->
 ## A transmission pathway
 ![Communication selects and transforms information, so spreading does not guarantee accuracy.](https://alembic.orz.how/d/doc-v6ee0kqpfvrg)
-**Figure 7.3: A transmission pathway.** Original instructional schematic.
-
-**Visual description:** Communication selects and transforms information, so spreading does not guarantee accuracy.
-
-<!-- slide template=section -->
+**Figure 7.3: A transmission pathway.** <!-- slide template=section -->
 # 7.7 Change and generalization
 
 <!-- slide 2col -->
