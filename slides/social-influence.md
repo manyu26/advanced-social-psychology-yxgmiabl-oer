@@ -191,11 +191,7 @@ The message can change different components of value for each recipient. Collabo
 ## Two kinds of norm information
 ![Behavioral prevalence and social approval answer different questions.](https://alembic.orz.how/d/doc-vsjs5p4ep45y)
 
-**Figure 9.2: Two kinds of norm information.** Original instructional schematic.
-
-**Visual description:** Behavioral prevalence and social approval answer different questions.
-
-<!-- slide template=section -->
+**Figure 9.2: Two kinds of norm information.** <!-- slide template=section -->
 # 9.4 From intention to action
 
 <!-- slide 2col -->
