@@ -344,7 +344,7 @@ Compare initial private judgments and examine whether members introduce and use 
 - Later behavior
 
 <!-- slide -->
-## New slide
+## 
 
 - **Method**: an "Intern-Producer" paradigm -- Participants (Interns) viewed ideas for pilot television shows while in the fMRI scanner. Later, they had to pitch these ideas to other participants (Producers) via video message. The dependent variable was how successfully the Intern persuaded the Producer to fund the show.
 
@@ -355,7 +355,12 @@ Compare initial private judgments and examine whether members introduce and use 
 Shows evidence that highly effective influencers do not consume information strictly for themselves. They possess a "spontaneous social radar."
 :::
 
-*Falk, E. B., Morelli, S. A., Welborn, B. L., Dambacher, K., & Lieberman, M. D. (2013). Creating buzz: The neural correlates of effective message propagation. Psychological Science.*<!-- slide main-side -->
+*Falk, E. B., Morelli, S. A., Welborn, B. L., Dambacher, K., & Lieberman, M. D. (2013). Creating buzz: The neural correlates of effective message propagation. Psychological Science.*<!-- slide -->
+## The mentalizing network
+
+- Our reaction to social environment
+- Our "social defaults" - our brain's baseline cognitive architecture is inherently social. We do not process reality in a vacuum and then apply a social lens; the anticipated reaction of our peers is the primary filter for reality.
+- Can be primed with belonging goals, having a central position in the social network, or when communicating wtih in-group versus outgroup. <!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Friends adopt similar study tools. What design could provide stronger evidence of peer influence than a one-time network survey?
