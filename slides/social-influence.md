@@ -367,16 +367,7 @@ How do you decide what to share vs. what not on social media?
 - Identity signaling (what would your ingroup think?)
 - Social capital (can I build more resources/social bonds?)
 - Algorithmic Alignment (platform prioritization of content)
-:::<!-- slide 2col -->
-## Mentalizing vs. Valuation Network
-
-<!-- @left -->
-The Mentalizing Network (TPJ): This is the brain asking, "Who else would care about this? How would my friends react if they saw it?"
-
-<!-- @right -->
-The Valuation Network (vmPFC): This is the brain's primary reward center. It activates when you experience something biologically or psychologically valuable, like eating good food, winning money, or feeling good about yourself.
-
-<!-- slide -->
+:::<!-- slide -->
 ## Scaling to Social Networks & Global Diffusion
 
 - Bridging neuroimaging with big data...
@@ -385,11 +376,21 @@ The Valuation Network (vmPFC): This is the brain's primary reward center. It act
 	- Activity in these two brain networks predicted self-reported intentions to share the articles
     - The aggregated neural data accurately predicted the actual, objective virality (the total number of shares) of those specific articles among millions of global New York Times readers.
 
-:::info
-The brain integrates social cognition (mentalizing about others) directly into its primary reward system (valuation). We share things because the brain literally processes "anticipating a positive social reaction from our network" as an immediate, highly salient reward.
-:::
 
-*Scholz, C., Baek, E. C., O'Donnell, M. B., Kim, H. S., Cappella, J. N., & Falk, E. B. (2017). A neural model of valuation and information virality. Proceedings of the National Academy of Sciences (PNAS).*<!-- slide main-side -->
+*Scholz, C., Baek, E. C., O'Donnell, M. B., Kim, H. S., Cappella, J. N., & Falk, E. B. (2017). A neural model of valuation and information virality. Proceedings of the National Academy of Sciences (PNAS).*<!-- slide 2col -->
+## Mentalizing vs. Valuation Network
+
+<!-- @left -->
+The Valuation Network (vmPFC): 
+- This is the brain's primary reward center. It activates when you experience something biologically or psychologically valuable, like eating good food, winning money, or feeling good about yourself. 
+- If an article only triggered the valuation network, the reader would think, "This is a great article," and then keep it to themselves. 
+
+<!-- @right -->
+The Mentalizing Network (TPJ): 
+- This is the brain asking, "Who else would care about this? How would my friends react if they saw it?"
+- If it only triggered the mentalizing network, the reader might think, "My coworker would find this relevant," but lack the motivation to actually click "share."
+
+**This study showed that these two networks fire in tandem. The brain takes a social thought ("My network will like this") and feeds it directly into the reward center ("...and therefore, I feel rewarded right now just thinking about their reaction").**<!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Friends adopt similar study tools. What design could provide stronger evidence of peer influence than a one-time network survey?
