@@ -44,7 +44,13 @@ theme: paper
 
 <!-- @br -->
 **Persuasion**
-- Elaboration likelihood model: Central vs. peripheral route.<!-- slide template=section -->
+- Elaboration likelihood model: Central vs. peripheral route.<!-- slide -->
+## Challenges to traditional paradigm
+
+- Fragmented understanding of social influence: does our mind process logical argument separately from social pressure to fit in? 
+- Self-report nature: Human beings are not good at introspection. Intention and reported values differ from behavioral change. 
+- Falk's approach is to look at how our brain computes influence. 
+- **Neural currency**: the brain's mechanism for translating fundamentally different types of stimuli (tangible rewards, abstract social concepts, etc.) into a single, standardized biological metric of subjective value.<!-- slide template=section -->
 # 9.1 Influence and explanation
 
 <!-- slide 2col -->
