@@ -2,6 +2,8 @@
 title: Module 9 — Group Processes and Social Influence
 ratio: 16:9
 author: Manyu Li · PSYC 538
+
+theme: paper
 -->
 
 <!-- slide template=title -->
@@ -10,32 +12,15 @@ author: Manyu Li · PSYC 538
 **Core Reading:** Falk, E., Scholz, C., Cooper, N., & Gomes, V. (2025). Behavior change and social influence. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/CGDA1887](https://doi.org/10.70400/CGDA1887)
 
 <!-- slide -->
-## Learning objectives
-- **9.1a:** Distinguish informational influence, normative influence, and public compliance.
-- **9.2a:** Explain the valuation account without reducing influence to money or one brain region.
-- **9.3a:** Evaluate personalization and autonomy support as conditional influence strategies.
-
-<!-- slide -->
-## Learning objectives
-- **9.4a:** Compare action planning, skills, friction, and defaults as behavior-change targets.
-- **9.5a:** Distinguish descriptive and injunctive norms and evaluate unintended norm messages.
-- **9.6a:** Evaluate group discussion without treating consensus as accuracy.
-
-<!-- slide -->
-## Learning objectives
-- **9.7a:** Distinguish message exposure, sharing, and downstream influence.
-- **9.8a:** Design a behavior-change evaluation that separates mechanisms and outcomes.
-
-<!-- slide template=outline -->
-# The module sequence
-- 9.1 Influence and explanation
-- 9.2 Value in a social setting
-- 9.3 Relevance, identity, and autonomy
-- 9.4 From intention to action
-- 9.5 Norms and reference groups
-- 9.6 Groups and distributed information
-- 9.7 Networks and message sharing
-- 9.8 Narratives and evaluation
+## The module sequence
+- 9.1 Influence and explanation: Distinguish informational influence, normative influence, and public compliance.
+- 9.2 Value in a social setting: Explain the valuation account without reducing influence to money or one brain region.
+- 9.3 Relevance, identity, and autonomy: Evaluate personalization and autonomy support as conditional influence strategies.
+- 9.4 From intention to action: Compare action planning, skills, friction, and defaults as behavior-change targets.
+- 9.5 Norms and reference groups: Distinguish descriptive and injunctive norms and evaluate unintended norm messages.
+- 9.6 Groups and distributed information: Evaluate group discussion without treating consensus as accuracy.
+- 9.7 Networks and message sharing: Distinguish message exposure, sharing, and downstream influence.
+- 9.8 Narratives and evaluation: Design a behavior-change evaluation that separates mechanisms and outcomes.
 
 <!-- slide -->
 ## A social influence pathway
