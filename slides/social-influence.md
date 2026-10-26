@@ -107,7 +107,21 @@ It is consistent with public compliance shaped by social consequences. It does n
 - Subjective appraisals
 - Neural signals with bounded interpretation
 
-<!-- slide main-side -->
+<!-- slide -->
+## The "Brain-as-Predictor" Paradigm
+
+- **Method**: A small "neural focus group" of heavy smokers given an fMRI scan. During the scan, participants viewed three different sets of real-world anti-smoking television campaigns, then self-reported their intentions to quit and rated which ad campaigns they found most effective.
+
+- **Results**: 
+	- self-reports completely failed to predict the real-world success of the campaigns
+    - the magnitude of activation in the ventromedial prefrontal cortex (vmPFC—the brain's subjective valuation hub) perfectly rank-ordered the population-level success of the ads, which was measured by the objective spike in call volume to the 1-800-QUIT-NOW hotline across specific media markets.
+
+:::info
+- The study shows direct evidence to criticize traditional social psychology self-report approach.
+- Evidence for a "value signal" or currency.
+:::
+
+*Falk, E. B., Berkman, E. T., & Lieberman, M. D. (2012). From neural responses to population behavior: Neural focus group predicts population-level media effects. Psychological Science.*<!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Brain activity during a message predicts later participation. What additional claim would require different evidence?
