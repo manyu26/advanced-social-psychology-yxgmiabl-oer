@@ -343,7 +343,19 @@ Compare initial private judgments and examine whether members introduce and use 
 - Interpretation and credibility
 - Later behavior
 
-<!-- slide main-side -->
+<!-- slide -->
+## New slide
+
+- **Method**: an "Intern-Producer" paradigm -- Participants (Interns) viewed ideas for pilot television shows while in the fMRI scanner. Later, they had to pitch these ideas to other participants (Producers) via video message. The dependent variable was how successfully the Intern persuaded the Producer to fund the show.
+
+- **Results**: The researchers looked at what was happening in the Interns' brains during their initial exposure to the ideas—before they even knew they would pitch them. T
+	- The Interns who ultimately became the most successful persuaders showed significantly higher activation in the temporoparietal junction (TPJ) and dorsomedial PFC -- mentalizing network known to activate when we engage in theory of mind (ability to infer thoughts, beliefs, emotions of others).
+
+:::info
+Shows evidence that highly effective influencers do not consume information strictly for themselves. They possess a "spontaneous social radar."
+:::
+
+*Falk, E. B., Morelli, S. A., Welborn, B. L., Dambacher, K., & Lieberman, M. D. (2013). Creating buzz: The neural correlates of effective message propagation. Psychological Science.*<!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Friends adopt similar study tools. What design could provide stronger evidence of peer influence than a one-time network survey?
