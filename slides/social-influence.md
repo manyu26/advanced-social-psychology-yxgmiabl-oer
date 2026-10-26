@@ -371,7 +371,7 @@ How do you decide what to share vs. what not on social media?
 ## Scaling to Social Networks & Global Diffusion
 
 - Bridging neuroimaging with big data...
-- **Method**: 80 participants read actual New York Times health articles while in the scanner. The researchers tracked activity in both the mentalizing network (TPJ/social cognition) and the valuation network (vmPFC).
+- **Method**: 80 participants read actual New York Times health articles while in the fMRI scanner. The researchers tracked activity in both the mentalizing network (TPJ/social cognition) and the valuation network (vmPFC).
 - **Results**: 
 	- Activity in these two brain networks predicted self-reported intentions to share the articles
     - The aggregated neural data accurately predicted the actual, objective virality (the total number of shares) of those specific articles among millions of global New York Times readers.
