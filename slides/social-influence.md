@@ -344,7 +344,7 @@ Compare initial private judgments and examine whether members introduce and use 
 - Later behavior
 
 <!-- slide -->
-## 
+## Virality & Mentalizing
 
 - **Method**: an "Intern-Producer" paradigm -- Participants (Interns) viewed ideas for pilot television shows while in the fMRI scanner. Later, they had to pitch these ideas to other participants (Producers) via video message. The dependent variable was how successfully the Intern persuaded the Producer to fund the show.
 
