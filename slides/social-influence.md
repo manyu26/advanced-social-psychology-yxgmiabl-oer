@@ -360,7 +360,7 @@ Shows evidence that highly effective influencers do not consume information stri
 
 - Our reaction to social environment
 - Our "social defaults" - our brain's baseline cognitive architecture is inherently social. We do not process reality in a vacuum and then apply a social lens; the anticipated reaction of our peers is the primary filter for reality.
-- Can be primed with belonging goals, having a central position in the social network, or when communicating wtih in-group versus outgroup. E.g., O'Donnell et al. (2017), Harris & Fise (2006), Waytz et al. (2010). 
+- Can be primed with belonging goals, having a central position in the social network, or when communicating wtih in-group versus outgroup (e.g., O'Donnell et al., 2017), Harris & Fise, 2006), Waytz et al., 2010).
 
 :::warning
 How do you decide what to share vs. what not on social media?
