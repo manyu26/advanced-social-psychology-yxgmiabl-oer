@@ -367,7 +367,16 @@ How do you decide what to share vs. what not on social media?
 - Identity signaling (what would your ingroup think?)
 - Social capital (can I build more resources/social bonds?)
 - Algorithmic Alignment (platform prioritization of content)
-:::<!-- slide -->
+:::<!-- slide 2col -->
+## Mentalizing vs. Valuation Network
+
+<!-- @left -->
+The Mentalizing Network (TPJ): This is the brain asking, "Who else would care about this? How would my friends react if they saw it?"
+
+<!-- @right -->
+The Valuation Network (vmPFC): This is the brain's primary reward center. It activates when you experience something biologically or psychologically valuable, like eating good food, winning money, or feeling good about yourself.
+
+<!-- slide -->
 ## Scaling to Social Networks & Global Diffusion
 
 - Bridging neuroimaging with big data...
