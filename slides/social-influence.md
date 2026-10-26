@@ -367,7 +367,20 @@ How do you decide what to share vs. what not on social media?
 - Identity signaling (what would your ingroup think?)
 - Social capital (can I build more resources/social bonds?)
 - Algorithmic Alignment (platform prioritization of content)
-:::<!-- slide main-side -->
+:::<!-- slide -->
+## Scaling to Social Networks & Global Diffusion
+
+- Bridging neuroimaging with big data...
+- **Method**: 80 participants read actual New York Times health articles while in the scanner. The researchers tracked activity in both the mentalizing network (TPJ/social cognition) and the valuation network (vmPFC).
+- **Results**: 
+	- Activity in these two brain networks predicted self-reported intentions to share the articles
+    - The aggregated neural data accurately predicted the actual, objective virality (the total number of shares) of those specific articles among millions of global New York Times readers.
+
+:::info
+The brain integrates social cognition (mentalizing about others) directly into its primary reward system (valuation). We share things because the brain literally processes "anticipating a positive social reaction from our network" as an immediate, highly salient reward.
+:::
+
+*Scholz, C., Baek, E. C., O'Donnell, M. B., Kim, H. S., Cappella, J. N., & Falk, E. B. (2017). A neural model of valuation and information virality. Proceedings of the National Academy of Sciences (PNAS).*<!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Friends adopt similar study tools. What design could provide stronger evidence of peer influence than a one-time network survey?
