@@ -372,10 +372,10 @@ How do you decide what to share vs. what not on social media?
 
 - Bridging neuroimaging with big data...
 - **Method**: 80 participants read actual New York Times health articles while in the fMRI scanner. The researchers tracked activity in both the mentalizing network (TPJ/social cognition) and the valuation network (vmPFC).
-- **Results**: 
-	- Activity in these two brain networks predicted self-reported intentions to share the articles
-    - The aggregated neural data accurately predicted the actual, objective virality (the total number of shares) of those specific articles among millions of global New York Times readers.
-
+- Research Questions:
+	- Does activity in the brain’s social (mentalizing) and reward (valuation) networks during initial exposure predict an individual's personal intention to share an article?
+	- Can the aggregated neural activity of a small group of individuals predict the objective, real-world virality of those same articles among millions of readers?
+	- Does the brain’s valuation system act as an integration hub that translates social cognition into a primary reward signal?
 
 *Scholz, C., Baek, E. C., O'Donnell, M. B., Kim, H. S., Cappella, J. N., & Falk, E. B. (2017). A neural model of valuation and information virality. Proceedings of the National Academy of Sciences (PNAS).*<!-- slide 2col -->
 ## Mentalizing vs. Valuation Network
@@ -390,7 +390,14 @@ The Mentalizing Network (TPJ):
 - This is the brain asking, "Who else would care about this? How would my friends react if they saw it?"
 - If it only triggered the mentalizing network, the reader might think, "My coworker would find this relevant," but lack the motivation to actually click "share."
 
-**This study showed that these two networks fire in tandem. The brain takes a social thought ("My network will like this") and feeds it directly into the reward center ("...and therefore, I feel rewarded right now just thinking about their reaction").**<!-- slide main-side -->
+**This study showed that these two networks fire in tandem. The brain takes a social thought ("My network will like this") and feeds it directly into the reward center ("...and therefore, I feel rewarded right now just thinking about their reaction").**<!-- slide -->
+## Study findings
+
+## **Results**: 
+- Activity in these two brain networks predicted self-reported intentions to share the articles
+- The aggregated neural data accurately predicted the actual, objective virality (the total number of shares) of those specific articles among millions of global New York Times readers.
+
+<!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Friends adopt similar study tools. What design could provide stronger evidence of peer influence than a one-time network survey?
