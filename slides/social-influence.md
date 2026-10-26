@@ -26,11 +26,25 @@ theme: paper
 ## A social influence pathway
 ![The effect of a message can involve information, social rewards, or practical barriers.](https://alembic.orz.how/d/doc-lfnxiyexu8t5)
 
-**Figure 9.1: A social influence pathway.** Original instructional schematic.
+**Figure 9.1: A social influence pathway.** <!-- slide quad -->
+## Classic social influence paradigms
 
-**Visual description:** The effect of a message can involve information, social rewards, or practical barriers.
+<!-- @tl -->
+**Conformity**
+- Informational (autokinetic effect) 
+- normative influence (asch line)
 
-<!-- slide template=section -->
+<!-- @tr -->
+**Compliance**
+- Cialdini's mechanisms, e.g., Reciprocity, consistency (foot in the door), scarcity, etc.
+
+<!-- @bl -->
+**Obedience**
+- Milgram Paradigm
+
+<!-- @br -->
+**Persuasion**
+- Elaboration likelihood model: Central vs. peripheral route.<!-- slide template=section -->
 # 9.1 Influence and explanation
 
 <!-- slide 2col -->
