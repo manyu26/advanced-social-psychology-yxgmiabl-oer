@@ -360,7 +360,14 @@ Shows evidence that highly effective influencers do not consume information stri
 
 - Our reaction to social environment
 - Our "social defaults" - our brain's baseline cognitive architecture is inherently social. We do not process reality in a vacuum and then apply a social lens; the anticipated reaction of our peers is the primary filter for reality.
-- Can be primed with belonging goals, having a central position in the social network, or when communicating wtih in-group versus outgroup. <!-- slide main-side -->
+- Can be primed with belonging goals, having a central position in the social network, or when communicating wtih in-group versus outgroup. E.g., O'Donnell et al. (2017), Harris & Fise (2006), Waytz et al. (2010). 
+
+:::warning
+How do you decide what to share vs. what not on social media?
+- Identity signaling (what would your ingroup think?)
+- Social capital (can I build more resources/social bonds?)
+- Algorithmic Alignment (platform prioritization of content)
+:::<!-- slide main-side -->
 ## Evidence and interpretation
 <!-- @main -->
 Friends adopt similar study tools. What design could provide stronger evidence of peer influence than a one-time network survey?
