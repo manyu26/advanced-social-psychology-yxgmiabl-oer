@@ -12,7 +12,7 @@ theme: paper
 **Core Reading:** Falk, E., Scholz, C., Cooper, N., & Gomes, V. (2025). Behavior change and social influence. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/CGDA1887](https://doi.org/10.70400/CGDA1887)
 
 <!-- slide -->
-## The module sequence
+## The module sequence and learning objectives
 - 9.1 Influence and explanation: Distinguish informational influence, normative influence, and public compliance.
 - 9.2 Value in a social setting: Explain the valuation account without reducing influence to money or one brain region.
 - 9.3 Relevance, identity, and autonomy: Evaluate personalization and autonomy support as conditional influence strategies.
