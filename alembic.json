@@ -3,9 +3,17 @@
   "packageId": "pkg-advanced-social-psychology-yxgmiabl",
   "title": "Advanced social psychology",
   "description": "",
-  "keywords": [],
-  "discipline": "chemistry",
+  "keywords": [
+    "social psychology",
+    "attitudes",
+    "emotion",
+    "social cognition",
+    "group behaviors",
+    "aggression"
+  ],
+  "discipline": "Psychology",
   "courseContext": {
+    "level": "graduate",
     "instructor": "Manyu Li",
     "courseNumber": "PSYC 538",
     "department": "Department of Psychology, University of Louisiana at Lafayette"
