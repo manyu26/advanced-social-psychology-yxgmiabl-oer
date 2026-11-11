@@ -1,10 +1,10 @@
 # Module 12 Practice: Cooperation, Prosocial Behavior, and Conflict
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Van Lange (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-5v35o68nxgus]}}
 
 - **12.1a:** Use a payoff structure to distinguish conflicting interests from mutual benefit.
 - **12.2a:** Distinguish helpful behavior from concern, equality, reciprocity, and reputation.
@@ -15,7 +15,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **12.7a:** Evaluate benefits and costs of institutional supports for cooperation.
 - **12.8a:** Connect a situation, its interpretation, interaction, and institutions in a testable account.
 
-## Question 1 · Objective 12.1a
+## Question 1 · Objective 12.1a{{attrs[#blk-ripbftz276c8]}}
 
 :::: tabs
 ::: tab Q 1
@@ -28,7 +28,7 @@ Defection yields 5 rather than 3 if the partner cooperates, and 1 rather than 0 
 :::
 ::::
 
-## Question 2 · Objective 12.1a
+## Question 2 · Objective 12.1a{{attrs[#blk-34v0vjagslx8]}}
 
 :::: tabs
 ::: tab Q 2
@@ -41,7 +41,7 @@ Choices may reflect misunderstood options or differently valued outcomes. A mode
 :::
 ::::
 
-## Question 3 · Objective 12.2a
+## Question 3 · Objective 12.2a{{attrs[#blk-exltfzrqrdeq]}}
 
 :::: tabs
 ::: tab Q 3
@@ -54,7 +54,7 @@ The act can benefit others while concern, enjoyment, reputation, and reciprocity
 :::
 ::::
 
-## Question 4 · Objective 12.2a
+## Question 4 · Objective 12.2a{{attrs[#blk-h5jf0l0j9fm5]}}
 
 :::: tabs
 ::: tab Q 4
@@ -67,7 +67,7 @@ No. The actor may lack need information or consider equality appropriate to the 
 :::
 ::::
 
-## Question 5 · Objective 12.3a
+## Question 5 · Objective 12.3a{{attrs[#blk-5q7cdpls8a7q]}}
 
 :::: tabs
 ::: tab Q 5
@@ -80,7 +80,7 @@ It cooperates internally but imposes costs across the boundary. Specify the leve
 :::
 ::::
 
-## Question 6 · Objective 12.3a
+## Question 6 · Objective 12.3a{{attrs[#blk-qr6yhbcnd0vj]}}
 
 :::: tabs
 ::: tab Q 6
@@ -93,7 +93,7 @@ Representatives may prioritize group outcomes and anticipate criticism for conce
 :::
 ::::
 
-## Question 7 · Objective 12.4a
+## Question 7 · Objective 12.4a{{attrs[#blk-o4ejsati9801]}}
 
 :::: tabs
 ::: tab Q 7
@@ -106,7 +106,7 @@ Choosing blue leaves both colors available to the next person. Choosing green re
 :::
 ::::
 
-## Question 8 · Objective 12.4a
+## Question 8 · Objective 12.4a{{attrs[#blk-8ticllc2ybx2]}}
 
 :::: tabs
 ::: tab Q 8
@@ -119,7 +119,7 @@ No. Examine information exchanged, credibility, incentives, and distrust. The re
 :::
 ::::
 
-## Question 9 · Objective 12.5a
+## Question 9 · Objective 12.5a{{attrs[#blk-45auj3gm2vs1]}}
 
 :::: tabs
 ::: tab Q 9
@@ -132,7 +132,7 @@ Map decisions, expectations, allocation rules, and consequences. Determine wheth
 :::
 ::::
 
-## Question 10 · Objective 12.5a
+## Question 10 · Objective 12.5a{{attrs[#blk-nat6evfpn5fe]}}
 
 :::: tabs
 ::: tab Q 10
@@ -145,7 +145,7 @@ No. It bypasses acknowledgment, safety, incentives, and repair. Assess changed c
 :::
 ::::
 
-## Question 11 · Objective 12.6a
+## Question 11 · Objective 12.6a{{attrs[#blk-3aj02u78mqzi]}}
 
 :::: tabs
 ::: tab Q 11
@@ -158,7 +158,7 @@ The facilitator influences process while parties retain decision control, resemb
 :::
 ::::
 
-## Question 12 · Objective 12.6a
+## Question 12 · Objective 12.6a{{attrs[#blk-elzjzw91yc4v]}}
 
 :::: tabs
 ::: tab Q 12
@@ -171,7 +171,7 @@ Assess meaningful voice, consideration of evidence, substantive outcomes, and im
 :::
 ::::
 
-## Question 13 · Objective 12.7a
+## Question 13 · Objective 12.7a{{attrs[#blk-y66ctksqgufv]}}
 
 :::: tabs
 ::: tab Q 13
@@ -184,7 +184,7 @@ Report compliance alongside accuracy, burden distribution, and trust. Investigat
 :::
 ::::
 
-## Question 14 · Objective 12.7a
+## Question 14 · Objective 12.7a{{attrs[#blk-x5gboz54s6uj]}}
 
 :::: tabs
 ::: tab Q 14
@@ -197,7 +197,7 @@ No. Monitoring changes consequences and reputational stakes. Assess behavior whe
 :::
 ::::
 
-## Question 15 · Objective 12.8a
+## Question 15 · Objective 12.8a{{attrs[#blk-s7g0brmdcu10]}}
 
 :::: tabs
 ::: tab Q 15
@@ -210,7 +210,7 @@ It may preserve incompatible incentives, or users may misunderstand or distrust 
 :::
 ::::
 
-## Question 16 · Objective 12.8a
+## Question 16 · Objective 12.8a{{attrs[#blk-8kyv9fw7pdbn]}}
 
 :::: tabs
 ::: tab Q 16
@@ -223,7 +223,7 @@ Integration specifies relationships among selected constructs and evidence for e
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-ghdo1hu60jj7]}}
 
 Van Lange, P. A. M. (2025). Cooperation and conflict. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/DFEX3364
 
