@@ -1,10 +1,10 @@
 # Module 11 Practice: Prejudice, Discrimination, and Intergroup Relations
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Ellemers & Scheepers (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-ab7c7p1ebjci]}}
 
 - **11.1a:** Distinguish beliefs, evaluations, and treatment while identifying their levels of analysis.
 - **11.2a:** Distinguish ingroup preference from outgroup hostility in group-based behavior.
@@ -14,7 +14,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **11.6a:** Match measures and comparisons to a bounded claim about intergroup behavior.
 - **11.7a:** Evaluate contact using interaction quality, status, and consequences for inequality.
 
-## Question 1 · Objective 11.1a
+## Question 1 · Objective 11.1a{{attrs[#blk-tq8merb1edzz]}}
 
 :::: tabs
 ::: tab Q 1
@@ -27,7 +27,7 @@ The trait attribution is a stereotype; its positive tone does not establish equa
 :::
 ::::
 
-## Question 2 · Objective 11.1a
+## Question 2 · Objective 11.1a{{attrs[#blk-21o80w96jjmh]}}
 
 :::: tabs
 ::: tab Q 2
@@ -40,7 +40,7 @@ The disparity requires explanation but does not identify a person or mechanism. 
 :::
 ::::
 
-## Question 3 · Objective 11.2a
+## Question 3 · Objective 11.2a{{attrs[#blk-0liqjxstbgfz]}}
 
 :::: tabs
 ::: tab Q 3
@@ -53,7 +53,7 @@ Include a comparable recipient without the relevant group distinction. A neutral
 :::
 ::::
 
-## Question 4 · Objective 11.2a
+## Question 4 · Objective 11.2a{{attrs[#blk-rwlcw1edl2d7]}}
 
 :::: tabs
 ::: tab Q 4
@@ -66,7 +66,7 @@ No. A mechanism can operate in a limited laboratory task while history, institut
 :::
 ::::
 
-## Question 5 · Objective 11.3a
+## Question 5 · Objective 11.3a{{attrs[#blk-lj9a2qp1h4zu]}}
 
 :::: tabs
 ::: tab Q 5
@@ -79,7 +79,7 @@ The amount of assistance does not reveal whether recipients gain capability or r
 :::
 ::::
 
-## Question 6 · Objective 11.3a
+## Question 6 · Objective 11.3a{{attrs[#blk-sx7gcr409nem]}}
 
 :::: tabs
 ::: tab Q 6
@@ -92,7 +92,7 @@ No. A favorable trait attribution can justify restrictive expectations or roles.
 :::
 ::::
 
-## Question 7 · Objective 11.4a
+## Question 7 · Objective 11.4a{{attrs[#blk-g2mcf5jbl4kq]}}
 
 :::: tabs
 ::: tab Q 7
@@ -105,7 +105,7 @@ No. Compliance can reflect constraints and costs. Measure legitimacy judgments s
 :::
 ::::
 
-## Question 8 · Objective 11.4a
+## Question 8 · Objective 11.4a{{attrs[#blk-y5cqs2s1jr3f]}}
 
 :::: tabs
 ::: tab Q 8
@@ -118,7 +118,7 @@ A member may seek advancement while organizing to change group conditions. Measu
 :::
 ::::
 
-## Question 9 · Objective 11.5a
+## Question 9 · Objective 11.5a{{attrs[#blk-3udq91sxegnu]}}
 
 :::: tabs
 ::: tab Q 9
@@ -131,7 +131,7 @@ Similar opposition can arise from different concerns. Funding reassurance may no
 :::
 ::::
 
-## Question 10 · Objective 11.5a
+## Question 10 · Objective 11.5a{{attrs[#blk-g59fprpz7y37]}}
 
 :::: tabs
 ::: tab Q 10
@@ -144,7 +144,7 @@ No. It could reflect repair, denial, disengagement, or changed interpretation. A
 :::
 ::::
 
-## Question 11 · Objective 11.6a
+## Question 11 · Objective 11.6a{{attrs[#blk-uyq5bvn74le9]}}
 
 :::: tabs
 ::: tab Q 11
@@ -157,7 +157,7 @@ The score describes performance under a procedure, with uncertainty and limited 
 :::
 ::::
 
-## Question 12 · Objective 11.6a
+## Question 12 · Objective 11.6a{{attrs[#blk-zkhj6mmnsabc]}}
 
 :::: tabs
 ::: tab Q 12
@@ -170,7 +170,7 @@ The difference is 10 percentage points. Under a well-controlled design it suppor
 :::
 ::::
 
-## Question 13 · Objective 11.7a
+## Question 13 · Objective 11.7a{{attrs[#blk-vpe9gx5f2hhi]}}
 
 :::: tabs
 ::: tab Q 13
@@ -183,7 +183,7 @@ It may improve the measured evaluation without demonstrating equal participation
 :::
 ::::
 
-## Question 14 · Objective 11.7a
+## Question 14 · Objective 11.7a{{attrs[#blk-kz53w5h5n28a]}}
 
 :::: tabs
 ::: tab Q 14
@@ -196,7 +196,7 @@ It can obscure unequal conditions and specific harms. Evaluate inclusion alongsi
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-r1xys3lc79e8]}}
 
 Ellemers, N., & Scheepers, D. (2025). Intergroup relations: The level, content, and dynamics of cooperation and conflict between groups. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/MVRG3326
 
