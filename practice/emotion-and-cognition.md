@@ -1,10 +1,10 @@
 # Module 6 Practice: Emotion and Cognition
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Niedenthal et al. (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-49moyysldaty]}}
 
 - **6.1a:** Compare explanatory questions and major families of emotion theory.
 - **6.2a:** Evaluate what neural, physiological, expressive, and subjective measures can establish.
@@ -14,7 +14,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **6.6a:** Distinguish synchrony, shared causes, and interpersonal influence.
 - **6.7a:** Design a valid evaluation of emotion inference in a new setting.
 
-## Question 1 · Objective 6.1a
+## Question 1 · Objective 6.1a{{attrs[#blk-d8367bwmbs0r]}}
 
 :::: tabs
 ::: tab Q 1
@@ -27,7 +27,7 @@ No. The observation addresses developmental timing. It neither identifies the re
 :::
 ::::
 
-## Question 2 · Objective 6.1a
+## Question 2 · Objective 6.1a{{attrs[#blk-8cooy3lmela7]}}
 
 :::: tabs
 ::: tab Q 2
@@ -40,7 +40,7 @@ Identify a manipulation on which they make different predictions, such as changi
 :::
 ::::
 
-## Question 3 · Objective 6.2a
+## Question 3 · Objective 6.2a{{attrs[#blk-lyqaaywggxbi]}}
 
 :::: tabs
 ::: tab Q 3
@@ -53,7 +53,7 @@ Heart rate alone does not uniquely identify an emotion. The change could reflect
 :::
 ::::
 
-## Question 4 · Objective 6.2a
+## Question 4 · Objective 6.2a{{attrs[#blk-inqbn7mg57kq]}}
 
 :::: tabs
 ::: tab Q 4
@@ -66,7 +66,7 @@ Test held-out people and meaningfully different tasks or settings, with labels o
 :::
 ::::
 
-## Question 5 · Objective 6.3a
+## Question 5 · Objective 6.3a{{attrs[#blk-6tlijueschbe]}}
 
 :::: tabs
 ::: tab Q 5
@@ -79,7 +79,7 @@ No. The outcomes concern different information. A selective-attention or binding
 :::
 ::::
 
-## Question 6 · Objective 6.3a
+## Question 6 · Objective 6.3a{{attrs[#blk-l04c1s0rpqcs]}}
 
 :::: tabs
 ::: tab Q 6
@@ -92,7 +92,7 @@ Compare the remembered details against an independently established record, usin
 :::
 ::::
 
-## Question 7 · Objective 6.4a
+## Question 7 · Objective 6.4a{{attrs[#blk-swb7ctwcwvlh]}}
 
 :::: tabs
 ::: tab Q 7
@@ -105,7 +105,7 @@ Assess appraisals, prior experience, perceived control, and the details and timi
 :::
 ::::
 
-## Question 8 · Objective 6.4a
+## Question 8 · Objective 6.4a{{attrs[#blk-ts14x8h9ajos]}}
 
 :::: tabs
 ::: tab Q 8
@@ -118,7 +118,7 @@ No. It shows a difference in the measured verbal outcome and no detected behavio
 :::
 ::::
 
-## Question 9 · Objective 6.5a
+## Question 9 · Objective 6.5a{{attrs[#blk-7w8ripdsb8nu]}}
 
 :::: tabs
 ::: tab Q 9
@@ -131,7 +131,7 @@ Context contributes to interpretation; the facial movement alone did not determi
 :::
 ::::
 
-## Question 10 · Objective 6.5a
+## Question 10 · Objective 6.5a{{attrs[#blk-nd8iqtue20h5]}}
 
 :::: tabs
 ::: tab Q 10
@@ -144,7 +144,7 @@ Agreement shows consistent selection among those options under the task conditio
 :::
 ::::
 
-## Question 11 · Objective 6.6a
+## Question 11 · Objective 6.6a{{attrs[#blk-x5d0o337xv7y]}}
 
 :::: tabs
 ::: tab Q 11
@@ -157,7 +157,7 @@ Compare changes with an appropriate non-roommate group and document shared expos
 :::
 ::::
 
-## Question 12 · Objective 6.6a
+## Question 12 · Objective 6.6a{{attrs[#blk-p2zvmtb96u3u]}}
 
 :::: tabs
 ::: tab Q 12
@@ -170,7 +170,7 @@ Not without specifying the regulatory goal and measuring its achievement. The fi
 :::
 ::::
 
-## Question 13 · Objective 6.7a
+## Question 13 · Objective 6.7a{{attrs[#blk-0s267gi4se9d]}}
 
 :::: tabs
 ::: tab Q 13
@@ -183,7 +183,7 @@ It predicts observer labels with 90% accuracy in the tested posed-face task. The
 :::
 ::::
 
-## Question 14 · Objective 6.7a
+## Question 14 · Objective 6.7a{{attrs[#blk-a7zftuk3hcaf]}}
 
 :::: tabs
 ::: tab Q 14
@@ -196,7 +196,7 @@ Collect spontaneous expressions alongside independently obtained, time-matched e
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-5efcl794guis]}}
 
 Niedenthal, P. M., Neta, M., & Wood, A. (2025). Emotion. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/DPPB6535
 
