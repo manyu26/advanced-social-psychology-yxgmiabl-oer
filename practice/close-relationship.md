@@ -1,10 +1,10 @@
 # Module 10 Practice: Attraction, Rejection, and Close Relationships
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Finkel (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-s07onl711i0d]}}
 
 - **10.1a:** Distinguish general desirability, personal preferences, and unique attraction.
 - **10.2a:** Evaluate dyadic, longitudinal, and behavioral evidence in relationship research.
@@ -15,7 +15,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **10.7a:** Distinguish rejection, relationship dissolution, and variation in adjustment.
 - **10.8a:** Evaluate generalization and explain relationships as locally organized patterns.
 
-## Question 1 · Objective 10.1a
+## Question 1 · Objective 10.1a{{attrs[#blk-uo4ly42x891k]}}
 
 :::: tabs
 ::: tab Q 1
@@ -28,7 +28,7 @@ The fitted rating is 7: 5 + 1 + 0.5 + 0.5. Only the final component represents t
 :::
 ::::
 
-## Question 2 · Objective 10.1a
+## Question 2 · Objective 10.1a{{attrs[#blk-10jaj10v1bbk]}}
 
 :::: tabs
 ::: tab Q 2
@@ -41,7 +41,7 @@ No. A general association of warmth with attraction differs from an interaction 
 :::
 ::::
 
-## Question 3 · Objective 10.2a
+## Question 3 · Objective 10.2a{{attrs[#blk-6h52x7otesmt]}}
 
 :::: tabs
 ::: tab Q 3
@@ -54,7 +54,7 @@ The reports are nested in couples and may be correlated. Use an analysis that re
 :::
 ::::
 
-## Question 4 · Objective 10.2a
+## Question 4 · Objective 10.2a{{attrs[#blk-n75pzau32l3e]}}
 
 :::: tabs
 ::: tab Q 4
@@ -67,7 +67,7 @@ Happier couples may communicate differently, or shared conditions may affect bot
 :::
 ::::
 
-## Question 5 · Objective 10.3a
+## Question 5 · Objective 10.3a{{attrs[#blk-7u2k0873g4s3]}}
 
 :::: tabs
 ::: tab Q 5
@@ -80,7 +80,7 @@ No. The episode is compatible with several explanations, including stress, conve
 :::
 ::::
 
-## Question 6 · Objective 10.3a
+## Question 6 · Objective 10.3a{{attrs[#blk-1etkk3uqk8d0]}}
 
 :::: tabs
 ::: tab Q 6
@@ -93,7 +93,7 @@ Change the available arrangement, such as access to an alternative time or share
 :::
 ::::
 
-## Question 7 · Objective 10.4a
+## Question 7 · Objective 10.4a{{attrs[#blk-cg1nsobfuglu]}}
 
 :::: tabs
 ::: tab Q 7
@@ -106,7 +106,7 @@ Other things equal, the second person may report greater commitment. The predict
 :::
 ::::
 
-## Question 8 · Objective 10.4a
+## Question 8 · Objective 10.4a{{attrs[#blk-1x777k5sa4us]}}
 
 :::: tabs
 ::: tab Q 8
@@ -119,7 +119,7 @@ Duration alone does not establish that the relationship improved or that staying
 :::
 ::::
 
-## Question 9 · Objective 10.5a
+## Question 9 · Objective 10.5a{{attrs[#blk-4uxxw1om80vu]}}
 
 :::: tabs
 ::: tab Q 9
@@ -132,7 +132,7 @@ The student may be seeking shared enjoyment or recognition rather than strategy 
 :::
 ::::
 
-## Question 10 · Objective 10.5a
+## Question 10 · Objective 10.5a{{attrs[#blk-sgb1gxt84fzp]}}
 
 :::: tabs
 ::: tab Q 10
@@ -145,7 +145,7 @@ Use repeated events, assess prior satisfaction, and observe or manipulate specif
 :::
 ::::
 
-## Question 11 · Objective 10.6a
+## Question 11 · Objective 10.6a{{attrs[#blk-p8vbrcojpmrr]}}
 
 :::: tabs
 ::: tab Q 11
@@ -158,7 +158,7 @@ The schedule may reduce time, increase stress, and change opportunities for supp
 :::
 ::::
 
-## Question 12 · Objective 10.6a
+## Question 12 · Objective 10.6a{{attrs[#blk-83nh8w0896fg]}}
 
 :::: tabs
 ::: tab Q 12
@@ -171,7 +171,7 @@ Ask whether the fluctuations reflect changing stress, uncertainty, support, or m
 :::
 ::::
 
-## Question 13 · Objective 10.7a
+## Question 13 · Objective 10.7a{{attrs[#blk-9vm2em7bqfmr]}}
 
 :::: tabs
 ::: tab Q 13
@@ -184,7 +184,7 @@ The claim exceeds the time window and population studied. Assess prior relations
 :::
 ::::
 
-## Question 14 · Objective 10.7a
+## Question 14 · Objective 10.7a{{attrs[#blk-362xjz1wnsma]}}
 
 :::: tabs
 ::: tab Q 14
@@ -197,7 +197,7 @@ The participants can differ in desired closeness, perceived intentions, and inte
 :::
 ::::
 
-## Question 15 · Objective 10.8a
+## Question 15 · Objective 10.8a{{attrs[#blk-po8e1btjavrw]}}
 
 :::: tabs
 ::: tab Q 15
@@ -210,7 +210,7 @@ The scale can confuse commitment with an assumption of exclusivity. In an explic
 :::
 ::::
 
-## Question 16 · Objective 10.8a
+## Question 16 · Objective 10.8a{{attrs[#blk-9ic4zku3414l]}}
 
 :::: tabs
 ::: tab Q 16
@@ -223,7 +223,7 @@ Ask what the practice means to each pair, how expectations developed, and how th
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-azasw3vxjsh4]}}
 
 Finkel, E. J. (2025). Romantic relationships. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/NELF6116
 
