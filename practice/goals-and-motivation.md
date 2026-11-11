@@ -1,10 +1,10 @@
 # Module 8 Practice: Goals and Motivation
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Fishbach (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-tfgswsv6ii2q]}}
 
 - **8.1a:** Analyze goal hierarchies, equifinality, and multifinality.
 - **8.2a:** Distinguish intrinsic value, external outcomes, and regulatory orientations.
@@ -14,7 +14,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **8.6a:** Analyze competing goals and distinguish strategic self-control from effortful inhibition.
 - **8.7a:** Distinguish social facilitation, reduced effort, and coordinated division of labor.
 
-## Question 1 · Objective 8.1a
+## Question 1 · Objective 8.1a{{attrs[#blk-ns0bq2n21boj]}}
 
 :::: tabs
 ::: tab Q 1
@@ -27,7 +27,7 @@ The group is multifinal because it serves productivity and friendship. The group
 :::
 ::::
 
-## Question 2 · Objective 8.1a
+## Question 2 · Objective 8.1a{{attrs[#blk-3qgvs7lml9f9]}}
 
 :::: tabs
 ::: tab Q 2
@@ -40,7 +40,7 @@ No. Effort may have shifted to substitute means while the broader goal remained 
 :::
 ::::
 
-## Question 3 · Objective 8.2a
+## Question 3 · Objective 8.2a{{attrs[#blk-07ieobf3xs9t]}}
 
 :::: tabs
 ::: tab Q 3
@@ -53,7 +53,7 @@ No. The activity can carry immediate enjoyment and value as a route to employmen
 :::
 ::::
 
-## Question 4 · Objective 8.2a
+## Question 4 · Objective 8.2a{{attrs[#blk-vx64mt1ycf2m]}}
 
 :::: tabs
 ::: tab Q 4
@@ -66,7 +66,7 @@ Choice alone may leave the task confusing or difficult to carry out. Autonomy su
 :::
 ::::
 
-## Question 5 · Objective 8.3a
+## Question 5 · Objective 8.3a{{attrs[#blk-g32aukyb4nu3]}}
 
 :::: tabs
 ::: tab Q 5
@@ -79,7 +79,7 @@ The rewarded action increased; demonstrated understanding did not improve in the
 :::
 ::::
 
-## Question 6 · Objective 8.3a
+## Question 6 · Objective 8.3a{{attrs[#blk-poxvcv3dsygv]}}
 
 :::: tabs
 ::: tab Q 6
@@ -92,7 +92,7 @@ Assign a reward arrangement and a comparison, measure baseline interest and task
 :::
 ::::
 
-## Question 7 · Objective 8.4a
+## Question 7 · Objective 8.4a{{attrs[#blk-28azbff86gjs]}}
 
 :::: tabs
 ::: tab Q 7
@@ -105,7 +105,7 @@ Two sections remain, or 20% of the original target. The next section completes h
 :::
 ::::
 
-## Question 8 · Objective 8.4a
+## Question 8 · Objective 8.4a{{attrs[#blk-5i91nud8u9l5]}}
 
 :::: tabs
 ::: tab Q 8
@@ -118,7 +118,7 @@ For example: after the Tuesday seminar, the student will spend 25 minutes revisi
 :::
 ::::
 
-## Question 9 · Objective 8.5a
+## Question 9 · Objective 8.5a{{attrs[#blk-q57m1ckym4nk]}}
 
 :::: tabs
 ::: tab Q 9
@@ -131,7 +131,7 @@ The student may lack information about the correct principle or how to transfer 
 :::
 ::::
 
-## Question 10 · Objective 8.5a
+## Question 10 · Objective 8.5a{{attrs[#blk-l5uwe40s4tf2]}}
 
 :::: tabs
 ::: tab Q 10
@@ -144,7 +144,7 @@ Measure performance on an appropriate subsequent task, preferably with a compari
 :::
 ::::
 
-## Question 11 · Objective 8.6a
+## Question 11 · Objective 8.6a{{attrs[#blk-abh8w2rk8d4a]}}
 
 :::: tabs
 ::: tab Q 11
@@ -157,7 +157,7 @@ No. Changing the situation can be an effective self-control strategy. The outcom
 :::
 ::::
 
-## Question 12 · Objective 8.6a
+## Question 12 · Objective 8.6a{{attrs[#blk-edsddbdhd31i]}}
 
 :::: tabs
 ::: tab Q 12
@@ -170,7 +170,7 @@ Waiting may be associated with resources, trust in future delivery, prior learni
 :::
 ::::
 
-## Question 13 · Objective 8.7a
+## Question 13 · Objective 8.7a{{attrs[#blk-hhzomo7zznar]}}
 
 :::: tabs
 ::: tab Q 13
@@ -183,7 +183,7 @@ Not necessarily. If coverage and quality improve because redundant work declines
 :::
 ::::
 
-## Question 14 · Objective 8.7a
+## Question 14 · Objective 8.7a{{attrs[#blk-uzvfgtge0ypm]}}
 
 :::: tabs
 ::: tab Q 14
@@ -196,7 +196,7 @@ Compare groups with matched scheduled time but different support or coordination
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-w24ppoiohlmh]}}
 
 Fishbach, A. (2025). Goals and motivation. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/YBHK1018
 
