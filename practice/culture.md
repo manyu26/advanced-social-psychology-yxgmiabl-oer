@@ -1,10 +1,10 @@
 # Module 7 Practice: Cultural and Cross-Cultural Psychology
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Kashima & Gelfand (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-hw5cspzi2y8u]}}
 
 - **7.1a:** Explain culture without equating it with nationality or personal preference.
 - **7.2a:** Evaluate sampling, measurement, and levels of analysis in cultural comparisons.
@@ -14,7 +14,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **7.6a:** Explain how communication can maintain and transform cultural information.
 - **7.7a:** Design a study of cultural change that separates practices, meanings, and causes.
 
-## Question 1 · Objective 7.1a
+## Question 1 · Objective 7.1a{{attrs[#blk-1ascu93vsbng]}}
 
 :::: tabs
 ::: tab Q 1
@@ -27,7 +27,7 @@ Collect observations across members and situations, ask what participants expect
 :::
 ::::
 
-## Question 2 · Objective 7.1a
+## Question 2 · Objective 7.1a{{attrs[#blk-zn8voerb5cvm]}}
 
 :::: tabs
 ::: tab Q 2
@@ -40,7 +40,7 @@ A population label is being substituted for an individual measure. Measure the r
 :::
 ::::
 
-## Question 3 · Objective 7.2a
+## Question 3 · Objective 7.2a{{attrs[#blk-mitph2etgi0k]}}
 
 :::: tabs
 ::: tab Q 3
@@ -53,7 +53,7 @@ Assess whether the samples represent the populations, whether items function com
 :::
 ::::
 
-## Question 4 · Objective 7.2a
+## Question 4 · Objective 7.2a{{attrs[#blk-3mjjgvptow2w]}}
 
 :::: tabs
 ::: tab Q 4
@@ -66,7 +66,7 @@ No. Group averages can differ while individual distributions overlap substantial
 :::
 ::::
 
-## Question 5 · Objective 7.3a
+## Question 5 · Objective 7.3a{{attrs[#blk-7ks1bovz9ssv]}}
 
 :::: tabs
 ::: tab Q 5
@@ -79,7 +79,7 @@ Not necessarily. Kin-based obligations and generalized trust concern different b
 :::
 ::::
 
-## Question 6 · Objective 7.3a
+## Question 6 · Objective 7.3a{{attrs[#blk-983amgtm1gbo]}}
 
 :::: tabs
 ::: tab Q 6
@@ -92,7 +92,7 @@ Measure relevant reputation concerns, perceived protection, and situational mean
 :::
 ::::
 
-## Question 7 · Objective 7.4a
+## Question 7 · Objective 7.4a{{attrs[#blk-7wknbk1r57am]}}
 
 :::: tabs
 ::: tab Q 7
@@ -105,7 +105,7 @@ Different settings can make different self-representations relevant. Repeated ob
 :::
 ::::
 
-## Question 8 · Objective 7.4a
+## Question 8 · Objective 7.4a{{attrs[#blk-w9ej5ns14qtm]}}
 
 :::: tabs
 ::: tab Q 8
@@ -118,7 +118,7 @@ Identify the actual samples, tasks, languages, and measured dimensions. Ask whet
 :::
 ::::
 
-## Question 9 · Objective 7.5a
+## Question 9 · Objective 7.5a{{attrs[#blk-t3vm7zihzlmc]}}
 
 :::: tabs
 ::: tab Q 9
@@ -131,7 +131,7 @@ Those dimensions answer different questions and can coexist. Measure initiative-
 :::
 ::::
 
-## Question 10 · Objective 7.5a
+## Question 10 · Objective 7.5a{{attrs[#blk-wja82f5vjmkp]}}
 
 :::: tabs
 ::: tab Q 10
@@ -144,7 +144,7 @@ Temporal ordering is unknown, common conditions may affect both, and stronger en
 :::
 ::::
 
-## Question 11 · Objective 7.6a
+## Question 11 · Objective 7.6a{{attrs[#blk-0p0gns6ooue6]}}
 
 :::: tabs
 ::: tab Q 11
@@ -157,7 +157,7 @@ Vary information about the audience’s beliefs while keeping the original story
 :::
 ::::
 
-## Question 12 · Objective 7.6a
+## Question 12 · Objective 7.6a{{attrs[#blk-w6gm2frbvgzm]}}
 
 :::: tabs
 ::: tab Q 12
@@ -170,7 +170,7 @@ No. Transmission success and factual validity are different outcomes. Repetition
 :::
 ::::
 
-## Question 13 · Objective 7.7a
+## Question 13 · Objective 7.7a{{attrs[#blk-0f1o7k1yb2vk]}}
 
 :::: tabs
 ::: tab Q 13
@@ -183,7 +183,7 @@ No. Naming is one indicator of practice and may have several explanations. Measu
 :::
 ::::
 
-## Question 14 · Objective 7.7a
+## Question 14 · Objective 7.7a{{attrs[#blk-glsr5tnyui7l]}}
 
 :::: tabs
 ::: tab Q 14
@@ -196,7 +196,7 @@ Specify which self-domain and social audience matter, recruit across meaningful 
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-zqw3edbsadk8]}}
 
 Kashima, Y., & Gelfand, M. J. (2025). Culture. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/VMTM7805
 
