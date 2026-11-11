@@ -1,10 +1,10 @@
 # Module 9 Practice: Group Processes and Social Influence
 
 ::: info
-Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. Scientific basis: Falk et al. (2025).
+Prepare a response before selecting **Answer**. Each section pairs a reinforcement problem with an interpretation or transfer problem. The worked responses model reasoning rather than a single required opinion. Scenarios and numbers are hypothetical teaching examples. 
 :::
 
-## Learning objectives
+## Learning objectives{{attrs[#blk-lwdzfiwbr9bj]}}
 
 - **9.1a:** Distinguish informational influence, normative influence, and public compliance.
 - **9.2a:** Explain the valuation account without reducing influence to money or one brain region.
@@ -15,7 +15,7 @@ Prepare a response before selecting **Answer**. Each section pairs a reinforceme
 - **9.7a:** Distinguish message exposure, sharing, and downstream influence.
 - **9.8a:** Design a behavior-change evaluation that separates mechanisms and outcomes.
 
-## Question 1 · Objective 9.1a
+## Question 1 · Objective 9.1a{{attrs[#blk-a050kh8ujsed]}}
 
 :::: tabs
 ::: tab Q 1
@@ -28,7 +28,7 @@ It is consistent with public compliance shaped by social consequences. It does n
 :::
 ::::
 
-## Question 2 · Objective 9.1a
+## Question 2 · Objective 9.1a{{attrs[#blk-6hvsp8iyrysw]}}
 
 :::: tabs
 ::: tab Q 2
@@ -41,7 +41,7 @@ No. Alignment can occur through useful information and improve accuracy. Specify
 :::
 ::::
 
-## Question 3 · Objective 9.2a
+## Question 3 · Objective 9.2a{{attrs[#blk-3pi4mlu6efhm]}}
 
 :::: tabs
 ::: tab Q 3
@@ -54,7 +54,7 @@ Measure perceived identity relevance, the relative appeal of volunteering, and a
 :::
 ::::
 
-## Question 4 · Objective 9.2a
+## Question 4 · Objective 9.2a{{attrs[#blk-5qrqt36swqpd]}}
 
 :::: tabs
 ::: tab Q 4
@@ -67,7 +67,7 @@ That the activity is necessary or sufficient for the behavioral change requires 
 :::
 ::::
 
-## Question 5 · Objective 9.3a
+## Question 5 · Objective 9.3a{{attrs[#blk-ytgvr5ghsr5x]}}
 
 :::: tabs
 ::: tab Q 5
@@ -80,7 +80,7 @@ The message can change different components of value for each recipient. Collabo
 :::
 ::::
 
-## Question 6 · Objective 9.3a
+## Question 6 · Objective 9.3a{{attrs[#blk-mdx9g9sxiysi]}}
 
 :::: tabs
 ::: tab Q 6
@@ -93,7 +93,7 @@ Recipients may infer that an expert has reliable evidence, or they may expect ap
 :::
 ::::
 
-## Question 7 · Objective 9.4a
+## Question 7 · Objective 9.4a{{attrs[#blk-bgzw2dzv14os]}}
 
 :::: tabs
 ::: tab Q 7
@@ -106,7 +106,7 @@ No. Lower effort can increase participation without changing evaluation. A revis
 :::
 ::::
 
-## Question 8 · Objective 9.4a
+## Question 8 · Objective 9.4a{{attrs[#blk-1331rnbzcjh2]}}
 
 :::: tabs
 ::: tab Q 8
@@ -119,7 +119,7 @@ The observed difference is 15 percentage points, equivalent to a 50% increase re
 :::
 ::::
 
-## Question 9 · Objective 9.5a
+## Question 9 · Objective 9.5a{{attrs[#blk-upw4ov624wv2]}}
 
 :::: tabs
 ::: tab Q 9
@@ -132,7 +132,7 @@ It communicates disapproval but also suggests that lateness is common. Recipient
 :::
 ::::
 
-## Question 10 · Objective 9.5a
+## Question 10 · Objective 9.5a{{attrs[#blk-keyjybpaw9xa]}}
 
 :::: tabs
 ::: tab Q 10
@@ -145,7 +145,7 @@ No. Approval is an injunctive-norm measure; observed sharing is a descriptive-be
 :::
 ::::
 
-## Question 11 · Objective 9.6a
+## Question 11 · Objective 9.6a{{attrs[#blk-9uqe0dvj0b67]}}
 
 :::: tabs
 ::: tab Q 11
@@ -158,7 +158,7 @@ Compare initial private judgments and examine whether members introduce and use 
 :::
 ::::
 
-## Question 12 · Objective 9.6a
+## Question 12 · Objective 9.6a{{attrs[#blk-mf3ghoy74xpm]}}
 
 :::: tabs
 ::: tab Q 12
@@ -171,7 +171,7 @@ Participation increased under the measured conditions, while the study did not d
 :::
 ::::
 
-## Question 13 · Objective 9.7a
+## Question 13 · Objective 9.7a{{attrs[#blk-bgu8emvpbzlm]}}
 
 :::: tabs
 ::: tab Q 13
@@ -184,7 +184,7 @@ It documents sharing and no detected uptake change in the evaluated setting. The
 :::
 ::::
 
-## Question 14 · Objective 9.7a
+## Question 14 · Objective 9.7a{{attrs[#blk-tudlppzdfm99]}}
 
 :::: tabs
 ::: tab Q 14
@@ -197,7 +197,7 @@ Randomize an information intervention or access among network members when feasi
 :::
 ::::
 
-## Question 15 · Objective 9.8a
+## Question 15 · Objective 9.8a{{attrs[#blk-huq5cjyv690y]}}
 
 :::: tabs
 ::: tab Q 15
@@ -210,7 +210,7 @@ Report the observed recall and intention outcomes and the limits of the behavior
 :::
 ::::
 
-## Question 16 · Objective 9.8a
+## Question 16 · Objective 9.8a{{attrs[#blk-2scfrh6np9fr]}}
 
 :::: tabs
 ::: tab Q 16
@@ -223,7 +223,7 @@ Match the central facts, length, source, and exposure as closely as the research
 :::
 ::::
 
-## References and attribution
+## References and attribution{{attrs[#blk-h54j8e5h2e1u]}}
 
 Falk, E., Scholz, C., Cooper, N., & Gomes, V. (2025). Behavior change and social influence. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. https://doi.org/10.70400/CGDA1887
 
