@@ -12,6 +12,7 @@ theme: paper
 **Core Reading:** Ellemers, N., & Scheepers, D. (2025). Intergroup relations: The level, content, and dynamics of cooperation and conflict between groups. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/MVRG3326](https://doi.org/10.70400/MVRG3326)
 
 <!-- slide -->
+
 # The module sequence and learning objectives
 - 11.1 Stereotypes, prejudice, and discrimination: Distinguish beliefs, evaluations, and treatment while identifying their levels of analysis.
 - 11.2 Categorization and social identity: Distinguish ingroup preference from outgroup hostility in group-based behavior.
