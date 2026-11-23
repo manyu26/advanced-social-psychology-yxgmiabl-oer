@@ -12,15 +12,14 @@ theme: paper
 **Core Reading:** Ellemers, N., & Scheepers, D. (2025). Intergroup relations: The level, content, and dynamics of cooperation and conflict between groups. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/MVRG3326](https://doi.org/10.70400/MVRG3326)
 
 <!-- slide template=outline -->
-# The module sequence
-- 11.1 Stereotypes, prejudice, and discrimination
-- 11.2 Categorization and social identity
-- 11.3 Content, status, and forms of bias
-- 11.4 Legitimacy and responses to inequality
-- 11.5 Threat, history, and collective emotions
-- 11.6 Measuring bias and testing mechanisms
-- 11.7 Contact and intervention design
-
+# The module sequence and learning objectives
+- 11.1 Stereotypes, prejudice, and discrimination: Distinguish beliefs, evaluations, and treatment while identifying their levels of analysis.
+- 11.2 Categorization and social identity: Distinguish ingroup preference from outgroup hostility in group-based behavior.
+- 11.3 Content, status, and forms of bias: Analyze how apparently helpful behavior can preserve unequal status.
+- 11.4 Legitimacy and responses to inequality: Compare hierarchy maintenance with responses available to lower-status group members.
+- 11.5 Threat, history, and collective emotions: Explain how interpretations of history and threat can sustain conflict.
+- 11.6 Measuring bias and testing mechanisms: Match measures and comparisons to a bounded claim about intergroup behavior.
+- 11.7 Contact and intervention design: Evaluate contact using interaction quality, status, and consequences for inequality.
 <!-- slide -->
 ## Judgments and unequal outcomes
 ![Different levels of evidence require different explanatory comparisons.](https://alembic.orz.how/d/doc-yr2tc8tdadoa)
