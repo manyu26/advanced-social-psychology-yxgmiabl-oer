@@ -2,28 +2,14 @@
 title: Module 11 — Prejudice, Discrimination, and Intergroup Relations
 ratio: 16:9
 author: Manyu Li · PSYC 538
+
+theme: paper
 -->
 
 <!-- slide template=title -->
 # Prejudice, Discrimination, and Intergroup Relations
 ## Module 11 · Advanced Social Psychology
 **Core Reading:** Ellemers, N., & Scheepers, D. (2025). Intergroup relations: The level, content, and dynamics of cooperation and conflict between groups. In D. T. Gilbert, S. T. Fiske, E. J. Finkel, & W. B. Mendes (Eds.), *The handbook of social psychology* (6th ed.). Situational Press. [https://doi.org/10.70400/MVRG3326](https://doi.org/10.70400/MVRG3326)
-
-<!-- slide -->
-## Learning objectives
-- **11.1a:** Distinguish beliefs, evaluations, and treatment while identifying their levels of analysis.
-- **11.2a:** Distinguish ingroup preference from outgroup hostility in group-based behavior.
-- **11.3a:** Analyze how apparently helpful behavior can preserve unequal status.
-
-<!-- slide -->
-## Learning objectives
-- **11.4a:** Compare hierarchy maintenance with responses available to lower-status group members.
-- **11.5a:** Explain how interpretations of history and threat can sustain conflict.
-- **11.6a:** Match measures and comparisons to a bounded claim about intergroup behavior.
-
-<!-- slide -->
-## Learning objectives
-- **11.7a:** Evaluate contact using interaction quality, status, and consequences for inequality.
 
 <!-- slide template=outline -->
 # The module sequence
